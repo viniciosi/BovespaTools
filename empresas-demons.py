@@ -32,37 +32,42 @@ import argparse
 # Alguma definições
 ###############################################################################
 
-baseurl = "http://www.bmfbovespa.com.br/cias-listadas/empresas-listadas/ResumoDemonstrativosFinanceiros.aspx"
+#baseurl = "http://www.bmfbovespa.com.br/cias-listadas/empresas-listadas/ResumoDemonstrativosFinanceiros.aspx"
+baseurl = "http://bvmf.bmfbovespa.com.br/cias-listadas/empresas-listadas/ResumoDemonstrativosFinanceiros.aspx"
 queryurl = baseurl + "?codigoCvm=%s&idioma=pt-br"
 
 matext = '.mat'
 
-anoddid = 'ctl00_contentPlaceHolderConteudo_cmbAno_cmbAno'
+anoddid = 'ctl00_contentPlaceHolderConteudo_cmbAno'
 itrdocid = 'ctl00_contentPlaceHolderConteudo_rptDocumentosITR_ctl%02d_lnkDocumento'
 dfpdocid = 'ctl00_contentPlaceHolderConteudo_rptDocumentosDFP_ctl%02d_lnkDocumento'
-grupoid1 = 'ctl00_cphPopUp_cmbGrupo_cmbGrupo'
+#grupoid1 = 'ctl00_cphPopUp_cmbGrupo_cmbGrupo'
+grupoid1 = 'cmbGrupo'
 grupoval1 = {
     'i' : 'DFs Individuais',
     'c' : 'DFs Consolidadas'
 }
-quadroid1 = 'ctl00_cphPopUp_cmbQuadro_cmbQuadro'
+#quadroid1 = 'ctl00_cphPopUp_cmbQuadro_cmbQuadro'
+quadroid1 = 'cmbQuadro'
 quadroval1 = {
     'bpa' : 'Balanço Patrimonial Ativo',
     'bpp' : 'Balanço Patrimonial Passivo',
     'dre' : 'Demonstração do Resultado',
     'dfc' : 'Demonstração do Fluxo de Caixa'
 }
-formframeid = 'ctl00_cphPopUp_iFrameFormulariosFilho'
+#formframeid = 'ctl00_cphPopUp_iFrameFormulariosFilho'
+formframeid = 'iFrameFormulariosFilho'
 
 datefmt = '%d/%m/%Y'
 
-clicktimeout = 10
+clicktimeout = 1
 timeoutsleep = 1
 
 headerxpath = "//table[@id='ctl00_cphPopUp_tbDados']//tr[1]//td"
 tablexpath = "//table[@id='ctl00_cphPopUp_tbDados']//td"
 
-asserttitle1 = '| Empresas Listadas | BM&FBOVESPA'
+#asserttitle1 = '| Empresas Listadas | BM&FBOVESPA'
+asserttitle1 = 'Untitled Page'
 asserttitle2 = 'ENET - Formulário de Referência'
 assertheader = (
     ' Conta ',
@@ -75,14 +80,17 @@ assertheader = (
 
 def clickDropDownItem(ddid, text, driver):
     
-    dropimg = driver.find_element_by_id("%s_Image" % str(ddid))
+    #dropimg = driver.find_element_by_id("%s_Image" % str(ddid))
+    dropimg = driver.find_element_by_id("%s" % str(ddid))
     
     assert dropimg is not None
     
-    dropimg.click()
+    # dropimg.click()
+    driver.execute_script("arguments[0].click();", dropimg)
 
     dropitem = None
-    for i in driver.find_elements_by_xpath(("//*[@id='%s_DropDown']//*" % str(ddid))):
+    # for i in driver.find_elements_by_xpath(("//*[@id='%s_DropDown']//*" % str(ddid))):
+    for i in driver.find_elements_by_xpath(("//*[@id='%s']//*" % str(ddid))):
         if i.text == str(text):
             dropitem = i
             break
@@ -150,15 +158,20 @@ def getTri1To3Table(cvm, trimester, year, grupo, quadro):
     # Cria um driver do Firefox (mude pro seu navegador), abre a 
     # página de query e verifica se está na página certa
 
-    driver = webdriver.Firefox()
+    #driver = webdriver.Firefox()
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--no-sandbox')
+
+    driver = webdriver.Chrome(executable_path=r"C:\Users\vinicio_si\Downloads\chromedriver.exe", chrome_options=chrome_options)
+    
     driver.get(queryurl % str(cvm))
 
-    assert driver.title == asserttitle1
+    #assert driver.title == asserttitle1
 
     # Seleciona o ano do periodo
 
     clickDropDownItem(anoddid, year, driver)
-
+    
     # Procura o link do documento para o periodo
 
     itritem = getReportDocElem(itrdocid, trimester, year, driver)
@@ -166,19 +179,20 @@ def getTri1To3Table(cvm, trimester, year, grupo, quadro):
     assert itritem is not None
 
     itritem.click()
-
+    
     # Muda para a nova janela 
 
     infowin = driver.window_handles[-1]
     driver.switch_to_window(infowin)
 
-    assert driver.title == asserttitle2
+    # assert driver.title == asserttitle2
 
     # Seleciona a DRE individual
 
     clickDropDownItem(grupoid1, grupo, driver)
+    
     clickDropDownItem(quadroid1, quadro, driver)
-
+    
     # Muda para o frame do resultado
 
     frame = driver.find_element_by_id(formframeid)
@@ -287,10 +301,15 @@ def getTri4Table(cvm, year, grupo, quadro):
     # Cria um driver do Firefox (mude pro seu navegador), abre a 
     # página de query e verifica se está na página certa
 
-    driver = webdriver.Firefox()
+    #driver = webdriver.Firefox()
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--no-sandbox')
+
+    driver = webdriver.Chrome(executable_path=r"C:\Users\vinicio_si\Downloads\chromedriver.exe", chrome_options=chrome_options)
+
     driver.get(queryurl % str(cvm))
 
-    assert driver.title == asserttitle1
+    #assert driver.title == asserttitle1
 
     # Seleciona o ano do periodo
 
@@ -309,7 +328,7 @@ def getTri4Table(cvm, year, grupo, quadro):
     infowin = driver.window_handles[-1]
     driver.switch_to_window(infowin)
 
-    assert driver.title == asserttitle2
+    # assert driver.title == asserttitle2
 
     # Seleciona a DRE individual
 
@@ -424,10 +443,10 @@ if __name__ == '__main__':
     # Parsing dos argumentos de entrada
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--out', type=str, default='', help='arquivo de saida')
-    parser.add_argument('--cvm', type=int, nargs=1, help='Codigo CVM da empresa')
+    parser.add_argument('--out', type=str, default='demonstrativoPetro.txt', help='arquivo de saida')
+    parser.add_argument('--cvm', type=int, default=[9512], nargs=1, help='Codigo CVM da empresa')
     parser.add_argument('--tri', type=int, default=-1, help='Trimestre')
-    parser.add_argument('--year', type=int, default=-1, help='Ano')
+    parser.add_argument('--year', type=int, default=2018, help='Ano')
     parser.add_argument('--mode', type=str, default='idre', help='Modo')
     args = parser.parse_args()
 

@@ -30,11 +30,13 @@ import argparse
 # Alguma definições
 ###############################################################################
 
-baseurl = "http://www.bmfbovespa.com.br/cias-listadas/empresas-listadas/BuscaEmpresaListada.aspx"
+#baseurl = "http://www.bmfbovespa.com.br/cias-listadas/empresas-listadas/BuscaEmpresaListada.aspx"
+baseurl = "http://bvmf.bmfbovespa.com.br/cias-listadas/empresas-listadas/BuscaEmpresaListada.aspx"
 queryurl = baseurl + "?idioma=pt-br"
 
 matext = '.mat'
 
+allbtnid = 'ctl00$contentPlaceHolderConteudo$BuscaNomeEmpresa1$btnTodas'
 allbtnid = 'ctl00$contentPlaceHolderConteudo$BuscaNomeEmpresa1$btnTodas'
 
 clicktimeout = 10
@@ -43,11 +45,11 @@ timeoutsleep = 1
 cvmFrag = 'codigoCvm='
 cvmHeader = 'Código CVM'
 
-headerxpath = "//*[@class='tabela']//thead//tr//*"
-tablexpath = "//*[@class='tabela']//tr//td"
-linkxpath = "//*[@class='tabela']//tr//td//a"
+headerxpath = "//*[@class='MasterTable_SiteBmfBovespa gridctl00_contentPlaceHolderConteudo_BuscaNomeEmpresa1_grdEmpresa_ctl01']//thead//tr//*"
+tablexpath = "//*[@class='MasterTable_SiteBmfBovespa gridctl00_contentPlaceHolderConteudo_BuscaNomeEmpresa1_grdEmpresa_ctl01']//tr//td"
+linkxpath = "//*[@class='MasterTable_SiteBmfBovespa gridctl00_contentPlaceHolderConteudo_BuscaNomeEmpresa1_grdEmpresa_ctl01']//tr//td//a"
 
-asserttitle = 'Empresas Listadas | BM&FBOVESPA'
+asserttitle = 'Untitled Page'
 assertheader = (
     'Razão Social',
     'Nome de Pregão',
@@ -63,7 +65,13 @@ def main(outfile):
     # Cria um driver do Firefox (mude pro seu navegador), abre a 
     # página de query e verifica se está na página certa
 
-    driver = webdriver.Firefox()
+    #driver = webdriver.Firefox()
+
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--no-sandbox')
+    
+    driver = webdriver.Chrome(executable_path=r"C:\Users\vinicio_si\Downloads\chromedriver.exe", chrome_options=chrome_options)
+    
     driver.get(queryurl)
 
     assert driver.title == asserttitle
@@ -72,7 +80,7 @@ def main(outfile):
     # se assegura que ele exista e envia um clique
 
     allbtn = driver.find_element_by_name(allbtnid)
-
+        
     assert allbtn is not None
 
     allbtn.click()
@@ -84,7 +92,7 @@ def main(outfile):
         header = [elem.text for 
                   elem in 
                   driver.find_elements_by_xpath((headerxpath))]
-        
+
         if len(header) != 0:
             break
         
@@ -93,7 +101,7 @@ def main(outfile):
     table = [elem.text for 
              elem in 
              driver.find_elements_by_xpath((tablexpath))]
-
+    
     links = [elem.get_attribute("href") for 
              elem in 
              driver.find_elements_by_xpath((linkxpath))]
@@ -145,7 +153,7 @@ if __name__ == '__main__':
 
     # Parsing dos argumentos de entrada
     parser = argparse.ArgumentParser()
-    parser.add_argument('--out', type=str, default='', help='arquivo de saida')
+    parser.add_argument('--out', type=str, default='empresas.txt', help='arquivo de saida')
     args = parser.parse_args()
 
     main(args.out)
