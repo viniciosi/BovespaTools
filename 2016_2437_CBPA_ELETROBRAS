@@ -1,0 +1,88 @@
+ Conta         ; Descrição                                                     ;T4/2016      ;T4/2015      ;T4/2014      
+ 1             ; Ativo Total                                                   ; 170.499.429 ; 149.645.408 ; 144.631.697 
+ 1.01          ; Ativo Circulante                                              ; 29.272.652  ; 29.437.396  ; 30.551.193  
+ 1.01.01       ; Caixa e Equivalentes de Caixa                                 ; 2.361.014   ; 2.041.406   ; 3.150.603   
+ 1.01.01.01    ; Caixa                                                         ; 679.668     ; 1.393.973   ; 1.407.078   
+ 1.01.01.02    ; Caixa restrito                                                ; 1.681.346   ; 647.433     ; 1.743.525   
+ 1.01.02       ; Aplicações Financeiras                                        ; 5.497.978   ; 6.842.774   ; 3.730.345   
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo                ;             ;             ;             
+ 1.01.02.01.01 ; Títulos para Negociação                                       ;             ;             ;             
+ 1.01.02.01.02 ; Títulos Disponíveis para Venda                                ;             ;             ;             
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado          ; 5.497.978   ; 6.842.774   ; 3.730.345   
+ 1.01.02.02.01 ; Títulos Mantidos até o Vencimento                             ; 5.497.978   ; 6.842.774   ; 3.730.345   
+ 1.01.03       ; Contas a Receber                                              ; 4.402.278   ; 4.137.501   ; 4.427.216   
+ 1.01.03.01    ; Clientes                                                      ; 4.402.278   ; 4.137.501   ; 4.427.216   
+ 1.01.03.02    ; Outras Contas a Receber                                       ;             ;             ;             
+ 1.01.04       ; Estoques                                                      ; 996.632     ; 1.034.122   ; 852.933     
+ 1.01.04.01    ; Almoxarifado                                                  ; 540.895     ; 631.669     ; 512.614     
+ 1.01.04.02    ; Estoque                                                       ; 455.737     ; 402.453     ; 340.319     
+ 1.01.05       ; Ativos Biológicos                                             ;             ;             ;             
+ 1.01.06       ; Tributos a Recuperar                                          ; 1.085.520   ; 716.651     ; 900.431     
+ 1.01.06.01    ; Tributos Correntes a Recuperar                                ; 1.085.520   ; 716.651     ; 900.431     
+ 1.01.07       ; Despesas Antecipadas                                          ;             ;             ;             
+ 1.01.08       ; Outros Ativos Circulantes                                     ; 14.929.230  ; 14.664.942  ; 17.489.665  
+ 1.01.08.01    ; Ativos Não-Correntes a Venda                                  ;             ;             ;             
+ 1.01.08.01.01 ; Ativos não circulantes classificados como mantidos para venda ;             ;             ;             
+ 1.01.08.02    ; Ativos de Operações Descontinuadas                            ;             ;             ;             
+ 1.01.08.03    ; Outros                                                        ; 14.929.230  ; 14.664.942  ; 17.489.665  
+ 1.01.08.03.01 ; Financiamentos e empréstimos                                  ; 3.025.938   ; 3.187.226   ; 2.696.021   
+ 1.01.08.03.02 ; Conta de consumo de combustível - CCC                         ; 195.966     ; 195.966     ; 521.964     
+ 1.01.08.03.03 ; Remuneração de participações monetárias                       ; 318.455     ; 309.360     ; 289.574     
+ 1.01.08.03.04 ; Direito de Ressarcimento                                      ; 1.657.962   ; 2.265.242   ; 3.673.639   
+ 1.01.08.03.05 ; Impostos e Contribuições Sociais                              ; 1.086.367   ; 1.475.598   ; 762.726     
+ 1.01.08.03.06 ; Indenizações - Lei 12.783/2013                                ; 0           ; 0           ; 3.738.295   
+ 1.01.08.03.07 ; Ativo financeiro - Concessão de Serviços Públicos             ; 2.337.513   ; 965.212     ; 3.437.521   
+ 1.01.08.03.08 ; Instrumentos financeiros                                      ; 127.808     ; 21.307      ; 124.635     
+ 1.01.08.03.09 ; Risco Hidrológico                                             ; 109.535     ; 195.830     ; 0           
+ 1.01.08.03.10 ; Ativos mantidos para venda                                    ; 4.406.213   ; 4.623.785   ; 0           
+ 1.01.08.03.11 ; Diversos                                                      ; 1.663.473   ; 1.425.416   ; 2.245.290   
+ 1.02          ; Ativo Não Circulante                                          ; 141.226.777 ; 120.208.012 ; 114.080.504 
+ 1.02.01       ; Ativo Realizável a Longo Prazo                                ; 87.120.579  ; 67.771.686  ; 61.476.384  
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo                ;             ;             ;             
+ 1.02.01.01.01 ; Títulos para Negociação                                       ;             ;             ;             
+ 1.02.01.01.02 ; Títulos Disponíveis para Venda                                ;             ;             ;             
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado          ; 247.235     ; 194.990     ; 224.734     
+ 1.02.01.02.01 ; Títulos Mantidos até o Vencimento                             ; 247.235     ; 194.990     ; 224.734     
+ 1.02.01.03    ; Contas a Receber                                              ; 2.079.025   ; 1.833.457   ; 1.743.504   
+ 1.02.01.03.01 ; Clientes                                                      ; 2.079.025   ; 1.833.457   ; 1.743.504   
+ 1.02.01.03.02 ; Outras Contas a Receber                                       ;             ;             ;             
+ 1.02.01.04    ; Estoques                                                      ; 675.269     ; 578.425     ; 661.489     
+ 1.02.01.04.01 ; Almoxarifado                                                  ;             ;             ;             
+ 1.02.01.04.02 ; Estoque de Combustível Nuclear                                ; 675.269     ; 578.425     ; 661.489     
+ 1.02.01.05    ; Ativos Biológicos                                             ;             ;             ;             
+ 1.02.01.06    ; Tributos Diferidos                                            ; 4.033.280   ; 5.690.777   ; 5.005.762   
+ 1.02.01.06.01 ; Imposto de Renda e Contribuição Social Diferidos              ; 1.705.414   ; 2.623.186   ; 2.538.131   
+ 1.02.01.06.02 ; Imposto de renda e contribuição social                        ; 2.327.866   ; 3.067.591   ; 2.467.631   
+ 1.02.01.07    ; Despesas Antecipadas                                          ;             ;             ;             
+ 1.02.01.08    ; Créditos com Partes Relacionadas                              ;             ;             ;             
+ 1.02.01.08.01 ; Créditos com Coligadas                                        ;             ;             ;             
+ 1.02.01.08.03 ; Créditos com Controladores                                    ;             ;             ;             
+ 1.02.01.08.04 ; Créditos com Outras Partes Relacionadas                       ;             ;             ;             
+ 1.02.01.09    ; Outros Ativos Não Circulantes                                 ; 80.085.770  ; 59.474.037  ; 53.840.895  
+ 1.02.01.09.01 ; Ativos Não-Correntes a Venda                                  ;             ;             ;             
+ 1.02.01.09.02 ; Ativos de Operações Descontinuadas                            ;             ;             ;             
+ 1.02.01.09.03 ; Ativo financeiro - Concessão de Serviço Público               ; 52.749.546  ; 28.416.433  ; 28.969.262  
+ 1.02.01.09.04 ; Financiamentos e empréstimos                                  ; 10.158.306  ; 14.400.394  ; 11.988.543  
+ 1.02.01.09.05 ; Cauções e depósitos vinculados                                ; 6.259.272   ; 5.079.707   ; 3.808.155   
+ 1.02.01.09.06 ; Conta de consumo de combustível                               ; 6.919       ; 13.331      ; 3.944       
+ 1.02.01.09.07 ; Adiantamento para futuro aumento de capital                   ; 1.617.916   ; 1.215.532   ; 1.140.633   
+ 1.02.01.09.08 ; Instrumentos financeiros derivativos                          ; 100.965     ; 25.004      ; 135.276     
+ 1.02.01.09.09 ; Direito de Ressarcimento                                      ; 7.507.024   ; 8.238.140   ; 6.129.423   
+ 1.02.01.09.10 ; Indenizações - Lei 12.783/2013                                ;             ;             ;             
+ 1.02.01.09.11 ; Reembolso FUNAC                                               ; 0           ; 0           ; 595.445     
+ 1.02.01.09.12 ; Risco Hidrológico                                             ; 457.677     ; 598.161     ; 0           
+ 1.02.01.09.13 ; Diversos                                                      ; 1.228.145   ; 1.487.335   ; 1.070.214   
+ 1.02.02       ; Investimentos                                                 ; 26.531.534  ; 21.954.530  ; 20.070.517  
+ 1.02.02.01    ; Participações Societárias                                     ; 26.531.534  ; 21.954.530  ; 20.070.517  
+ 1.02.02.01.01 ; Participações em Coligadas                                    ; 25.173.611  ; 20.777.270  ; 18.700.146  
+ 1.02.02.01.04 ; Outras Participações Societárias                              ; 1.357.923   ; 1.177.260   ; 1.370.371   
+ 1.02.02.02    ; Propriedades para Investimento                                ;             ;             ;             
+ 1.02.03       ; Imobilizado                                                   ; 26.812.925  ; 29.546.645  ; 31.168.232  
+ 1.02.03.01    ; Imobilizado em Operação                                       ; 26.267.996  ; 26.219.627  ; 26.282.047  
+ 1.02.03.02    ; Imobilizado Arrendado                                         ;             ;             ;             
+ 1.02.03.03    ; Imobilizado em Andamento                                      ; 544.929     ; 3.327.018   ; 4.886.185   
+ 1.02.04       ; Intangível                                                    ; 761.739     ; 935.151     ; 1.365.371   
+ 1.02.04.01    ; Intangíveis                                                   ; 761.739     ; 935.151     ; 1.365.371   
+ 1.02.04.01.01 ; Contrato de Concessão                                         ;             ;             ;             
+ 1.02.04.01.02 ; Outros                                                        ; 761.739     ; 935.151     ; 1.365.371   
+ 1.02.04.02    ; Goodwill                                                      ;             ;             ;             

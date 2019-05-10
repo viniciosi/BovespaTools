@@ -1,0 +1,60 @@
+ Conta         ; Descrição                                            ;T4/2011  ;T4/2010  ;T4/2009  
+ 1             ; Ativo Total                                          ; 508.312 ; 551.556 ; 551.614 
+ 1.01          ; Ativo Circulante                                     ; 140.934 ; 147.391 ; 119.290 
+ 1.01.01       ; Caixa e Equivalentes de Caixa                        ; 3.428   ; 4.313   ; 553     
+ 1.01.02       ; Aplicações Financeiras                               ;         ;         ;         
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;         ;         
+ 1.01.02.01.01 ; Títulos para Negociação                              ;         ;         ;         
+ 1.01.02.01.02 ; Títulos Disponíveis para Venda                       ;         ;         ;         
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ;         ;         ;         
+ 1.01.02.02.01 ; Títulos Mantidos até o Vencimento                    ;         ;         ;         
+ 1.01.03       ; Contas a Receber                                     ; 73.870  ; 87.715  ; 69.502  
+ 1.01.03.01    ; Clientes                                             ; 73.870  ; 87.715  ; 69.502  
+ 1.01.03.02    ; Outras Contas a Receber                              ;         ;         ;         
+ 1.01.04       ; Estoques                                             ; 28.590  ; 43.455  ; 31.467  
+ 1.01.05       ; Ativos Biológicos                                    ;         ;         ;         
+ 1.01.06       ; Tributos a Recuperar                                 ; 28.780  ; 2.089   ; 7.024   
+ 1.01.06.01    ; Tributos Correntes a Recuperar                       ; 28.780  ; 2.089   ; 7.024   
+ 1.01.07       ; Despesas Antecipadas                                 ; 1.646   ; 1.511   ; 3.090   
+ 1.01.08       ; Outros Ativos Circulantes                            ; 4.620   ; 8.308   ; 7.654   
+ 1.01.08.01    ; Ativos Não-Correntes a Venda                         ;         ;         ;         
+ 1.01.08.02    ; Ativos de Operações Descontinuadas                   ;         ;         ;         
+ 1.01.08.03    ; Outros                                               ; 4.620   ; 8.308   ; 7.654   
+ 1.02          ; Ativo Não Circulante                                 ; 367.378 ; 404.165 ; 432.324 
+ 1.02.01       ; Ativo Realizável a Longo Prazo                       ; 68.591  ; 98.620  ; 119.909 
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;         ;         
+ 1.02.01.01.01 ; Títulos para Negociação                              ;         ;         ;         
+ 1.02.01.01.02 ; Títulos Disponíveis para Venda                       ;         ;         ;         
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ;         ;         ;         
+ 1.02.01.02.01 ; Títulos Mantidos até o Vencimento                    ;         ;         ;         
+ 1.02.01.03    ; Contas a Receber                                     ; 0       ; 0       ; 23      
+ 1.02.01.03.01 ; Clientes                                             ; 0       ; 0       ; 23      
+ 1.02.01.03.02 ; Outras Contas a Receber                              ;         ;         ;         
+ 1.02.01.04    ; Estoques                                             ;         ;         ;         
+ 1.02.01.05    ; Ativos Biológicos                                    ;         ;         ;         
+ 1.02.01.06    ; Tributos Diferidos                                   ; 23.112  ; 56.765  ; 81.216  
+ 1.02.01.06.01 ; Imposto de Renda e Contribuição Social Diferidos     ; 23.112  ; 56.765  ; 81.216  
+ 1.02.01.07    ; Despesas Antecipadas                                 ;         ;         ;         
+ 1.02.01.08    ; Créditos com Partes Relacionadas                     ;         ;         ;         
+ 1.02.01.08.01 ; Créditos com Coligadas                               ;         ;         ;         
+ 1.02.01.08.03 ; Créditos com Controladores                           ;         ;         ;         
+ 1.02.01.08.04 ; Créditos com Outras Partes Relacionadas              ;         ;         ;         
+ 1.02.01.09    ; Outros Ativos Não Circulantes                        ; 45.479  ; 41.855  ; 38.670  
+ 1.02.01.09.01 ; Ativos Não-Correntes a Venda                         ;         ;         ;         
+ 1.02.01.09.02 ; Ativos de Operações Descontinuadas                   ;         ;         ;         
+ 1.02.01.09.03 ; Tributos a Recuperar                                 ; 21.644  ; 21.029  ; 20.690  
+ 1.02.01.09.04 ; Depósitos Judiciais                                  ; 16.219  ; 13.044  ; 12.073  
+ 1.02.01.09.05 ; Outros                                               ; 7.616   ; 7.782   ; 5.907   
+ 1.02.02       ; Investimentos                                        ; 489     ; 489     ; 504     
+ 1.02.02.01    ; Participações Societárias                            ;         ;         ;         
+ 1.02.02.01.01 ; Participações em Coligadas                           ;         ;         ;         
+ 1.02.02.01.04 ; Outras Participações Societárias                     ;         ;         ;         
+ 1.02.02.02    ; Propriedades para Investimento                       ; 489     ; 489     ; 504     
+ 1.02.03       ; Imobilizado                                          ; 298.162 ; 304.928 ; 311.105 
+ 1.02.03.01    ; Imobilizado em Operação                              ; 294.335 ; 300.844 ; 306.957 
+ 1.02.03.02    ; Imobilizado Arrendado                                ; 152     ; 279     ; 299     
+ 1.02.03.03    ; Imobilizado em Andamento                             ; 3.675   ; 3.805   ; 3.849   
+ 1.02.04       ; Intangível                                           ; 136     ; 128     ; 806     
+ 1.02.04.01    ; Intangíveis                                          ; 136     ; 128     ; 806     
+ 1.02.04.01.01 ; Contrato de Concessão                                ;         ;         ;         
+ 1.02.04.02    ; Goodwill                                             ;         ;         ;         

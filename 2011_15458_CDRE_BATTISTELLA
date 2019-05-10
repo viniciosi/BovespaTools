@@ -1,0 +1,76 @@
+ Conta      ; Descrição                                                       ;T1/2011 - T4/2011;T1/2010 - T4/2010;T1/2009 - T4/2009
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 948.616         ; 978.631         ; 728.546         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -823.673        ; -837.955        ; -617.762        
+ 3.03       ; Resultado Bruto                                                 ; 124.943         ; 140.676         ; 110.784         
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -95.017         ; -75.261         ; -105.175        
+ 3.04.01    ; Despesas com Vendas                                             ; -29.018         ; -32.044         ; -24.380         
+ 3.04.01.01 ; Salários e encargos                                             ; -7.672          ; -8.237          ; -966            
+ 3.04.01.02 ; Comissões e corretagem                                          ; -5.320          ; -4.791          ; -5.980          
+ 3.04.01.03 ; propagandas e publicidade                                       ; -1.423          ; -1.176          ; -693            
+ 3.04.01.04 ; Fretes e carretos                                               ; -3.673          ; -7.917          ; -8.639          
+ 3.04.01.05 ; Provisão p/crédito liquidação duvidosa                          ; -2.280          ; -35             ; -2.431          
+ 3.04.01.06 ; Revisões e garantias                                            ; -1.177          ; -3.626          ; -3.238          
+ 3.04.01.07 ; Entregas e embarques                                            ; -439            ; -3.103          ; -1.943          
+ 3.04.01.08 ; Prejuízo na realização de créditos                              ; -1.358          ; -1.458          ; 0               
+ 3.04.01.09 ; Outras despesas comerciais                                      ; -5.676          ; -1.701          ; -490            
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -68.627         ; -64.863         ; -99.248         
+ 3.04.02.01 ; Salários e encargos                                             ; -26.343         ; -23.090         ; -36.832         
+ 3.04.02.02 ; Honorários a administradores                                    ; -5.152          ; -3.544          ; -3.854          
+ 3.04.02.03 ; Depreciação e amortização                                       ; -2.801          ; -3.357          ; -4.403          
+ 3.04.02.04 ; Manutenção e conservação                                        ; -4.710          ; -4.538          ; -5.781          
+ 3.04.02.05 ; Impostos taxas e contribuições                                  ; -2.456          ; -2.596          ; -15.430         
+ 3.04.02.06 ; Honorários a pessoas jurídicas                                  ; -9.954          ; -10.725         ; -9.159          
+ 3.04.02.07 ; Aluguéis, condomínios e segurança                               ; -6.660          ; -3.971          ; -5.677          
+ 3.04.02.08 ; Provisão para riscos tributários, trabalhistas e civeis         ; 0               ; 0               ; -2.081          
+ 3.04.02.09 ; Viagens                                                         ; -2.238          ; -2.033          ; -2.678          
+ 3.04.02.10 ; Material de expediente                                          ; -193            ; -182            ; -488            
+ 3.04.02.11 ; Legalizações                                                    ; -634            ; -775            ; -1.627          
+ 3.04.02.12 ; Processamento de dados                                          ; -115            ; -129            ; -389            
+ 3.04.02.13 ; Conduções                                                       ; -137            ; -60             ; -127            
+ 3.04.02.14 ; Comunicações                                                    ; -1.506          ; -1.477          ; -2.826          
+ 3.04.02.15 ; Indenizações                                                    ; -546            ; -2.250          ; 0               
+ 3.04.02.16 ; Despesas contratuais                                            ; -221            ; -123            ; -4.546          
+ 3.04.02.17 ; Outras despesas administrativas                                 ; -4.961          ; -6.013          ; -3.350          
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ; 0               ; -2.290          ; -10.937         
+ 3.04.03.01 ; Perda pela não recuperabilidade de ativos                       ; 0               ; -2.290          ; -10.937         
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 23.286          ; 24.225          ; 37.974          
+ 3.04.04.01 ; Recuperação desp.gerais e administrativas                       ; 11.498          ; 2.138           ; 4.460           
+ 3.04.04.02 ; Reversão de provisões                                           ; 348             ; 47              ; 600             
+ 3.04.04.03 ; Ganhos de participações                                         ; 0               ; 0               ; 32.914          
+ 3.04.04.04 ; Receita alienação de imobilizado                                ; 10.539          ; 10.579          ; 0               
+ 3.04.04.05 ; Receita alienação investimentos                                 ; 0               ; 11.461          ; 0               
+ 3.04.04.06 ; Outras receitas operacionais                                    ; 901             ; 0               ; 0               
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -20.658         ; -289            ; -8.584          
+ 3.04.05.01 ; Multas                                                          ; -835            ; 0               ; 0               
+ 3.04.05.02 ; Despesa alienação imobilizado                                   ; -5.183          ; 0               ; -4.185          
+ 3.04.05.03 ; Perdas extraordinárias                                          ; -1.375          ; -121            ; -2.857          
+ 3.04.05.04 ; Outras despesas operacionais                                    ; -1.288          ; -168            ; -1.542          
+ 3.04.05.05 ; Custo de ociosidade                                             ; -6.129          ; 0               ; 0               
+ 3.04.05.06 ; Provisões para contingências                                    ; -5.848          ; 0               ; 0               
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 29.926          ; 65.415          ; 5.609           
+ 3.06       ; Resultado Financeiro                                            ; -68.085         ; -50.270         ; -35.562         
+ 3.06.01    ; Receitas Financeiras                                            ; 8.368           ; 5.637           ; 21.922          
+ 3.06.01.01 ; Receitas financeiras                                            ; 5.134           ; 5.265           ; 15.917          
+ 3.06.01.02 ; Variação cambial positiva                                       ; 3.234           ; 372             ; 6.005           
+ 3.06.02    ; Despesas Financeiras                                            ; -76.453         ; -55.907         ; -57.484         
+ 3.06.02.01 ; Despesas financeiras                                            ; -74.559         ; -55.676         ; -53.699         
+ 3.06.02.02 ; Variação cambial negativa                                       ; -1.894          ; -231            ; -3.785          
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; -38.159         ; 15.145          ; -29.953         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -2.216          ; -7.728          ; -2.870          
+ 3.08.01    ; Corrente                                                        ; -10.964         ; -11.529         ; -4.188          
+ 3.08.02    ; Diferido                                                        ; 8.748           ; 3.801           ; 1.318           
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; -40.375         ; 7.417           ; -32.823         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ; -7.497          ; -10.466         ; -3.834          
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ; -7.497          ; -10.466         ; -3.834          
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; -47.872         ; -3.049          ; -36.657         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; -47.926         ; -3.281          ; -36.465         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; 54              ; 232             ; -192            
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 0,32000         ; 0,02200         ; 0,24400         
+ 3.99.01.02 ; PN                                                              ; 0,32000         ; 0,02200         ; 0,24400         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; 0,32000         ; 0,02200         ; 0,24400         
+ 3.99.02.02 ; PN                                                              ; 0,32000         ; 0,02200         ; 0,24400         

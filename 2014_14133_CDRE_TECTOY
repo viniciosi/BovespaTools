@@ -1,0 +1,60 @@
+ Conta      ; Descrição                                                       ;T1/2014 - T4/2014;T1/2013 - T4/2013;T1/2012 - T4/2012
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 104.263         ; 122.509         ; 73.232          
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -83.506         ; -86.900         ; -57.726         
+ 3.03       ; Resultado Bruto                                                 ; 20.757          ; 35.609          ; 15.506          
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -39.047         ; -32.976         ; -24.377         
+ 3.04.01    ; Despesas com Vendas                                             ; -24.195         ; -20.368         ; -10.494         
+ 3.04.01.01 ; Comissões e fretes                                              ; -4.381          ; -4.962          ; -3.534          
+ 3.04.01.02 ; Propaganda e publicidade                                        ; -5.356          ; -4.389          ; -2.542          
+ 3.04.01.03 ; Imposto de internação de produtos                               ; -3.306          ; -2.813          ; -378            
+ 3.04.01.04 ; Desenvolvimento de produtos                                     ; -1.054          ; -842            ; -1.341          
+ 3.04.01.05 ; Direitos autorais                                               ; -2.184          ; -2.162          ; -484            
+ 3.04.01.06 ; Assistência técnica                                             ; -7.142          ; -2.858          ; -2.039          
+ 3.04.01.07 ; Outras despesas                                                 ; -772            ; -2.342          ; -176            
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -14.763         ; -12.799         ; -14.546         
+ 3.04.02.01 ; Com pessoal                                                     ; -7.597          ; -7.565          ; -8.657          
+ 3.04.02.02 ; Infra estrutura                                                 ; -1.481          ; -1.259          ; -1.286          
+ 3.04.02.03 ; Serviços prestados por terceiros                                ; -3.126          ; -1.792          ; -2.235          
+ 3.04.02.04 ; Depreciação e amortização                                       ; -749            ; -826            ; -926            
+ 3.04.02.05 ; Pesquisa e desenvolvimento                                      ;                 ;                 ;                 
+ 3.04.02.06 ; Outras despesas                                                 ; -1.810          ; -1.357          ; -1.442          
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 405             ; 342             ; 1.710           
+ 3.04.04.01 ; Recebimento de Sinistro                                         ; 0               ; 0               ; 296             
+ 3.04.04.02 ; Recebimento Deposito Judicial Finsocial                         ; 0               ; 0               ; 942             
+ 3.04.04.03 ; Provisão/Reversão para duplicatas a receber                     ;                 ;                 ;                 
+ 3.04.04.04 ; Resultado da baixa de investimentos                             ;                 ;                 ;                 
+ 3.04.04.05 ; Reembolso de despesas                                           ;                 ;                 ;                 
+ 3.04.04.06 ; Provisão/Reversão Contingências Trabalhistas                    ;                 ;                 ;                 
+ 3.04.04.07 ; Outras                                                          ; 405             ; 342             ; 472             
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -494            ; -151            ; -1.047          
+ 3.04.05.01 ; Prov. p/ Perdas em Investimentos                                ;                 ;                 ;                 
+ 3.04.05.02 ; Resultado de Baixa de Investimentos                             ;                 ;                 ;                 
+ 3.04.05.03 ; Inclusão do processo INSS Refis IV                              ;                 ;                 ;                 
+ 3.04.05.04 ; Pagto. de Contingência                                          ; 0               ; 0               ; -629            
+ 3.04.05.05 ; Outras Despesas                                                 ; -494            ; -151            ; -418            
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.04.06.01 ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.04.06.02 ; Perda e Ganho de Participação em Investimentos                  ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; -18.290         ; 2.633           ; -8.871          
+ 3.06       ; Resultado Financeiro                                            ; -14.271         ; -7.750          ; -4.333          
+ 3.06.01    ; Receitas Financeiras                                            ; 3.244           ; 2.071           ; 2.352           
+ 3.06.02    ; Despesas Financeiras                                            ; -17.515         ; -9.821          ; -6.685          
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; -32.561         ; -5.117          ; -13.204         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -38             ; -116            ; 0               
+ 3.08.01    ; Corrente                                                        ; -38             ; -116            ; 0               
+ 3.08.02    ; Diferido                                                        ;                 ;                 ;                 
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; -32.599         ; -5.233          ; -13.204         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ; 0               ; -458            ; 2.845           
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ; 0               ; -458            ; 2.845           
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; -32.599         ; -5.691          ; -10.359         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; -32.599         ; -5.691          ; -10.359         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ;                 ;                 ;                 
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; -0,02465        ; -0,00430        ; -0,00915        
+ 3.99.01.02 ; PN                                                              ; -0,02465        ; -0,00430        ; -0,00915        
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; -0,02465        ; -0,00430        ; -0,00915        
+ 3.99.02.02 ; PN                                                              ; -0,02465        ; -0,00430        ; -0,00915        

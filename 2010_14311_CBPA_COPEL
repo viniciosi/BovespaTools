@@ -1,0 +1,74 @@
+ Conta         ; Descrição                                            ;T4/2010     ;T4/2009     ;T4/2008     
+ 1             ; Ativo Total                                          ; 17.859.432 ; 16.312.903 ; 15.933.841 
+ 1.01          ; Ativo Circulante                                     ; 4.157.790  ; 3.612.114  ; 3.447.024  
+ 1.01.01       ; Caixa e Equivalentes de Caixa                        ; 1.794.416  ; 1.518.523  ; 1.649.481  
+ 1.01.02       ; Aplicações Financeiras                               ; 598.173    ; 370.290    ; 314.901    
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ; 536.677    ; 289.526    ; 295.940    
+ 1.01.02.01.01 ; Títulos para Negociação                              ;            ;            ;            
+ 1.01.02.01.02 ; Títulos Disponíveis para Venda                       ; 472.599    ; 284.479    ; 295.813    
+ 1.01.02.01.03 ; Cauções e Depósitos Vinculados                       ; 64.078     ; 5.047      ; 127        
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ; 61.496     ; 80.764     ; 18.961     
+ 1.01.02.02.01 ; Títulos Mantidos até o Vencimento                    ; 61.496     ; 80.764     ; 18.961     
+ 1.01.03       ; Contas a Receber                                     ; 1.443.063  ; 1.303.742  ; 1.166.957  
+ 1.01.03.01    ; Clientes                                             ; 1.162.627  ; 1.071.986  ; 981.842    
+ 1.01.03.01.01 ; Clientes                                             ; 1.162.627  ; 1.071.986  ; 981.842    
+ 1.01.03.02    ; Outras Contas a Receber                              ; 280.436    ; 231.756    ; 185.115    
+ 1.01.03.02.01 ; Dividendos a Receber                                 ; 5.851      ; 5.135      ; 5.247      
+ 1.01.03.02.02 ; Repasse CRC ao Governo Estado do Paraná              ; 58.816     ; 49.549     ; 47.133     
+ 1.01.03.02.03 ; Contas a Receber Vinculados à Concessão              ; 54.700     ; 44.070     ; 27.685     
+ 1.01.03.02.04 ; Outros Créditos                                      ; 161.069    ; 133.002    ; 105.050    
+ 1.01.04       ; Estoques                                             ; 121.424    ; 112.102    ; 83.547     
+ 1.01.05       ; Ativos Biológicos                                    ;            ;            ;            
+ 1.01.06       ; Tributos a Recuperar                                 ; 195.749    ; 302.491    ; 228.565    
+ 1.01.06.01    ; Tributos Correntes a Recuperar                       ; 195.749    ; 302.491    ; 228.565    
+ 1.01.06.01.01 ; Imposto de Renda e Contribuição Social               ; 158.213    ; 270.558    ; 200.544    
+ 1.01.06.01.02 ; Outros Tributos                                      ; 37.536     ; 31.933     ; 28.021     
+ 1.01.07       ; Despesas Antecipadas                                 ; 4.965      ; 4.966      ; 3.573      
+ 1.01.08       ; Outros Ativos Circulantes                            ;            ;            ;            
+ 1.01.08.01    ; Ativos Não-Correntes a Venda                         ;            ;            ;            
+ 1.01.08.02    ; Ativos de Operações Descontinuadas                   ;            ;            ;            
+ 1.01.08.03    ; Outros                                               ;            ;            ;            
+ 1.02          ; Ativo Não Circulante                                 ; 13.701.642 ; 12.700.789 ; 12.486.817 
+ 1.02.01       ; Ativo Realizável a Longo Prazo                       ; 4.805.293  ; 3.807.275  ; 3.572.278  
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ; 26.280     ; 24.195     ; 37.868     
+ 1.02.01.01.01 ; Títulos para Negociação                              ;            ;            ;            
+ 1.02.01.01.02 ; Títulos Disponíveis para Venda                       ;            ;            ;            
+ 1.02.01.01.03 ; Cauções e Depósitos Vinculados                       ; 26.280     ; 24.195     ; 37.868     
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ; 7.151      ; 40.103     ; 69.063     
+ 1.02.01.02.01 ; Títulos Mantidos até o Vencimento                    ; 7.151      ; 40.103     ; 69.063     
+ 1.02.01.03    ; Contas a Receber                                     ; 43.729     ; 51.932     ; 85.046     
+ 1.02.01.03.01 ; Clientes                                             ; 43.729     ; 51.932     ; 85.046     
+ 1.02.01.03.02 ; Outras Contas a Receber                              ;            ;            ;            
+ 1.02.01.04    ; Estoques                                             ;            ;            ;            
+ 1.02.01.05    ; Ativos Biológicos                                    ;            ;            ;            
+ 1.02.01.06    ; Tributos Diferidos                                   ; 507.710    ; 397.882    ; 398.873    
+ 1.02.01.06.01 ; Imposto de Renda e Contribuição Social Diferidos     ; 507.710    ; 397.882    ; 398.873    
+ 1.02.01.07    ; Despesas Antecipadas                                 ;            ;            ;            
+ 1.02.01.08    ; Créditos com Partes Relacionadas                     ; 1.575      ; 0          ; 0          
+ 1.02.01.08.01 ; Créditos com Coligadas                               ;            ;            ;            
+ 1.02.01.08.03 ; Créditos com Controladores                           ;            ;            ;            
+ 1.02.01.08.04 ; Créditos com Outras Partes Relacionadas              ; 1.575      ; 0          ; 0          
+ 1.02.01.09    ; Outros Ativos Não Circulantes                        ; 4.218.848  ; 3.293.163  ; 2.981.428  
+ 1.02.01.09.01 ; Ativos Não-Correntes a Venda                         ;            ;            ;            
+ 1.02.01.09.02 ; Ativos de Operações Descontinuadas                   ;            ;            ;            
+ 1.02.01.09.03 ; Contas a Receber Vinculadas à Concessão              ; 2.423.345  ; 1.828.220  ; 1.460.462  
+ 1.02.01.09.04 ; Repasse CRC ao Governo Estado do Paraná              ; 1.282.377  ; 1.205.025  ; 1.272.770  
+ 1.02.01.09.05 ; Depósitos Judíciais                                  ; 400.699    ; 159.012    ; 173.514    
+ 1.02.01.09.06 ; Imposto de Renda e Contribuição Social a recuperar   ; 12.341     ; 0          ; 0          
+ 1.02.01.09.07 ; Tributos Correntes a Recuperar                       ; 84.862     ; 83.957     ; 62.468     
+ 1.02.01.09.08 ; Outros Créditos                                      ; 15.224     ; 16.949     ; 12.214     
+ 1.02.02       ; Investimentos                                        ; 483.450    ; 405.653    ; 406.755    
+ 1.02.02.01    ; Participações Societárias                            ; 483.450    ; 405.653    ; 406.755    
+ 1.02.02.01.01 ; Participações em Coligadas                           ; 465.242    ; 385.230    ; 387.216    
+ 1.02.02.01.04 ; Outras Participações Societárias                     ; 18.208     ; 20.423     ; 19.539     
+ 1.02.02.02    ; Propriedades para Investimento                       ;            ;            ;            
+ 1.02.03       ; Imobilizado                                          ; 6.663.945  ; 6.659.648  ; 6.772.095  
+ 1.02.03.01    ; Imobilizado em Operação                              ; 6.015.235  ; 6.284.238  ; 6.594.274  
+ 1.02.03.02    ; Imobilizado Arrendado                                ;            ;            ;            
+ 1.02.03.03    ; Imobilizado em Andamento                             ; 648.710    ; 375.410    ; 177.821    
+ 1.02.04       ; Intangível                                           ; 1.748.954  ; 1.828.213  ; 1.735.689  
+ 1.02.04.01    ; Intangíveis                                          ; 1.748.954  ; 1.828.213  ; 1.735.689  
+ 1.02.04.01.01 ; Contrato de Concessão                                ; 1.699.506  ; 1.757.973  ; 1.661.970  
+ 1.02.04.01.02 ; Autorização e Concessão de Controladas               ; 19.043     ; 66.715     ; 69.815     
+ 1.02.04.01.03 ; Outros                                               ; 30.405     ; 3.525      ; 3.904      
+ 1.02.04.02    ; Goodwill                                             ;            ;            ;            

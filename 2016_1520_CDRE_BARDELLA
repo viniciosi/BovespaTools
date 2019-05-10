@@ -1,0 +1,57 @@
+ Conta      ; Descrição                                                       ;T1/2016 - T4/2016;T1/2015 - T4/2015;T1/2014 - T4/2014
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 264.736         ; 446.432         ; 478.936         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -260.453        ; -395.178        ; -398.185        
+ 3.02.01    ; Custo dos Bens e/ou Serviços Vendidos                           ;                 ;                 ;                 
+ 3.02.02    ; Ajuste Depreciação (deemed cost) IFRS                           ;                 ;                 ;                 
+ 3.02.03    ; Ajuste Variação Cambial Fornec Estrang IFRS                     ;                 ;                 ;                 
+ 3.02.04    ; Ajuste CPV Contratos de Construção IFRS                         ;                 ;                 ;                 
+ 3.02.05    ; Ajuste valor justo IFRS                                         ;                 ;                 ;                 
+ 3.02.06    ; Depreciação Deemed Cost                                         ;                 ;                 ;                 
+ 3.02.07    ; Reversão Depreciação Fiscal                                     ;                 ;                 ;                 
+ 3.02.08    ; Depreciação do Residual                                         ;                 ;                 ;                 
+ 3.03       ; Resultado Bruto                                                 ; 4.283           ; 51.254          ; 80.751          
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -80.127         ; -32.923         ; -65.228         
+ 3.04.01    ; Despesas com Vendas                                             ; -34.428         ; -29.479         ; -28.925         
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -40.177         ; -37.155         ; -39.433         
+ 3.04.02.01 ; Administrativas e gerais                                        ; -35.044         ; -32.034         ; -34.624         
+ 3.04.02.02 ; Honorários e participação da administrativa                     ; -5.133          ; -5.121          ; -4.809          
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 14.936          ; 28.833          ; 12.322          
+ 3.04.04.01 ; Dividendos Recebidos                                            ; 0               ; 159             ; 145             
+ 3.04.04.02 ; Outras Rec. Operacionais                                        ; 14.936          ; 28.674          ; 12.177          
+ 3.04.04.03 ; Ajuste Variação Cambial Fornec Estrang. IFRS                    ;                 ;                 ;                 
+ 3.04.04.04 ; Ajuste Valor Justo IFRS                                         ;                 ;                 ;                 
+ 3.04.04.05 ; Ajuste IFRS Baixo Ativo Diferido                                ;                 ;                 ;                 
+ 3.04.04.06 ; Ajuste ano Variação CPR                                         ;                 ;                 ;                 
+ 3.04.04.07 ; Baixa por Venda Valor Justo CPRs - SCP                          ;                 ;                 ;                 
+ 3.04.04.08 ; Ajuste Valor Justo Pecuaria Baixa                               ;                 ;                 ;                 
+ 3.04.04.09 ; Venda de Terras                                                 ;                 ;                 ;                 
+ 3.04.04.10 ; Venda da Floresta                                               ;                 ;                 ;                 
+ 3.04.04.11 ; Receita de Venda Ativo Florestal e Terras (reclas.)             ;                 ;                 ;                 
+ 3.04.04.12 ; Outras Reclassif. - Resultado Operacional                       ;                 ;                 ;                 
+ 3.04.04.13 ; Receita de Venda Ativo Florestal e Terras (reclassif.)          ;                 ;                 ;                 
+ 3.04.04.14 ; Outras Reclassif. - Resultado Operacional                       ;                 ;                 ;                 
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -26.320         ; -14.055         ; -13.175         
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ; 5.862           ; 18.933          ; 3.983           
+ 3.04.06.01 ; Resultado de Equival. Patrimonial                               ;                 ;                 ;                 
+ 3.04.06.02 ; Ajuste Equivalência Patrimonial IFRS                            ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; -75.844         ; 18.331          ; 15.523          
+ 3.06       ; Resultado Financeiro                                            ; -49.798         ; -28.037         ; -11.268         
+ 3.06.01    ; Receitas Financeiras                                            ; 3.884           ; 4.580           ; 7.278           
+ 3.06.02    ; Despesas Financeiras                                            ; -53.682         ; -32.617         ; -18.546         
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; -125.642        ; -9.706          ; 4.255           
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; 24.516          ; 748             ; 3.137           
+ 3.08.01    ; Corrente                                                        ; -311            ; -481            ; -434            
+ 3.08.02    ; Diferido                                                        ; 24.827          ; 1.229           ; 3.571           
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; -101.126        ; -8.958          ; 7.392           
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; -101.126        ; -8.958          ; 7.392           
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; -101.126        ; -8.958          ; 7.392           
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ;                 ;                 ;                 
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; -63,20000       ; -5,60000        ; 4,62000         
+ 3.99.02.02 ; PN                                                              ; -63,20000       ; -5,60000        ; 4,62000         

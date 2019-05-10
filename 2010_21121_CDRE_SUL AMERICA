@@ -1,0 +1,70 @@
+ Conta      ; Descrição                                                       ;T1/2010 - T4/2010;T1/2009 - T4/2009;T1/2008 - T4/2008
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 7.850.804       ; 7.769.511       ; 6.985.076       
+ 3.01.01    ; Prêmios de Seguros                                              ; 8.384.448       ; 8.648.242       ; 7.680.366       
+ 3.01.02    ; Prêmios Convênio DPVAT                                          ; 48.309          ; 133.962         ; 105.007         
+ 3.01.03    ; Prêmios de Co-seguros Cedidos                                   ; -11.582         ; -102.627        ; -62.200         
+ 3.01.04    ; Prêmios Cedidos em Resseguros                                   ; -148.745        ; -324.567        ; -352.288        
+ 3.01.05    ; Prêmios de Retrocessão                                          ; 363             ; 1.134           ; 458             
+ 3.01.06    ; Prêmios Cedidos a Consórcios e Fundos                           ; -24.159         ; -66.985         ; -54.882         
+ 3.01.07    ; Variação das Provisões Técnicas                                 ; -397.830        ; -519.648        ; -331.385        
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -5.585.463      ; -5.699.722      ; -4.958.131      
+ 3.02.01    ; Sinistros Diretos                                               ; -5.711.824      ; -6.066.873      ; -5.208.881      
+ 3.02.02    ; Sinistros de Consórcios e Fundos                                ; -19.061         ; -50.819         ; -37.616         
+ 3.02.03    ; Serviços de Assistência                                         ; -310            ; -45.262         ; -38.900         
+ 3.02.04    ; Recuperação de Sinistros                                        ; 91.882          ; 418.609         ; 163.736         
+ 3.02.05    ; Salvados e Ressarcimentos                                       ; 153.563         ; 166.738         ; 218.759         
+ 3.02.06    ; Variação Prov Sinistros Ocorr. não Avisados                     ; -77.159         ; -97.480         ; -36.720         
+ 3.02.07    ; Despesas com Beneficícios                                       ; -23.060         ; -23.296         ; -18.118         
+ 3.02.08    ; Variação Prov. Eventos Ocorr. não Avisados                      ; 506             ; -1.339          ; -391            
+ 3.03       ; Resultado Bruto                                                 ; 2.265.341       ; 2.069.789       ; 2.026.945       
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -1.809.156      ; -2.057.945      ; -1.765.852      
+ 3.04.01    ; Despesas com Vendas                                             ; -927.670        ; -880.726        ; -776.399        
+ 3.04.01.01 ; Comissões                                                       ; -987.329        ; -972.973        ; -840.782        
+ 3.04.01.02 ; Recuperação de Comissões                                        ; 8.789           ; 31.022          ; 23.238          
+ 3.04.01.03 ; Outras Despesas de Comercialização                              ; -2.093          ; -1.821          ; -1.995          
+ 3.04.01.04 ; Var. Desp. Comercialização Diferidas                            ; 52.963          ; 63.046          ; 43.140          
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -922.390        ; -1.156.703      ; -1.159.719      
+ 3.04.02.01 ; Despesas Administrativas                                        ; -774.957        ; -978.845        ; -984.281        
+ 3.04.02.02 ; Despesas com Tributos                                           ; -147.433        ; -177.858        ; -175.438        
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 411.354         ; 285.507         ; 404.129         
+ 3.04.04.01 ; Rendas e Contribuições Retidas de Previdência                   ; 214.326         ; 202.107         ; 157.486         
+ 3.04.04.02 ; Variação Prov. Técnicas de Previdência                          ; -215.657        ; -169.230        ; -126.923        
+ 3.04.04.03 ; Outras Receitas Operacionais de Previdência                     ;                 ;                 ;                 
+ 3.04.04.04 ; Outras Receitas Operacionais de Seguros                         ; 25.002          ; 166.616         ; 131.118         
+ 3.04.04.05 ; Resultado Oper. Assistencia a Saúde                             ; 30.328          ; 30.936          ; 28.644          
+ 3.04.04.06 ; Resultado da Atividade Financeiras                              ; 23.027          ; 19.465          ; 23.371          
+ 3.04.04.07 ; Receita com Imóveis de Renda                                    ; 224             ; 1.307           ; 2.405           
+ 3.04.04.08 ; Outras Receitas/Despesas Patrimonias                            ; -3.120          ; 7.507           ; -7.661          
+ 3.04.04.09 ; Rendas com Taxa de Gestão - Seguros                             ; 6.774           ; 4.773           ; 3.067           
+ 3.04.04.10 ; Rendas com Taxa de Gestão - Previdência                         ; 18.333          ; 15.095          ; 12.290          
+ 3.04.04.11 ; Lucro na Venda de Ativo Permanente                              ; 312.117         ; 6.931           ; 180.332         
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -370.450        ; -306.023        ; -233.863        
+ 3.04.05.01 ; Outras Despesas Operacionais - Seguros                          ; -355.062        ; -277.294        ; -218.104        
+ 3.04.05.02 ; Desp. Benefícios Previdência                                    ; -5.765          ; -14.676         ; -22.041         
+ 3.04.05.03 ; Desp. de Comercialização - Previdência                          ; -6.397          ; -5.417          ; -4.698          
+ 3.04.05.04 ; Ajuste Invest. Coligada/Controlada                              ; -2.669          ; -5.770          ; 12.433          
+ 3.04.05.05 ; Outras Despesas Operacionais - Previdência                      ; -557            ; -2.866          ; -1.453          
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 456.185         ; 11.844          ; 261.093         
+ 3.06       ; Resultado Financeiro                                            ; 510.130         ; 564.492         ; 496.966         
+ 3.06.01    ; Receitas Financeiras                                            ; 1.165.248       ; 1.043.065       ; 1.042.855       
+ 3.06.02    ; Despesas Financeiras                                            ; -655.118        ; -478.573        ; -545.889        
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 966.315         ; 576.336         ; 758.059         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -353.414        ; -126.252        ; -211.926        
+ 3.08.01    ; Corrente                                                        ; -335.923        ; -191.826        ; -285.749        
+ 3.08.02    ; Diferido                                                        ; -17.491         ; 65.574          ; 73.823          
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 612.901         ; 450.084         ; 546.133         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 612.901         ; 450.084         ; 546.133         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 614.021         ; 413.465         ; 415.941         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; -1.120          ; 36.619          ; 130.192         
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; PN                                                              ; 0,73000         ; 0,49000         ; 0,49000         
+ 3.99.01.02 ; ON                                                              ; 0,74000         ; 0,49000         ; 0,49000         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; PN                                                              ; 0,71000         ; 0,48000         ; 0,49000         
+ 3.99.02.02 ; ON                                                              ; 0,73000         ; 0,49000         ; 0,49000         

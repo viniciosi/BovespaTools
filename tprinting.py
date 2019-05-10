@@ -23,10 +23,10 @@ import numpy as np
 import sys
 
 ###############################################################################
-# Alguma definições
+# Alguma definiï¿½ï¿½es
 ###############################################################################
 
-tablesep = '\t'
+tablesep = ';'
 
 ###############################################################################
 # Escreve a tabela em modo texto para um arquivo
@@ -38,7 +38,7 @@ def writeTable(file, header, table):
         file = sys.stdout
         closefile = False
     else:
-        file = open(file, 'wt')
+        file = open(file, 'wt', encoding = 'utf-8')
         closefile = True
 
     colszs = [len(title) for title in header]
@@ -60,10 +60,10 @@ def writeTable(file, header, table):
 
 def writeMat(filename, header, table):
 
-    # Cria uma matriz de células para guardar os elementos
+    # Cria uma matriz de cï¿½lulas para guardar os elementos
     a = np.empty((len(table),len(header)),dtype=object)
 
-    # Salva a tabela nas células
+    # Salva a tabela nas cï¿½lulas
     for i in range(len(table)):
         for j in range(len(header)):
             a[i,j] = table[i][j]

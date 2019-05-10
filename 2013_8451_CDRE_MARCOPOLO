@@ -1,0 +1,33 @@
+ Conta      ; Descrição                                                       ;T1/2013 - T4/2013;T1/2012 - T4/2012;T1/2011 - T4/2011
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 3.659.309       ; 3.369.939       ; 2.900.259       
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -2.928.774      ; -2.676.953      ; -2.262.027      
+ 3.03       ; Resultado Bruto                                                 ; 730.535         ; 692.986         ; 638.232         
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -335.642        ; -317.673        ; -232.308        
+ 3.04.01    ; Despesas com Vendas                                             ; -179.890        ; -195.562        ; -143.671        
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -173.823        ; -150.823        ; -127.124        
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 0               ; 455             ; 0               
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -6.913          ; 0               ; -3.572          
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ; 24.984          ; 28.257          ; 42.059          
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 394.893         ; 375.313         ; 405.924         
+ 3.06       ; Resultado Financeiro                                            ; -4.644          ; 25.611          ; 74.942          
+ 3.06.01    ; Receitas Financeiras                                            ; 196.141         ; 200.953         ; 231.116         
+ 3.06.02    ; Despesas Financeiras                                            ; -200.785        ; -175.342        ; -156.174        
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 390.249         ; 400.924         ; 480.866         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -98.132         ; -98.567         ; -136.843        
+ 3.08.01    ; Corrente                                                        ; -85.640         ; -97.994         ; -163.089        
+ 3.08.02    ; Diferido                                                        ; -12.492         ; -573            ; 26.246          
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 292.117         ; 302.357         ; 344.023         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 292.117         ; 302.357         ; 344.023         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 288.709         ; 300.029         ; 343.144         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; 3.408           ; 2.328           ; 879             
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 0,32720         ; 0,33810         ; 0,38540         
+ 3.99.01.02 ; PN                                                              ; 0,32720         ; 0,33810         ; 0,38540         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; 0,32570         ; 0,33710         ; 0,38360         
+ 3.99.02.02 ; PN                                                              ; 0,32570         ; 0,33710         ; 0,38360         

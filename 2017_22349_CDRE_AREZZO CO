@@ -1,0 +1,35 @@
+ Conta      ; Descrição                                                       ;T1/2017 - T4/2017;T1/2016 - T4/2016;T1/2015 - T4/2015
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 1.360.474       ; 1.239.110       ; 1.120.557       
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -736.706        ; -689.819        ; -644.658        
+ 3.03       ; Resultado Bruto                                                 ; 623.768         ; 549.291         ; 475.899         
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -450.135        ; -397.965        ; -334.611        
+ 3.04.01    ; Despesas com Vendas                                             ; -334.215        ; -302.708        ; -249.242        
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -113.816        ; -92.846         ; -82.893         
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ;                 ;                 ;                 
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -2.104          ; -2.411          ; -2.476          
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 173.633         ; 151.326         ; 141.288         
+ 3.06       ; Resultado Financeiro                                            ; 9.300           ; 5.674           ; 23.269          
+ 3.06.01    ; Receitas Financeiras                                            ; 33.847          ; 35.658          ; 52.834          
+ 3.06.01.01 ; Receitas Financeiras                                            ; 30.041          ; 34.414          ; 29.498          
+ 3.06.01.02 ; Variação Cambial Ativa                                          ; 3.806           ; 1.244           ; 23.336          
+ 3.06.02    ; Despesas Financeiras                                            ; -24.547         ; -29.984         ; -29.565         
+ 3.06.02.01 ; Despesas Financeiras                                            ; -19.783         ; -22.428         ; -16.153         
+ 3.06.02.02 ; Variação Cambial Passiva                                        ; -4.764          ; -7.556          ; -13.412         
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 182.933         ; 157.000         ; 164.557         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -28.463         ; -40.851         ; -44.894         
+ 3.08.01    ; Corrente                                                        ; -31.591         ; -42.971         ; -47.055         
+ 3.08.02    ; Diferido                                                        ; 3.128           ; 2.120           ; 2.161           
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 154.470         ; 116.149         ; 119.663         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 154.470         ; 116.149         ; 119.663         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 154.470         ; 116.149         ; 119.663         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ;                 ;                 ;                 
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 1,72860         ; 1,30820         ; 1,34900         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; 1,71520         ; 1,30010         ; 1,34590         

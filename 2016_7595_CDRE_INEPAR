@@ -1,0 +1,45 @@
+ Conta      ; Descrição                                                       ;T1/2016 - T4/2016;T1/2015 - T4/2015;T1/2014 - T4/2014
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 68.850          ; 451.017         ; 619.331         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -48.496         ; -279.727        ; -766.801        
+ 3.03       ; Resultado Bruto                                                 ; 20.354          ; 171.290         ; -147.470        
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -425.184        ; -401.077        ; -487.266        
+ 3.04.01    ; Despesas com Vendas                                             ; -22.155         ; -17.623         ; -147.559        
+ 3.04.01.01 ; Perdas/Reversões no receb. de créditos com clientes             ; -10.471         ; -2.073          ; -124.237        
+ 3.04.01.02 ; Despesas com Vendas                                             ; -11.684         ; -15.550         ; -23.322         
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -416.689        ; -383.124        ; -373.956        
+ 3.04.02.01 ; Administrativas e Gerais                                        ; -78.768         ; -91.648         ; -109.066        
+ 3.04.02.02 ; Depreciações e Amortizações                                     ; -8.582          ; -8.871          ; -9.037          
+ 3.04.02.03 ; Provisões de Futuras Perdas Operacionais                        ; -32.443         ; 64.174          ; -164.533        
+ 3.04.02.04 ; Outras receitas e despesas operacionais                         ; -296.896        ; -346.779        ; -91.320         
+ 3.04.02.05 ; Provisões de Perdas sobre Investimentos                         ;                 ;                 ;                 
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ;                 ;                 ;                 
+ 3.04.04.01 ; Resultado da Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.04.04.02 ; Resultado na Alienação de Permanente                            ;                 ;                 ;                 
+ 3.04.04.03 ; Outras Receitas não Operacionais                                ;                 ;                 ;                 
+ 3.04.05    ; Outras Despesas Operacionais                                    ; 15.727          ; 6.904           ; 23.090          
+ 3.04.05.01 ; Provisões para Futuras Perdas não Operacionais                  ;                 ;                 ;                 
+ 3.04.05.02 ; Outras Despesas Operacionais                                    ;                 ;                 ;                 
+ 3.04.05.03 ; Participação dos Administradores e Funcionários                 ; 0               ; 0               ; -353            
+ 3.04.05.04 ; Participação dos Acionistas Minoritários                        ; 15.727          ; 6.904           ; 23.443          
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ; -2.067          ; -7.234          ; 11.159          
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; -404.830        ; -229.787        ; -634.736        
+ 3.06       ; Resultado Financeiro                                            ; -196.976        ; -114.595        ; -203.796        
+ 3.06.01    ; Receitas Financeiras                                            ; 23.832          ; 156.517         ; 174.779         
+ 3.06.02    ; Despesas Financeiras                                            ; -220.808        ; -271.112        ; -378.575        
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; -601.806        ; -344.382        ; -838.532        
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -21.157         ; 143.285         ; 57.095          
+ 3.08.01    ; Corrente                                                        ; -25.217         ; 176.511         ; 1.986           
+ 3.08.02    ; Diferido                                                        ; 4.060           ; -33.226         ; 55.109          
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; -622.963        ; -201.097        ; -781.437        
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; -622.963        ; -201.097        ; -781.437        
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; -638.690        ; -208.001        ; -804.880        
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; 15.727          ; 6.904           ; 23.443          
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; -4,00430        ; -1,29262        ; -7,14673        
+ 3.99.01.02 ; PN                                                              ; -4,40473        ; -1,42188        ; -7,86141        
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 

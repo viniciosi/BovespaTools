@@ -1,0 +1,66 @@
+ Conta         ; Descrição                                            ;T4/2011  ;T4/2010  ;T4/2009  
+ 1             ; Ativo Total                                          ; 137.095 ; 153.548 ; 148.690 
+ 1.01          ; Ativo Circulante                                     ; 86.743  ; 106.739 ; 105.950 
+ 1.01.01       ; Caixa e Equivalentes de Caixa                        ; 8.493   ; 10.748  ; 32.999  
+ 1.01.01.01    ; Caixa e Bancos                                       ; 384     ; 1.117   ; 1.293   
+ 1.01.01.02    ; Aplicações Financeiras                               ; 8.109   ; 9.631   ; 31.706  
+ 1.01.02       ; Aplicações Financeiras                               ;         ;         ;         
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;         ;         
+ 1.01.02.01.01 ; Títulos para Negociação                              ;         ;         ;         
+ 1.01.02.01.02 ; Títulos Disponíveis para Venda                       ;         ;         ;         
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ;         ;         ;         
+ 1.01.02.02.01 ; Títulos Mantidos até o Vencimento                    ;         ;         ;         
+ 1.01.03       ; Contas a Receber                                     ; 65.066  ; 83.923  ; 55.701  
+ 1.01.03.01    ; Clientes                                             ; 60.782  ; 78.781  ; 37.278  
+ 1.01.03.01.01 ; Duplicatas a Receber                                 ; 20.485  ; 7.287   ; 8.359   
+ 1.01.03.01.02 ; Serviços Executados a Faturar                        ; 40.297  ; 71.494  ; 28.919  
+ 1.01.03.02    ; Outras Contas a Receber                              ; 4.284   ; 5.142   ; 18.423  
+ 1.01.03.02.01 ; Devedores venda imóvel e outros créditos             ; 4.284   ; 5.142   ; 18.423  
+ 1.01.04       ; Estoques                                             ; 12.513  ; 11.540  ; 16.301  
+ 1.01.04.01    ; Material de Construção e Peças de Manutenção         ; 4.125   ; 2.699   ; 3.729   
+ 1.01.04.02    ; Material de Revenda                                  ; 700     ; 209     ; 6.236   
+ 1.01.04.03    ; Esoques de Imóveis                                   ; 7.688   ; 8.632   ; 6.336   
+ 1.01.05       ; Ativos Biológicos                                    ;         ;         ;         
+ 1.01.06       ; Tributos a Recuperar                                 ;         ;         ;         
+ 1.01.06.01    ; Tributos Correntes a Recuperar                       ;         ;         ;         
+ 1.01.07       ; Despesas Antecipadas                                 ; 671     ; 528     ; 949     
+ 1.01.08       ; Outros Ativos Circulantes                            ;         ;         ;         
+ 1.01.08.01    ; Ativos Não-Correntes a Venda                         ;         ;         ;         
+ 1.01.08.02    ; Ativos de Operações Descontinuadas                   ;         ;         ;         
+ 1.01.08.03    ; Outros                                               ;         ;         ;         
+ 1.02          ; Ativo Não Circulante                                 ; 50.352  ; 46.809  ; 42.740  
+ 1.02.01       ; Ativo Realizável a Longo Prazo                       ; 9.731   ; 8.913   ; 6.548   
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;         ;         
+ 1.02.01.01.01 ; Títulos para Negociação                              ;         ;         ;         
+ 1.02.01.01.02 ; Títulos Disponíveis para Venda                       ;         ;         ;         
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ;         ;         ;         
+ 1.02.01.02.01 ; Títulos Mantidos até o Vencimento                    ;         ;         ;         
+ 1.02.01.03    ; Contas a Receber                                     ; 5.780   ; 6.714   ; 6.089   
+ 1.02.01.03.01 ; Clientes                                             ; 329     ; 3.402   ; 3.402   
+ 1.02.01.03.02 ; Outras Contas a Receber                              ; 5.451   ; 3.312   ; 2.687   
+ 1.02.01.04    ; Estoques                                             ;         ;         ;         
+ 1.02.01.05    ; Ativos Biológicos                                    ;         ;         ;         
+ 1.02.01.06    ; Tributos Diferidos                                   ; 3.951   ; 2.199   ; 459     
+ 1.02.01.06.01 ; Imposto de Renda e Contribuição Social Diferidos     ; 1.551   ; 2.199   ; 459     
+ 1.02.01.06.02 ; Créditos Fiscais - Prejuizo Fiscal                   ; 2.400   ; 0       ; 0       
+ 1.02.01.07    ; Despesas Antecipadas                                 ;         ;         ;         
+ 1.02.01.08    ; Créditos com Partes Relacionadas                     ;         ;         ;         
+ 1.02.01.08.01 ; Créditos com Coligadas                               ;         ;         ;         
+ 1.02.01.08.03 ; Créditos com Controladores                           ;         ;         ;         
+ 1.02.01.08.04 ; Créditos com Outras Partes Relacionadas              ;         ;         ;         
+ 1.02.01.09    ; Outros Ativos Não Circulantes                        ;         ;         ;         
+ 1.02.01.09.01 ; Ativos Não-Correntes a Venda                         ;         ;         ;         
+ 1.02.01.09.02 ; Ativos de Operações Descontinuadas                   ;         ;         ;         
+ 1.02.02       ; Investimentos                                        ; 12      ; 12      ; 12      
+ 1.02.02.01    ; Participações Societárias                            ; 12      ; 12      ; 12      
+ 1.02.02.01.01 ; Participações em Coligadas                           ; 10      ; 10      ; 10      
+ 1.02.02.01.04 ; Outras Participações Societárias                     ; 2       ; 2       ; 2       
+ 1.02.02.02    ; Propriedades para Investimento                       ;         ;         ;         
+ 1.02.03       ; Imobilizado                                          ; 39.965  ; 37.364  ; 35.341  
+ 1.02.03.01    ; Imobilizado em Operação                              ; 39.965  ; 37.364  ; 35.341  
+ 1.02.03.02    ; Imobilizado Arrendado                                ;         ;         ;         
+ 1.02.03.03    ; Imobilizado em Andamento                             ;         ;         ;         
+ 1.02.04       ; Intangível                                           ; 644     ; 520     ; 839     
+ 1.02.04.01    ; Intangíveis                                          ;         ;         ;         
+ 1.02.04.01.01 ; Contrato de Concessão                                ;         ;         ;         
+ 1.02.04.02    ; Goodwill                                             ;         ;         ;         

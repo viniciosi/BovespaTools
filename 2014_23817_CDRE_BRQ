@@ -1,0 +1,31 @@
+ Conta      ; Descrição                                                       ;T1/2014 - T4/2014;T1/2013 - T4/2013;T1/2012 - T4/2012
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 425.830         ; 441.818         ; 400.568         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -353.072        ; -376.576        ; -322.959        
+ 3.03       ; Resultado Bruto                                                 ; 72.758          ; 65.242          ; 77.609          
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -68.010         ; -61.540         ; -55.277         
+ 3.04.01    ; Despesas com Vendas                                             ;                 ;                 ;                 
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -67.140         ; -60.760         ; -55.902         
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 0               ; 0               ; 625             
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -870            ; -780            ; 0               
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 4.748           ; 3.702           ; 22.332          
+ 3.06       ; Resultado Financeiro                                            ; -2.867          ; -1.720          ; 173             
+ 3.06.01    ; Receitas Financeiras                                            ; 1.322           ; 1.348           ; 1.794           
+ 3.06.02    ; Despesas Financeiras                                            ; -4.189          ; -3.068          ; -1.621          
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 1.881           ; 1.982           ; 22.505          
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -951            ; -70             ; -6.054          
+ 3.08.01    ; Corrente                                                        ; -3.505          ; -1.224          ; -6.670          
+ 3.08.02    ; Diferido                                                        ; 2.554           ; 1.154           ; 616             
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 930             ; 1.912           ; 16.451          
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 930             ; 1.912           ; 16.451          
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 897             ; 1.779           ; 16.040          
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; 33              ; 133             ; 411             
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 0,00690         ; 0,01370         ; 0,01200         
+ 3.99.01.02 ; PNA                                                             ; 0,00690         ; 0,01370         ; 0,01200         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 

@@ -1,0 +1,47 @@
+ Conta      ; Descrição                                                       ;T1/2011 - T4/2011;T1/2010 - T4/2010;T1/2009 - T4/2009
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 195.616         ; 434.070         ; 300.099         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -120.142        ; -324.228        ; -234.980        
+ 3.03       ; Resultado Bruto                                                 ; 75.474          ; 109.842         ; 65.119          
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -49.439         ; -46.347         ; -45.844         
+ 3.04.01    ; Despesas com Vendas                                             ; -9.727          ; -15.374         ; -18.001         
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -36.300         ; -27.969         ; -31.081         
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 3.726           ; 3.154           ; 5.349           
+ 3.04.04.01 ; Ganhos na alienação de investimentos                            ; 2.024           ; 878             ; 2.588           
+ 3.04.04.04 ; Outras receitas operacionais                                    ; 1.702           ; 2.276           ; 2.761           
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -7.138          ; -6.158          ; -2.111          
+ 3.04.05.01 ; Despesas tributárias                                            ; -1.570          ; -1.037          ; -1.461          
+ 3.04.05.02 ; Depreciação e amortização                                       ; -587            ; -657            ; -650            
+ 3.04.05.03 ; Resultado operações com derivativos                             ; 484             ; 0               ; 0               
+ 3.04.05.04 ; Participação empregados no lucro                                ; -995            ; -1.014          ; 0               
+ 3.04.05.05 ; Reversão / (constituição) de provisões operacionais             ; -7.010          ; -910            ; 0               
+ 3.04.05.06 ; Reversão / (constituição) de provisões perdas particip.         ; 2.540           ; -2.540          ; 0               
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 26.035          ; 63.495          ; 19.275          
+ 3.06       ; Resultado Financeiro                                            ; -12.723         ; -9.214          ; -1.128          
+ 3.06.01    ; Receitas Financeiras                                            ; 11.568          ; 10.546          ; 7.160           
+ 3.06.01.01 ; Aplicações financeiras                                          ; 3.839           ; 2.772           ; 2.729           
+ 3.06.01.02 ; Operações de mútuo                                              ; 1.753           ; 1.394           ; 1.258           
+ 3.06.01.03 ; Confissão de dívida                                             ; 2.493           ; 5.021           ; 0               
+ 3.06.01.04 ; Outros                                                          ; 3.483           ; 1.359           ; 3.173           
+ 3.06.02    ; Despesas Financeiras                                            ; -24.291         ; -19.760         ; -8.288          
+ 3.06.02.01 ; Empréstimos e financiamentos                                    ; -13.386         ; -17.329         ; -8.288          
+ 3.06.02.02 ; Debêntures                                                      ; -8.634          ; -1.073          ; 0               
+ 3.06.02.03 ; Cessão de direitos de crédito                                   ; -39             ; -1.358          ; 0               
+ 3.06.02.04 ; Operações de mútuo                                              ; -2.232          ; 0               ; 0               
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 13.312          ; 54.281          ; 18.147          
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; 1.483           ; -9.123          ; -3.505          
+ 3.08.01    ; Corrente                                                        ; -7.268          ; -10.265         ; -5.236          
+ 3.08.02    ; Diferido                                                        ; 8.751           ; 1.142           ; 1.731           
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 14.795          ; 45.158          ; 14.642          
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 14.795          ; 45.158          ; 14.642          
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 7.414           ; 46.954          ; 15.096          
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; 7.381           ; -1.796          ; -454            
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 0,15000         ; 1,02000         ; 0,33000         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; 0,15000         ; 0,99000         ; 0,32000         

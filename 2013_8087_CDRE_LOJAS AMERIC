@@ -1,0 +1,40 @@
+ Conta      ; Descrição                                                       ;T1/2013 - T4/2013;T1/2012 - T4/2012;T1/2011 - T4/2011
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 13.401.172      ; 11.334.061      ; 9.978.406       
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -9.326.423      ; -7.939.683      ; -7.000.751      
+ 3.03       ; Resultado Bruto                                                 ; 4.074.749       ; 3.394.378       ; 2.977.655       
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -2.623.834      ; -2.150.584      ; -1.848.785      
+ 3.04.01    ; Despesas com Vendas                                             ; -2.068.080      ; -1.671.841      ; -1.391.119      
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -434.095        ; -360.509        ; -300.329        
+ 3.04.02.01 ; Honorários dos Administradores                                  ; -30.786         ; -25.811         ; -23.486         
+ 3.04.02.02 ; Outros                                                          ; -403.309        ; -334.698        ; -276.843        
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ;                 ;                 ;                 
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -121.659        ; -118.234        ; -157.337        
+ 3.04.05.01 ; Depreciação e Amortização                                       ;                 ;                 ;                 
+ 3.04.05.02 ; Outras Receitas (Despesas) Operacionais                         ; -94.659         ; -94.834         ; -138.172        
+ 3.04.05.03 ; Participação de Empregados e Diretores                          ; -27.000         ; -23.400         ; -19.165         
+ 3.04.05.04 ; Participação de Acionistas não Controladores                    ;                 ;                 ;                 
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 1.450.915       ; 1.243.794       ; 1.128.870       
+ 3.06       ; Resultado Financeiro                                            ; -881.163        ; -786.569        ; -723.027        
+ 3.06.01    ; Receitas Financeiras                                            ; 380.339         ; 352.244         ; 408.938         
+ 3.06.02    ; Despesas Financeiras                                            ; -1.261.502      ; -1.138.813      ; -1.131.965      
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 569.752         ; 457.225         ; 405.843         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -169.011        ; -145.132        ; -116.946        
+ 3.08.01    ; Corrente                                                        ; -232.197        ; -189.722        ; -145.366        
+ 3.08.02    ; Diferido                                                        ; 63.186          ; 44.590          ; 28.420          
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 400.741         ; 312.093         ; 288.897         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ; 1.876           ; 34.481          ; 14.869          
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.10.02.01 ; Participações Minoritárias                                      ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 402.617         ; 346.574         ; 303.766         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 462.891         ; 410.193         ; 340.438         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; -60.274         ; -63.619         ; -36.672         
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 0,48961         ; 0,42937         ; 0,35668         
+ 3.99.01.02 ; PN                                                              ; 0,48961         ; 0,42937         ; 0,35668         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; 0,48758         ; 0,42738         ; 0,35668         
+ 3.99.02.02 ; PN                                                              ; 0,48758         ; 0,42738         ; 0,35668         

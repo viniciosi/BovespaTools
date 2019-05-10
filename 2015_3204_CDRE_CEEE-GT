@@ -1,0 +1,54 @@
+ Conta      ; Descrição                                                           ;T1/2015 - T4/2015;T1/2014 - T4/2014
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                              ; 661.254         ; 670.957         
+ 3.01.01    ; Suprimento de Energia Elétrica                                      ; 309.071         ; 335.658         
+ 3.01.02    ; Disponibilização do Sistema de Transmissão                          ; 351.434         ; 277.779         
+ 3.01.03    ; Linearização                                                        ;                 ;                 
+ 3.01.04    ; Receita de O&M                                                      ; -18.427         ; -14.859         
+ 3.01.05    ; Remuneração do Ativo Financeiro                                     ; 25.330          ; 15.100          
+ 3.01.06    ; Energia Elétrica de Curto Prazo                                     ; 11.035          ; 10.004          
+ 3.01.07    ; Receita de Construção                                               ; 111.194         ; 83.146          
+ 3.01.08    ; Outras Receitas Operacionais                                        ; 150             ; 4.492           
+ 3.01.09    ; ICMS/ISS                                                            ; -400            ; -142            
+ 3.01.10    ; PIS e COFINS                                                        ; -55.193         ; -14.651         
+ 3.01.11    ; Quota RGR                                                           ; -5.099          ; -2.973          
+ 3.01.12    ; Outros Encargos                                                     ; -12.542         ; -10.836         
+ 3.01.13    ; Encargos do Consumidor - P&D / MME / FNDCT                          ; -5.432          ; -5.876          
+ 3.01.14    ; Subvenções CCC                                                      ;                 ;                 
+ 3.01.15    ; Conta de Desenvolvimento Energético - CDE                           ; -17.915         ; -5.885          
+ 3.01.16    ; Taxa de Fiscalização do Serviço Público de Energia Elétrica - TFSEE ; -1.364          ; 0               
+ 3.01.17    ; Compensação Financeira pela Utilização de Recursos Hídricos - CFURH ; -30.588         ; 0               
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                               ; -498.541        ; -835.018        
+ 3.02.01    ; Custo com Energia Elétrica                                          ; -115.200        ; -451.698        
+ 3.02.02    ; Custo de Operação                                                   ; -383.341        ; -383.320        
+ 3.03       ; Resultado Bruto                                                     ; 162.713         ; -164.061        
+ 3.04       ; Despesas/Receitas Operacionais                                      ; -140.392        ; -310.508        
+ 3.04.01    ; Despesas com Vendas                                                 ; -2.614          ; -412            
+ 3.04.02    ; Despesas Gerais e Administrativas                                   ; -57.664         ; -54.500         
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                          ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                        ; 17.758          ; 36.221          
+ 3.04.05    ; Outras Despesas Operacionais                                        ; -141.065        ; -325.679        
+ 3.04.05.01 ; Outras Despesas Operacionais                                        ; -128.679        ; -309.551        
+ 3.04.05.02 ; Outras Despesas                                                     ; -12.386         ; -16.128         
+ 3.04.06    ; Resultado de Equivalência Patrimonial                               ; 43.193          ; 33.862          
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos              ; 22.321          ; -474.569        
+ 3.06       ; Resultado Financeiro                                                ; 50.951          ; 98.565          
+ 3.06.01    ; Receitas Financeiras                                                ; 248.133         ; 201.977         
+ 3.06.02    ; Despesas Financeiras                                                ; -197.182        ; -103.412        
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                          ; 73.272          ; -376.004        
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro                ; 11.507          ; 95.241          
+ 3.08.01    ; Corrente                                                            ; -25.040         ; -3.085          
+ 3.08.02    ; Diferido                                                            ; 36.547          ; 98.326          
+ 3.09       ; Resultado Líquido das Operações Continuadas                         ; 84.779          ; -280.763        
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                       ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas     ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                               ; 84.779          ; -280.763        
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                          ; 84.947          ; -280.173        
+ 3.11.02    ; Atribuído a Sócios Não Controladores                                ; -168            ; -590            
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                     ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                               ;                 ;                 
+ 3.99.01.01 ; ON                                                                  ; 0,22000         ; -0,73000        
+ 3.99.01.02 ; PN                                                                  ; 0,22000         ; -0,73000        
+ 3.99.02    ; Lucro Diluído por Ação                                              ;                 ;                 
+ 3.99.02.01 ; ON                                                                  ; 0,22000         ; -0,73000        
+ 3.99.02.02 ; PN                                                                  ; 0,22000         ; -0,73000        

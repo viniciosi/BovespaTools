@@ -1,0 +1,74 @@
+ Conta         ; Descrição                                            ;T4/2016  ;T4/2015  ;T4/2014  
+ 1             ; Ativo Total                                          ; 515.319 ; 475.860 ; 462.871 
+ 1.01          ; Ativo Circulante                                     ; 239.511 ; 198.037 ; 185.269 
+ 1.01.01       ; Caixa e Equivalentes de Caixa                        ; 1.587   ; 3.678   ; 3.232   
+ 1.01.01.01    ; Caixa e Bancos                                       ; 1.587   ; 3.678   ; 3.232   
+ 1.01.02       ; Aplicações Financeiras                               ; 204.157 ; 162.038 ; 153.965 
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;         ;         
+ 1.01.02.01.01 ; Títulos para Negociação                              ;         ;         ;         
+ 1.01.02.01.02 ; Títulos Disponíveis para Venda                       ;         ;         ;         
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ;         ;         ;         
+ 1.01.02.02.01 ; Títulos Mantidos até o Vencimento                    ;         ;         ;         
+ 1.01.03       ; Créditos das Operações                               ; 28.908  ; 26.758  ; 25.479  
+ 1.01.03.01    ; Seguros e Resseguros                                 ; 28.908  ; 26.758  ; 25.479  
+ 1.01.03.01.01 ; Prêmios a Receber                                    ; 833     ; 892     ; 907     
+ 1.01.03.01.02 ; Operações com Seguradoras                            ; 0       ; 0       ; 19      
+ 1.01.03.01.03 ; Operações com Resseguradoras                         ; 3.702   ; 3.509   ; 2.345   
+ 1.01.03.01.04 ; Outros Créditos Operacionais                         ; 2.055   ; 1.013   ; 771     
+ 1.01.03.01.05 ; Ativos de Reseguros - Provisões Técnicas             ; 22.318  ; 21.344  ; 21.437  
+ 1.01.03.02    ; Previdência Complementar                             ;         ;         ;         
+ 1.01.03.03    ; Capitalização                                        ;         ;         ;         
+ 1.01.03.04    ; Outras Operações                                     ;         ;         ;         
+ 1.01.04       ; Títulos e Créditos a Receber                         ; 4.692   ; 5.394   ; 2.240   
+ 1.01.05       ; Outros Valores e Bens                                ; 120     ; 118     ; 105     
+ 1.01.06       ; Empréstimos e Depósitos Compulsórios                 ;         ;         ;         
+ 1.01.07       ; Despesas Antecipadas                                 ; 47      ; 51      ; 248     
+ 1.01.08       ; Despesas de Comercialização Diferidas                ;         ;         ;         
+ 1.01.08.01    ; Custos de Aquisição Diferidos - Seguros              ;         ;         ;         
+ 1.01.09       ; Outros Ativos Circulantes                            ;         ;         ;         
+ 1.01.09.01    ; Ativos Não Correntes a Venda                         ;         ;         ;         
+ 1.01.09.02    ; Ativos de Operações Descontinuadas                   ;         ;         ;         
+ 1.01.09.03    ; Outros                                               ;         ;         ;         
+ 1.02          ; Ativo Não Circulante                                 ; 275.808 ; 277.823 ; 277.602 
+ 1.02.01       ; Ativo Realizável a Longo Prazo                       ; 148.666 ; 154.754 ; 154.255 
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;         ;         
+ 1.02.01.01.01 ; Títulos para Negociação                              ;         ;         ;         
+ 1.02.01.01.02 ; Títulos Disponíveis para Venda                       ;         ;         ;         
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ; 3.316   ; 2.270   ; 1.397   
+ 1.02.01.02.01 ; Títulos Mantidos até o Vencimento                    ; 3.316   ; 2.270   ; 1.397   
+ 1.02.01.03    ; Créditos das Operações                               ; 68.035  ; 80.921  ; 85.184  
+ 1.02.01.03.01 ; Operações com Resseguradoras                         ; 101     ; 101     ; 101     
+ 1.02.01.03.02 ; Ativos de Resseguros - Provisões Técnicas            ; 67.934  ; 80.820  ; 85.083  
+ 1.02.01.04    ; Títulos e Créditos a Receber                         ; 77.315  ; 71.563  ; 67.674  
+ 1.02.01.04.01 ; Créditos Tributários e Previdenciários               ; 3.858   ; 3.936   ; 3.543   
+ 1.02.01.04.02 ; Depósitos Judiciais e Fiscais                        ; 73.457  ; 67.627  ; 64.131  
+ 1.02.01.04.03 ; Outros Créditos a Receber                            ;         ;         ;         
+ 1.02.01.04.04 ; Direito resultante da venda de imóveis               ;         ;         ;         
+ 1.02.01.04.05 ; Créditos a Receber                                   ;         ;         ;         
+ 1.02.01.05    ; Outros Valores e Bens                                ;         ;         ;         
+ 1.02.01.06    ; Empréstimos e Depósitos Compulsórios                 ;         ;         ;         
+ 1.02.01.07    ; Despesas Antecipadas                                 ;         ;         ;         
+ 1.02.01.08    ; Despesas de Comercialização Diferidas                ;         ;         ;         
+ 1.02.01.09    ; Tributos Diferidos                                   ;         ;         ;         
+ 1.02.01.10    ; Outros Ativos Não Circulantes                        ;         ;         ;         
+ 1.02.01.10.01 ; Ativos Não Correntes a Venda                         ;         ;         ;         
+ 1.02.01.10.02 ; Ativos de Operações Descontinuadas                   ;         ;         ;         
+ 1.02.02       ; Investimentos                                        ; 122.486 ; 117.830 ; 117.787 
+ 1.02.02.01    ; Participações Societárias                            ; 101.267 ; 97.252  ; 96.886  
+ 1.02.02.01.01 ; Participações em Coligadas no País                   ; 100.508 ; 96.494  ; 96.128  
+ 1.02.02.01.02 ; Participações em Coligadas no Exterior               ;         ;         ;         
+ 1.02.02.01.05 ; Outras Participações Societárias                     ; 759     ; 758     ; 758     
+ 1.02.02.02    ; Propriedades para Investimento                       ; 21.219  ; 20.578  ; 20.901  
+ 1.02.02.02.01 ; Imóveis Urbanos não Destinados a Uso Próprio         ; 21.219  ; 20.578  ; 20.901  
+ 1.02.03       ; Imobilizado                                          ; 4.635   ; 5.207   ; 5.508   
+ 1.02.03.01    ; Imobilizado em Operação                              ; 4.635   ; 5.207   ; 5.508   
+ 1.02.03.01.01 ; Imóveis de uso Próprio                               ; 3.979   ; 4.637   ; 4.856   
+ 1.02.03.01.02 ; Bens Móveis de Uso Próprio                           ; 484     ; 392     ; 516     
+ 1.02.03.01.03 ; Outras Imobilizações                                 ; 172     ; 178     ; 136     
+ 1.02.03.01.04 ; Provisão para Desvalorização                         ;         ;         ;         
+ 1.02.03.01.05 ; Depreciação                                          ;         ;         ;         
+ 1.02.03.02    ; Imobilizado Arrendado                                ;         ;         ;         
+ 1.02.03.03    ; Imobilizado em Andamento                             ;         ;         ;         
+ 1.02.04       ; Intangível                                           ; 21      ; 32      ; 52      
+ 1.02.04.01    ; Intangíveis                                          ;         ;         ;         
+ 1.02.04.02    ; Goodwill                                             ;         ;         ;         

@@ -1,0 +1,40 @@
+ Conta      ; Descrição                                                       ;T1/2015 - T4/2015;T1/2014 - T4/2014;T1/2013 - T4/2013
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 2.216.634       ; 2.030.433       ; 2.126.638       
+ 3.01.01    ; Sistema de Negociação, Compensação e Liquidação - BM&F          ; 1.074.531       ; 866.577         ; 916.530         
+ 3.01.02    ; Sistema de Negociação, Compensação e Liquidação - Bovespa       ; 903.016         ; 977.373         ; 1.023.978       
+ 3.01.03    ; Outras Receitas Operacionais                                    ; 481.300         ; 402.502         ; 424.448         
+ 3.01.04    ; PIS e Cofins                                                    ; -210.591        ; -186.770        ; -208.412        
+ 3.01.05    ; Impostos sobre Serviços                                         ; -31.622         ; -29.249         ; -29.906         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ;                 ;                 ;                 
+ 3.03       ; Resultado Bruto                                                 ; 2.216.634       ; 2.030.433       ; 2.126.638       
+ 3.04       ; Despesas/Receitas Operacionais                                  ; 81.792          ; -591.910        ; -619.449        
+ 3.04.01    ; Despesas com Vendas                                             ;                 ;                 ;                 
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -850.656        ; -804.070        ; -790.814        
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 2.458.884       ; 0               ; 0               
+ 3.04.04.01 ; Descontinuidade do Uso do Método de Equivalência Patrimonial    ; 1.734.889       ; 0               ; 0               
+ 3.04.04.02 ; Resultado na Alienação de Investimentos em Coligadas            ; 723.995         ; 0               ; 0               
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -1.662.681      ; 0               ; 0               
+ 3.04.05.01 ; Amortização de Ágio                                             ;                 ;                 ;                 
+ 3.04.05.02 ; Redução ao Valor Recuperável de Ativos                          ; -1.662.681      ; 0               ; 0               
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ; 136.245         ; 212.160         ; 171.365         
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 2.298.426       ; 1.438.523       ; 1.507.189       
+ 3.06       ; Resultado Financeiro                                            ; 508.796         ; 208.157         ; 180.695         
+ 3.06.01    ; Receitas Financeiras                                            ; 745.707         ; 361.761         ; 298.868         
+ 3.06.02    ; Despesas Financeiras                                            ; -236.911        ; -153.604        ; -118.173        
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 2.807.222       ; 1.646.680       ; 1.687.884       
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -603.764        ; -660.959        ; -606.588        
+ 3.08.01    ; Corrente                                                        ; -45.558         ; -104.159        ; -60.097         
+ 3.08.02    ; Diferido                                                        ; -558.206        ; -556.800        ; -546.491        
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 2.203.458       ; 985.721         ; 1.081.296       
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ; 0               ; -7.807          ; -349            
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ; 0               ; -7.807          ; -349            
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 2.203.458       ; 977.914         ; 1.080.947       
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 2.202.238       ; 977.053         ; 1.081.516       
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; 1.220           ; 861             ; -569            
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 1,22900         ; 0,53176         ; 0,56364         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; 1,21986         ; 0,53071         ; 0,56216         

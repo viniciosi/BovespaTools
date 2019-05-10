@@ -1,0 +1,39 @@
+ Conta      ; Descrição                                                       ;T1/2011 - T4/2011;T1/2010 - T4/2010;T1/2009 - T4/2009
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 1.213.645       ; 935.731         ; 772.179         
+ 3.01.01    ; Sistemas de transmissão de energia                              ; 1.127.735       ; 917.847         ; 827.076         
+ 3.01.02    ; Sistemas de geração de energia                                  ; 162.459         ; 80.204          ; 0               
+ 3.01.03    ; Deduções da receita bruta                                       ; -76.549         ; -62.320         ; -54.897         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -373.051        ; -243.889        ; -112.974        
+ 3.02.01    ; Custos dos serviços prestados                                   ; -65.121         ; -58.242         ; -49.942         
+ 3.02.02    ; Energia compra para revenda                                     ; -46.371         ; -60.456         ; 0               
+ 3.02.03    ; Custo da infraestrutura                                         ; -237.926        ; -122.258        ; -63.025         
+ 3.02.04    ; Depreciação                                                     ; -23.633         ; -2.933          ; -7              
+ 3.03       ; Resultado Bruto                                                 ; 840.594         ; 691.842         ; 659.205         
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -102.194        ; -37.444         ; -45.800         
+ 3.04.01    ; Despesas com Vendas                                             ;                 ;                 ;                 
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -86.148         ; -56.378         ; -53.935         
+ 3.04.02.01 ; Pessoal                                                         ; -28.650         ; -19.154         ; -12.398         
+ 3.04.02.02 ; Honorários da direotira e conselho de administração             ; -12.406         ; -10.251         ; -9.249          
+ 3.04.02.03 ; Outras despesas gerais e administrativas                        ; -45.092         ; -26.973         ; -32.288         
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 264             ; 20.197          ; 8.156           
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -16.310         ; -1.263          ; -21             
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 738.400         ; 654.398         ; 613.405         
+ 3.06       ; Resultado Financeiro                                            ; -199.623        ; -133.228        ; -121.373        
+ 3.06.01    ; Receitas Financeiras                                            ; 57.694          ; 55.497          ; 24.995          
+ 3.06.02    ; Despesas Financeiras                                            ; -257.317        ; -188.725        ; -146.368        
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 538.777         ; 521.170         ; 492.032         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -99.733         ; -99.744         ; -96.637         
+ 3.08.01    ; Corrente                                                        ; -66.587         ; -61.756         ; -56.355         
+ 3.08.02    ; Diferido                                                        ; -33.146         ; -37.988         ; -40.282         
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 439.044         ; 421.426         ; 395.395         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 439.044         ; 421.426         ; 395.395         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 190.527         ; 192.481         ; 138.157         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; 248.517         ; 228.945         ; 257.238         
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 

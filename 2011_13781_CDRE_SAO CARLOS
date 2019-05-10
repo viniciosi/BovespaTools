@@ -1,0 +1,31 @@
+ Conta      ; Descrição                                                       ;T1/2011 - T4/2011;T1/2010 - T4/2010;T1/2009 - T4/2009
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 344.191         ; 231.237         ; 551.466         
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -128.111        ; -38.191         ; -321.293        
+ 3.03       ; Resultado Bruto                                                 ; 216.080         ; 193.046         ; 230.173         
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -39.188         ; -28.055         ; -36.016         
+ 3.04.01    ; Despesas com Vendas                                             ; -8.620          ; -5.609          ; 0               
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -20.137         ; -16.803         ; -29.830         
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 651             ; 10.500          ; 866             
+ 3.04.05    ; Outras Despesas Operacionais                                    ; -11.082         ; -16.143         ; -7.052          
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 176.892         ; 164.991         ; 194.157         
+ 3.06       ; Resultado Financeiro                                            ; -57.073         ; -54.464         ; -31.671         
+ 3.06.01    ; Receitas Financeiras                                            ; 38.781          ; 37.067          ; 27.492          
+ 3.06.02    ; Despesas Financeiras                                            ; -95.854         ; -91.531         ; -59.163         
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; 119.819         ; 110.527         ; 162.486         
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -23.460         ; -18.593         ; -29.101         
+ 3.08.01    ; Corrente                                                        ; -22.585         ; -16.670         ; -29.432         
+ 3.08.02    ; Diferido                                                        ; -875            ; -1.923          ; 331             
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; 96.359          ; 91.934          ; 133.385         
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; 96.359          ; 91.934          ; 133.385         
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; 96.359          ; 91.934          ; 133.385         
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ;                 ;                 ;                 
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 1,68190         ; 1,59390         ; 0,00000         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ; 1,64980         ; 1,58810         ; 0,00000         

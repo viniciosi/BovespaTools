@@ -1,0 +1,75 @@
+ Conta         ; Descrição                                            ;T4/2012  ;T4/2011    ;T4/2010    
+ 1             ; Ativo Total                                          ; 459.574 ; 4.918.542 ; 6.266.517 
+ 1.01          ; Ativo Circulante                                     ; 115.263 ; 1.082.623 ; 1.329.893 
+ 1.01.01       ; Caixa e Equivalentes de Caixa                        ; 1.396   ; 46.059    ; 53.069    
+ 1.01.02       ; Aplicações Financeiras                               ; 43.751  ; 165.648   ; 57.504    
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;           ;           
+ 1.01.02.01.01 ; Títulos para Negociação                              ;         ;           ;           
+ 1.01.02.01.02 ; Títulos Disponíveis para Venda                       ;         ;           ;           
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ;         ;           ;           
+ 1.01.02.02.01 ; Títulos Mantidos até o Vencimento                    ;         ;           ;           
+ 1.01.03       ; Contas a Receber                                     ; 57.819  ; 663.950   ; 649.789   
+ 1.01.03.01    ; Clientes                                             ; 6.132   ; 592.915   ; 572.653   
+ 1.01.03.01.01 ; Consumidores                                         ; 6.317   ; 686.722   ; 671.569   
+ 1.01.03.01.02 ; (-) Provisão para Créditos de Liquidação Duvidosa    ; -185    ; -93.807   ; -98.916   
+ 1.01.03.02    ; Outras Contas a Receber                              ; 51.687  ; 71.035    ; 77.136    
+ 1.01.03.02.01 ; Ativo Financeiro - Bens da Concessão                 ; 51.687  ; 53.980    ; 60.091    
+ 1.01.03.02.02 ; Contas a Receber - Estado de Goiás                   ; 0       ; 17.055    ; 17.045    
+ 1.01.04       ; Estoques                                             ; 3.484   ; 33.598    ; 26.960    
+ 1.01.05       ; Ativos Biológicos                                    ;         ;           ;           
+ 1.01.06       ; Tributos a Recuperar                                 ;         ;           ;           
+ 1.01.06.01    ; Tributos Correntes a Recuperar                       ;         ;           ;           
+ 1.01.07       ; Despesas Antecipadas                                 ; 135     ; 121       ; 157       
+ 1.01.08       ; Outros Ativos Circulantes                            ; 8.678   ; 173.247   ; 542.414   
+ 1.01.08.01    ; Ativos Não-Correntes a Venda                         ;         ;           ;           
+ 1.01.08.02    ; Ativos de Operações Descontinuadas                   ;         ;           ;           
+ 1.01.08.03    ; Outros                                               ; 8.678   ; 173.247   ; 542.414   
+ 1.01.08.03.01 ; Devedores Diversos                                   ; 1.952   ; 43.887    ; 128.087   
+ 1.01.08.03.02 ; Serviços em Curso                                    ; 0       ; 51.925    ; 52.712    
+ 1.01.08.03.03 ; Créditos Fiscais                                     ; 0       ; 17.452    ; 0         
+ 1.01.08.03.04 ; Outros Créditos                                      ; 18      ; 59.983    ; 361.615   
+ 1.01.08.03.05 ; Transações com Partes Relacionadas                   ; 6.708   ; 0         ; 0         
+ 1.02          ; Ativo Não Circulante                                 ; 344.311 ; 3.835.919 ; 4.936.624 
+ 1.02.01       ; Ativo Realizável a Longo Prazo                       ; 220.705 ; 2.960.700 ; 4.005.348 
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;         ;           ;           
+ 1.02.01.01.01 ; Títulos para Negociação                              ;         ;           ;           
+ 1.02.01.01.02 ; Títulos Disponíveis para Venda                       ;         ;           ;           
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ;         ;           ;           
+ 1.02.01.02.01 ; Títulos Mantidos até o Vencimento                    ;         ;           ;           
+ 1.02.01.03    ; Contas a Receber                                     ; 0       ; 284.259   ; 307.253   
+ 1.02.01.03.01 ; Clientes                                             ; 0       ; 284.259   ; 307.253   
+ 1.02.01.03.02 ; Outras Contas a Receber                              ;         ;           ;           
+ 1.02.01.04    ; Estoques                                             ;         ;           ;           
+ 1.02.01.05    ; Ativos Biológicos                                    ;         ;           ;           
+ 1.02.01.06    ; Tributos Diferidos                                   ;         ;           ;           
+ 1.02.01.06.01 ; Imposto de Renda e Contribuição Social Diferidos     ;         ;           ;           
+ 1.02.01.07    ; Despesas Antecipadas                                 ;         ;           ;           
+ 1.02.01.08    ; Créditos com Partes Relacionadas                     ;         ;           ;           
+ 1.02.01.08.01 ; Créditos com Coligadas                               ;         ;           ;           
+ 1.02.01.08.03 ; Créditos com Controladores                           ;         ;           ;           
+ 1.02.01.08.04 ; Créditos com Outras Partes Relacionadas              ;         ;           ;           
+ 1.02.01.09    ; Outros Ativos Não Circulantes                        ; 220.705 ; 2.676.441 ; 3.698.095 
+ 1.02.01.09.01 ; Ativos Não-Correntes a Venda                         ;         ;           ;           
+ 1.02.01.09.02 ; Ativos de Operações Descontinuadas                   ;         ;           ;           
+ 1.02.01.09.03 ; Ativo Financeiro - Bens da Concessão                 ; 218.272 ; 1.412.426 ; 1.242.299 
+ 1.02.01.09.04 ; Fundos Vinculados                                    ; 1.722   ; 1.614     ; 1.585     
+ 1.02.01.09.05 ; Programa Emergencial Redução Consumo Energia El.     ; 0       ; 19.600    ; 19.600    
+ 1.02.01.09.06 ; Devedores Diversos                                   ; 0       ; 128.193   ; 13.862    
+ 1.02.01.09.07 ; Contas a Receber - Estado de Goiás                   ; 0       ; 556.889   ; 1.924.942 
+ 1.02.01.09.08 ; Créditos Fiscais                                     ; 0       ; 231.499   ; 481.132   
+ 1.02.01.09.09 ; Outros Créditos                                      ; 425     ; 343.295   ; 31.464    
+ 1.02.01.09.10 ; Bens e Direitos Destinados à Alienação               ; 286     ; 1.528     ; 1.814     
+ 1.02.01.09.11 ; (-) Provisão para Créditos de Liquidação Duvidosa    ; 0       ; -18.603   ; -18.603   
+ 1.02.02       ; Investimentos                                        ; 2.120   ; 13.935    ; 9.038     
+ 1.02.02.01    ; Participações Societárias                            ;         ;           ;           
+ 1.02.02.01.01 ; Participações em Coligadas                           ;         ;           ;           
+ 1.02.02.01.04 ; Outras Participações Societárias                     ;         ;           ;           
+ 1.02.02.02    ; Propriedades para Investimento                       ;         ;           ;           
+ 1.02.03       ; Imobilizado                                          ; 115.351 ; 203.027   ; 210.483   
+ 1.02.03.01    ; Imobilizado em Operação                              ; 115.351 ; 203.027   ; 210.483   
+ 1.02.03.02    ; Imobilizado Arrendado                                ;         ;           ;           
+ 1.02.03.03    ; Imobilizado em Andamento                             ;         ;           ;           
+ 1.02.04       ; Intangível                                           ; 6.135   ; 658.257   ; 711.755   
+ 1.02.04.01    ; Intangíveis                                          ; 6.135   ; 658.257   ; 711.755   
+ 1.02.04.01.01 ; Contrato de Concessão                                ; 6.135   ; 658.257   ; 711.755   
+ 1.02.04.02    ; Goodwill                                             ;         ;           ;           

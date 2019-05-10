@@ -1,0 +1,80 @@
+ Conta         ; Descrição                                                    ;T4/2015  ;T4/2014  ;T4/2013  
+ 2             ; Passivo Total                                                ; 475.860 ; 462.871 ; 438.510 
+ 2.01          ; Passivo Circulante                                           ; 102.240 ; 94.054  ; 80.580  
+ 2.01.01       ; Contas a Pagar                                               ; 16.302  ; 13.945  ; 6.445   
+ 2.01.01.01    ; Obrigações a Pagar                                           ; 14.713  ; 12.512  ; 4.980   
+ 2.01.01.02    ; Impostos e Encargos Sociais a Recolher                       ; 725     ; 567     ; 666     
+ 2.01.01.03    ; Encargos Trabalhistas                                        ; 860     ; 866     ; 799     
+ 2.01.01.04    ; Impostos e Contribuições                                     ; 4       ; 0       ; 0       
+ 2.01.02       ; Débitos de Operações                                         ; 5.291   ; 4.837   ; 4.213   
+ 2.01.02.01    ; Seguros e Resseguros                                         ; 5.291   ; 4.837   ; 4.213   
+ 2.01.02.01.01 ; Operações com Seguradoras                                    ; 304     ; 304     ; 240     
+ 2.01.02.01.02 ; Operações com Resseguradoras                                 ; 4.364   ; 3.077   ; 2.839   
+ 2.01.02.01.03 ; Corretores de Seguros e Resseguros                           ; 605     ; 1.406   ; 1.100   
+ 2.01.02.01.04 ; Receitas de Comercialização Diferidas                        ;         ;         ;         
+ 2.01.02.01.05 ; Outros Débitos Operacionais                                  ; 18      ; 50      ; 34      
+ 2.01.02.02    ; Previdência Complementar                                     ;         ;         ;         
+ 2.01.02.03    ; Capitalização                                                ;         ;         ;         
+ 2.01.02.04    ; Outras Operações                                             ;         ;         ;         
+ 2.01.03       ; Depósitos de Terceiros                                       ; 32      ; 34      ; 34      
+ 2.01.04       ; Provisões Técnicas                                           ; 80.615  ; 75.238  ; 69.888  
+ 2.01.04.01    ; Seguros e Resseguros                                         ; 80.615  ; 75.238  ; 69.888  
+ 2.01.04.01.01 ; Provisão de Prêmios não Ranhos                               ;         ;         ;         
+ 2.01.04.01.02 ; Provisão de Sinistros a Liquidar                             ;         ;         ;         
+ 2.01.04.01.03 ; Provisão de Sinistros Ocorridos mas não Avisados             ;         ;         ;         
+ 2.01.04.01.04 ; Outras Provisões                                             ;         ;         ;         
+ 2.01.04.02    ; Previdência Complementar                                     ;         ;         ;         
+ 2.01.04.03    ; Capitalização                                                ;         ;         ;         
+ 2.01.04.04    ; Outras Provisões                                             ;         ;         ;         
+ 2.01.05       ; Outros Débitos                                               ;         ;         ;         
+ 2.01.06       ; Passivos sobre Ativos Não Correntes a Venda e Descontinuados ;         ;         ;         
+ 2.01.06.01    ; Passivos sobre Ativos Não Correntes a Venda                  ;         ;         ;         
+ 2.01.06.02    ; Passivos sobre Ativos de Operações Descontinuadas            ;         ;         ;         
+ 2.02          ; Passivo Não Circulante                                       ; 188.094 ; 189.902 ; 182.699 
+ 2.02.01       ; Passivo Exigível a Longo Prazo                               ; 188.094 ; 189.902 ; 182.699 
+ 2.02.01.01    ; Contas a Pagar                                               ; 6.389   ; 9.019   ; 8.361   
+ 2.02.01.01.01 ; Tributos Diferidos                                           ; 6.389   ; 9.019   ; 8.361   
+ 2.02.01.02    ; Débitos das Operações                                        ;         ;         ;         
+ 2.02.01.03    ; Provisões Técnicas                                           ; 123.303 ; 126.418 ; 121.544 
+ 2.02.01.03.01 ; Seguros e Resseguros                                         ; 123.303 ; 126.418 ; 121.544 
+ 2.02.01.03.02 ; Previdência Complementar                                     ;         ;         ;         
+ 2.02.01.03.03 ; Capitalização                                                ;         ;         ;         
+ 2.02.01.03.04 ; Outras Provisões                                             ;         ;         ;         
+ 2.02.01.04    ; Outros Passivos                                              ; 58.402  ; 54.465  ; 52.794  
+ 2.02.01.04.01 ; Provisões Judiciais                                          ; 58.402  ; 54.465  ; 52.794  
+ 2.02.01.05    ; Tributos Diferidos                                           ;         ;         ;         
+ 2.02.01.06    ; Passivos sobre Ativos Não Correntes a Venda e Descontinuados ;         ;         ;         
+ 2.02.01.06.01 ; Passivos sobre Ativos Não Correntes a Venda                  ;         ;         ;         
+ 2.02.01.06.02 ; Passivos sobre Ativos de Operações Descontinuadas            ;         ;         ;         
+ 2.02.01.07    ; Lucros e Receitas a Apropriar                                ;         ;         ;         
+ 2.02.01.07.01 ; Lucros a Apropriar                                           ;         ;         ;         
+ 2.02.01.07.02 ; Receitas a Apropriar                                         ;         ;         ;         
+ 2.02.01.07.03 ; Subvenções de Investimento a Apropriar                       ;         ;         ;         
+ 2.02.01.08    ; Adiantamento para Futuro Aumento Capital                     ;         ;         ;         
+ 2.03          ; Patrimônio Líquido Consolidado                               ; 185.526 ; 178.915 ; 175.231 
+ 2.03.01       ; Capital Social Realizado                                     ; 100.000 ; 100.000 ; 100.000 
+ 2.03.02       ; Reservas de Capital                                          ;         ;         ;         
+ 2.03.02.01    ; Ágio na Emissão de Ações                                     ;         ;         ;         
+ 2.03.02.02    ; Reserva Especial de Ágio na Incorporação                     ;         ;         ;         
+ 2.03.02.03    ; Alienação de Bônus de Subscrição                             ;         ;         ;         
+ 2.03.02.04    ; Opções Outorgadas                                            ;         ;         ;         
+ 2.03.02.05    ; Ações em Tesouraria                                          ;         ;         ;         
+ 2.03.02.06    ; Adiantamento para Futuro Aumento Capital                     ;         ;         ;         
+ 2.03.03       ; Reservas de Reavaliação                                      ; 10.148  ; 11.098  ; 11.954  
+ 2.03.03.01    ; Ativos Próprios                                              ; 7.915   ; 8.854   ; 9.077   
+ 2.03.03.02    ; Controladas/Coligadas                                        ; 2.233   ; 2.244   ; 2.877   
+ 2.03.04       ; Reservas de Lucros                                           ; 72.313  ; 61.364  ; 57.948  
+ 2.03.04.01    ; Reserva Legal                                                ; 18.774  ; 16.465  ; 14.660  
+ 2.03.04.02    ; Reserva Estatutária                                          ; 30.345  ; 19.002  ; 35.308  
+ 2.03.04.03    ; Reserva para Contingências                                   ;         ;         ;         
+ 2.03.04.04    ; Reserva de Lucros a Realizar                                 ;         ;         ;         
+ 2.03.04.05    ; Reserva de Retenção de Lucros                                ;         ;         ;         
+ 2.03.04.06    ; Reserva Especial para Dividendos Não Distribuídos            ;         ;         ;         
+ 2.03.04.07    ; Reserva de Incentivos Fiscais                                ;         ;         ;         
+ 2.03.04.08    ; Dividendo Adicional Proposto                                 ; 23.194  ; 25.897  ; 7.980   
+ 2.03.04.09    ; Ações em Tesouraria                                          ;         ;         ;         
+ 2.03.05       ; Lucros/Prejuízos Acumulados                                  ;         ;         ;         
+ 2.03.06       ; Ajustes de Avaliação Patrimonial                             ; 3.065   ; 6.453   ; 5.329   
+ 2.03.07       ; Ajustes Acumulados de Conversão                              ;         ;         ;         
+ 2.03.08       ; Outros Resultados Abrangentes                                ;         ;         ;         
+ 2.03.09       ; Participação dos Acionistas Não Controladores                ;         ;         ;         

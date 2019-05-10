@@ -1,0 +1,34 @@
+ Conta      ; Descrição                                                                 ;T1/2018 - T4/2018;T1/2017 - T4/2017;T1/2016 - T4/2016
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                                    ; 820.960.883     ; 817.546.243     ; 794.503.251     
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                                     ; -398.809.354    ; -377.892.591    ; -396.891.590    
+ 3.03       ; Resultado Bruto                                                           ; 422.151.529     ; 439.653.652     ; 397.611.661     
+ 3.04       ; Despesas/Receitas Operacionais                                            ; -281.134.500    ; -300.588.946    ; -248.702.467    
+ 3.04.01    ; Despesas com Vendas                                                       ; -131.194.852    ; -131.628.801    ; -130.392.732    
+ 3.04.02    ; Despesas Gerais e Administrativas                                         ; -98.497.782     ; -121.867.923    ; -80.349.142     
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                                ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                              ; 1.307.349       ; 2.060.092       ; 967.543         
+ 3.04.05    ; Outras Despesas Operacionais                                              ; -52.749.215     ; -49.152.314     ; -38.928.136     
+ 3.04.06    ; Resultado de Equivalência Patrimonial                                     ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos                    ; 141.017.029     ; 139.064.706     ; 148.909.194     
+ 3.06       ; Resultado Financeiro                                                      ; -46.014.159     ; -75.948.818     ; -51.543.660     
+ 3.06.01    ; Receitas Financeiras                                                      ;                 ;                 ;                 
+ 3.06.02    ; Despesas Financeiras                                                      ; -46.014.159     ; -75.948.818     ; -51.543.660     
+ 3.06.02.01 ; Despesas financeiras líquidas                                             ; -31.152.583     ; -57.442.325     ; 2.923.926       
+ 3.06.02.02 ; Despesas cambiais líquidas                                                ; -27.673.034     ; -18.506.493     ; -54.467.586     
+ 3.06.02.03 ; Ganho na posicao monetária líquida pela exposicao á inflacao na Argentina ; 12.811.458      ; 0               ; 0               
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                                ; 95.002.870      ; 63.115.888      ; 97.365.534      
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro                      ; -31.540.503     ; -46.182.226     ; -50.140.678     
+ 3.08.01    ; Corrente                                                                  ; -23.743.420     ; -30.826.044     ; -29.999.364     
+ 3.08.02    ; Diferido                                                                  ; -7.797.083      ; -15.356.182     ; -20.141.314     
+ 3.09       ; Resultado Líquido das Operações Continuadas                               ; 63.462.367      ; 16.933.662      ; 47.224.856      
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                             ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas                       ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas           ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                                     ; 63.462.367      ; 16.933.662      ; 47.224.856      
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                                ; 63.462.367      ; 16.933.662      ; 47.224.856      
+ 3.11.02    ; Atribuído a Sócios Não Controladores                                      ;                 ;                 ;                 
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                           ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                                     ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                                        ; 0,60000         ; 0,18000         ; 0,52600         
+ 3.99.02    ; Lucro Diluído por Ação                                                    ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                                        ; 0,60000         ; 0,17000         ; 0,52600         

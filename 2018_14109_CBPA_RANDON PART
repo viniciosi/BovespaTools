@@ -1,0 +1,76 @@
+ Conta         ; Descrição                                                                               ;T4/2018    ;T4/2017    
+ 1             ; Ativo Total                                                                             ; 5.838.143 ; 4.970.681 
+ 1.01          ; Ativo Circulante                                                                        ; 3.496.084 ; 3.109.734 
+ 1.01.01       ; Caixa e Equivalentes de Caixa                                                           ; 1.229.151 ; 1.001.599 
+ 1.01.02       ; Aplicações Financeiras                                                                  ; 498.780   ; 650.698   
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo através do Resultado                     ;           ;           
+ 1.01.02.01.01 ; Títulos para Negociação                                                                 ;           ;           
+ 1.01.02.01.02 ; Títulos Designados a Valor Justo                                                        ;           ;           
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes ;           ;           
+ 1.01.02.03    ; Aplicações Financeiras Avaliadas ao Custo Amortizado                                    ;           ;           
+ 1.01.03       ; Contas a Receber                                                                        ; 638.718   ; 526.646   
+ 1.01.03.01    ; Clientes                                                                                ; 638.718   ; 526.646   
+ 1.01.03.02    ; Outras Contas a Receber                                                                 ;           ;           
+ 1.01.04       ; Estoques                                                                                ; 847.944   ; 607.060   
+ 1.01.04.01    ; Matérias-primas                                                                         ; 268.379   ; 186.620   
+ 1.01.04.02    ; Produtos em elaboração                                                                  ; 157.650   ; 131.934   
+ 1.01.04.03    ; Produtos prontos                                                                        ; 227.840   ; 147.360   
+ 1.01.04.04    ; Material para revenda e manutenção                                                      ; 136.574   ; 94.286    
+ 1.01.04.05    ; Adianatamento a fornecedores                                                            ; 8.965     ; 10.869    
+ 1.01.04.06    ; Importações em andamento                                                                ; 60.886    ; 59.517    
+ 1.01.04.07    ; Provisão para perda com estoques                                                        ; -21.513   ; -23.526   
+ 1.01.04.08    ; Ajuste de correção monetária                                                            ; 9.163     ; 0         
+ 1.01.05       ; Ativos Biológicos                                                                       ;           ;           
+ 1.01.06       ; Tributos a Recuperar                                                                    ; 219.629   ; 215.107   
+ 1.01.06.01    ; Tributos Correntes a Recuperar                                                          ; 219.629   ; 215.107   
+ 1.01.07       ; Despesas Antecipadas                                                                    ; 19.093    ; 11.179    
+ 1.01.08       ; Outros Ativos Circulantes                                                               ; 42.769    ; 97.445    
+ 1.01.08.01    ; Ativos Não-Correntes a Venda                                                            ;           ;           
+ 1.01.08.02    ; Ativos de Operações Descontinuadas                                                      ;           ;           
+ 1.01.08.03    ; Outros                                                                                  ; 42.769    ; 97.445    
+ 1.01.08.03.01 ; Instrumentos Financeiros Derivativos                                                    ; 0         ; 2.096     
+ 1.01.08.03.02 ; Outros ativos circulantes                                                               ; 23.464    ; 19.350    
+ 1.01.08.03.03 ; Direitos por recurso de Consórcio                                                       ; 15.190    ; 71.367    
+ 1.01.08.03.05 ; Randonprev avaliação atuarial                                                           ; 4.115     ; 4.632     
+ 1.02          ; Ativo Não Circulante                                                                    ; 2.342.059 ; 1.860.947 
+ 1.02.01       ; Ativo Realizável a Longo Prazo                                                          ; 622.745   ; 387.521   
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo através do Resultado                     ; 10.640    ; 0         
+ 1.02.01.01.01 ; Títulos Designados a Valor Justo                                                        ;           ;           
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes ;           ;           
+ 1.02.01.03    ; Aplicações Financeiras Avaliadas ao Custo Amortizado                                    ;           ;           
+ 1.02.01.04    ; Contas a Receber                                                                        ; 110.960   ; 62.174    
+ 1.02.01.04.01 ; Clientes                                                                                ; 110.960   ; 62.174    
+ 1.02.01.04.02 ; Outras Contas a Receber                                                                 ;           ;           
+ 1.02.01.05    ; Estoques                                                                                ;           ;           
+ 1.02.01.06    ; Ativos Biológicos                                                                       ;           ;           
+ 1.02.01.07    ; Tributos Diferidos                                                                      ; 168.835   ; 187.821   
+ 1.02.01.07.01 ; Imposto de Renda e Contribuição Social Diferidos                                        ; 168.835   ; 187.821   
+ 1.02.01.08    ; Despesas Antecipadas                                                                    ;           ;           
+ 1.02.01.09    ; Créditos com Partes Relacionadas                                                        ;           ;           
+ 1.02.01.09.01 ; Créditos com Coligadas                                                                  ;           ;           
+ 1.02.01.09.03 ; Créditos com Controladores                                                              ;           ;           
+ 1.02.01.09.04 ; Créditos com Outras Partes Relacionadas                                                 ;           ;           
+ 1.02.01.10    ; Outros Ativos Não Circulantes                                                           ; 332.310   ; 137.526   
+ 1.02.01.10.01 ; Ativos Não-Correntes a Venda                                                            ;           ;           
+ 1.02.01.10.02 ; Ativos de Operações Descontinuadas                                                      ;           ;           
+ 1.02.01.10.03 ; Depósitos Judiciais                                                                     ; 37.823    ; 26.566    
+ 1.02.01.10.04 ; Impostos a Recuperar                                                                    ; 147.933   ; 38.942    
+ 1.02.01.10.06 ; Outros ativos não circulantes                                                           ; 10.821    ; 6.986     
+ 1.02.01.10.07 ; Bens de Revenda                                                                         ; 13.058    ; 0         
+ 1.02.01.10.08 ; Direitos por recursos de consórcios                                                     ; 59.354    ; 0         
+ 1.02.01.10.09 ; Cotas de Consórcio                                                                      ; 53.138    ; 65.032    
+ 1.02.01.10.10 ; Randonprev avaliação atuarial                                                           ; 10.183    ; 0         
+ 1.02.02       ; Investimentos                                                                           ; 49.918    ; 43.621    
+ 1.02.02.01    ; Participações Societárias                                                               ; 1.279     ; 1.279     
+ 1.02.02.01.01 ; Participações em Coligadas                                                              ;           ;           
+ 1.02.02.01.04 ; Participações em Controladas em Conjunto                                                ;           ;           
+ 1.02.02.01.05 ; Outros Investimentos                                                                    ; 1.279     ; 1.279     
+ 1.02.02.02    ; Propriedades para Investimento                                                          ; 48.639    ; 42.342    
+ 1.02.03       ; Imobilizado                                                                             ; 1.480.017 ; 1.323.454 
+ 1.02.03.01    ; Imobilizado em Operação                                                                 ;           ;           
+ 1.02.03.02    ; Direito de Uso em Arrendamento                                                          ;           ;           
+ 1.02.03.03    ; Imobilizado em Andamento                                                                ;           ;           
+ 1.02.04       ; Intangível                                                                              ; 189.379   ; 106.351   
+ 1.02.04.01    ; Intangíveis                                                                             ;           ;           
+ 1.02.04.01.01 ; Contrato de Concessão                                                                   ;           ;           
+ 1.02.04.02    ; Goodwill                                                                                ;           ;           

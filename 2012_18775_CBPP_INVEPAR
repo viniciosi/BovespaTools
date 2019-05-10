@@ -1,0 +1,113 @@
+ Conta         ; Descrição                                                    ;T4/2012     ;T4/2011    ;T4/2010    
+ 2             ; Passivo Total                                                ; 20.431.996 ; 4.939.132 ; 3.868.951 
+ 2.01          ; Passivo Circulante                                           ; 1.778.983  ; 1.110.224 ; 640.664   
+ 2.01.01       ; Obrigações Sociais e Trabalhistas                            ; 42.083     ; 39.582    ; 29.036    
+ 2.01.01.01    ; Obrigações Sociais                                           ;            ;           ;           
+ 2.01.01.02    ; Obrigações Trabalhistas                                      ; 42.083     ; 39.582    ; 29.036    
+ 2.01.02       ; Fornecedores                                                 ; 206.603    ; 39.069    ; 57.699    
+ 2.01.02.01    ; Fornecedores Nacionais                                       ; 206.603    ; 39.069    ; 57.699    
+ 2.01.02.02    ; Fornecedores Estrangeiros                                    ;            ;           ;           
+ 2.01.03       ; Obrigações Fiscais                                           ; 50.398     ; 34.340    ; 27.013    
+ 2.01.03.01    ; Obrigações Fiscais Federais                                  ; 40.526     ; 29.653    ; 22.413    
+ 2.01.03.01.01 ; Imposto de Renda e Contribuição Social a Pagar               ; 20.878     ; 20.441    ; 15.672    
+ 2.01.03.01.02 ; Outros impostos federais                                     ; 18.565     ; 7.845     ; 4.446     
+ 2.01.03.01.03 ; Outros                                                       ; 1.083      ; 1.367     ; 2.295     
+ 2.01.03.02    ; Obrigações Fiscais Estaduais                                 ; 1.285      ; 526       ; 322       
+ 2.01.03.03    ; Obrigações Fiscais Municipais                                ; 8.587      ; 4.161     ; 4.278     
+ 2.01.04       ; Empréstimos e Financiamentos                                 ; 144.795    ; 615.351   ; 377.108   
+ 2.01.04.01    ; Empréstimos e Financiamentos                                 ; 120.477    ; 495.212   ; 341.201   
+ 2.01.04.01.01 ; Em Moeda Nacional                                            ; 120.477    ; 495.212   ; 341.201   
+ 2.01.04.01.02 ; Em Moeda Estrangeira                                         ;            ;           ;           
+ 2.01.04.02    ; Debêntures                                                   ; 24.318     ; 120.139   ; 35.907    
+ 2.01.04.03    ; Financiamento por Arrendamento Financeiro                    ;            ;           ;           
+ 2.01.05       ; Outras Obrigações                                            ; 124.039    ; 33.340    ; 25.082    
+ 2.01.05.01    ; Passivos com Partes Relacionadas                             ; 39.602     ; 12.505    ; 0         
+ 2.01.05.01.01 ; Débitos com Coligadas                                        ;            ;           ;           
+ 2.01.05.01.03 ; Débitos com Controladores                                    ;            ;           ;           
+ 2.01.05.01.04 ; Débitos com Outras Partes Relacionadas                       ; 39.602     ; 12.505    ; 0         
+ 2.01.05.02    ; Outros                                                       ; 84.437     ; 20.835    ; 25.082    
+ 2.01.05.02.01 ; Dividendos e JCP a Pagar                                     ; 1.511      ; 0         ; 116       
+ 2.01.05.02.02 ; Dividendo Mínimo Obrigatório a Pagar                         ;            ;           ;           
+ 2.01.05.02.03 ; Obrigações por Pagamentos Baseados em Ações                  ;            ;           ;           
+ 2.01.05.02.04 ; Adiantamento de clientes                                     ; 14.607     ; 11.955    ; 3.887     
+ 2.01.05.02.05 ; Outros                                                       ; 68.319     ; 8.880     ; 21.079    
+ 2.01.06       ; Provisões                                                    ; 1.211.065  ; 348.542   ; 124.726   
+ 2.01.06.01    ; Provisões Fiscais Previdenciárias Trabalhistas e Cíveis      ;            ;           ;           
+ 2.01.06.01.01 ; Provisões Fiscais                                            ;            ;           ;           
+ 2.01.06.01.02 ; Provisões Previdenciárias e Trabalhistas                     ;            ;           ;           
+ 2.01.06.01.03 ; Provisões para Benefícios a Empregados                       ;            ;           ;           
+ 2.01.06.01.04 ; Provisões Cíveis                                             ;            ;           ;           
+ 2.01.06.01.05 ; Concessões de serviços públicos                              ;            ;           ;           
+ 2.01.06.02    ; Outras Provisões                                             ; 1.211.065  ; 348.542   ; 124.726   
+ 2.01.06.02.01 ; Provisões para Garantias                                     ;            ;           ;           
+ 2.01.06.02.02 ; Provisões para Reestruturação                                ;            ;           ;           
+ 2.01.06.02.03 ; Provisões para Passivos Ambientais e de Desativação          ;            ;           ;           
+ 2.01.06.02.04 ; Concessões de serviços públicos                              ; 1.210.985  ; 348.469   ; 124.726   
+ 2.01.06.02.05 ; Provisão para manutenção                                     ; 80         ; 73        ; 0         
+ 2.01.07       ; Passivos sobre Ativos Não-Correntes a Venda e Descontinuados ;            ;           ;           
+ 2.01.07.01    ; Passivos sobre Ativos Não-Correntes a Venda                  ;            ;           ;           
+ 2.01.07.02    ; Passivos sobre Ativos de Operações Descontinuadas            ;            ;           ;           
+ 2.02          ; Passivo Não Circulante                                       ; 14.639.201 ; 2.143.443 ; 1.841.070 
+ 2.02.01       ; Empréstimos e Financiamentos                                 ; 3.601.895  ; 2.035.423 ; 1.531.760 
+ 2.02.01.01    ; Empréstimos e Financiamentos                                 ; 2.412.068  ; 1.190.214 ; 1.060.100 
+ 2.02.01.01.01 ; Em Moeda Nacional                                            ; 2.412.068  ; 1.190.214 ; 1.060.100 
+ 2.02.01.01.02 ; Em Moeda Estrangeira                                         ;            ;           ;           
+ 2.02.01.02    ; Debêntures                                                   ; 1.189.827  ; 845.209   ; 471.660   
+ 2.02.01.03    ; Financiamento por Arrendamento Financeiro                    ;            ;           ;           
+ 2.02.02       ; Outras Obrigações                                            ; 49.830     ; 11.662    ; 942       
+ 2.02.02.01    ; Passivos com Partes Relacionadas                             ;            ;           ;           
+ 2.02.02.01.01 ; Débitos com Coligadas                                        ;            ;           ;           
+ 2.02.02.01.03 ; Débitos com Controladores                                    ;            ;           ;           
+ 2.02.02.01.04 ; Débitos com Outras Partes Relacionadas                       ;            ;           ;           
+ 2.02.02.02    ; Outros                                                       ; 49.830     ; 11.662    ; 942       
+ 2.02.02.02.01 ; Obrigações por Pagamentos Baseados em Ações                  ;            ;           ;           
+ 2.02.02.02.02 ; Adiantamento para Futuro Aumento de Capital                  ;            ;           ;           
+ 2.02.02.02.03 ; Adiantamento de clientes                                     ; 49.714     ; 11.662    ; 942       
+ 2.02.02.02.04 ; Outros                                                       ; 116        ; 0         ; 0         
+ 2.02.03       ; Tributos Diferidos                                           ; 9.636      ; 6.288     ; 5.017     
+ 2.02.03.01    ; Imposto de Renda e Contribuição Social Diferidos             ; 9.636      ; 6.288     ; 5.017     
+ 2.02.04       ; Provisões                                                    ; 10.977.840 ; 90.070    ; 303.351   
+ 2.02.04.01    ; Provisões Fiscais Previdenciárias Trabalhistas e Cíveis      ; 13.084     ; 17.146    ; 15.846    
+ 2.02.04.01.01 ; Provisões Fiscais                                            ; 205        ; 1.930     ; 1.557     
+ 2.02.04.01.02 ; Provisões Previdenciárias e Trabalhistas                     ;            ;           ;           
+ 2.02.04.01.03 ; Provisões para Benefícios a Empregados                       ;            ;           ;           
+ 2.02.04.01.04 ; Provisões Cíveis                                             ; 12.879     ; 15.216    ; 14.289    
+ 2.02.04.02    ; Outras Provisões                                             ; 10.964.756 ; 72.924    ; 287.505   
+ 2.02.04.02.01 ; Provisões para Garantias                                     ;            ;           ;           
+ 2.02.04.02.02 ; Provisões para Reestruturação                                ;            ;           ;           
+ 2.02.04.02.03 ; Provisões para Passivos Ambientais e de Desativação          ;            ;           ;           
+ 2.02.04.02.04 ; Provisão para manutenção                                     ; 21.066     ; 14.606    ; 8.123     
+ 2.02.04.02.05 ; Concessão de serviços públicos                               ; 10.943.690 ; 58.318    ; 279.382   
+ 2.02.04.02.06 ; Outras                                                       ;            ;           ;           
+ 2.02.05       ; Passivos sobre Ativos Não-Correntes a Venda e Descontinuados ;            ;           ;           
+ 2.02.05.01    ; Passivos sobre Ativos Não-Correntes a Venda                  ;            ;           ;           
+ 2.02.05.02    ; Passivos sobre Ativos de Operações Descontinuadas            ;            ;           ;           
+ 2.02.06       ; Lucros e Receitas a Apropriar                                ;            ;           ;           
+ 2.02.06.01    ; Lucros a Apropriar                                           ;            ;           ;           
+ 2.02.06.02    ; Receitas a Apropriar                                         ;            ;           ;           
+ 2.02.06.03    ; Subvenções de Investimento a Apropriar                       ;            ;           ;           
+ 2.03          ; Patrimônio Líquido Consolidado                               ; 4.013.812  ; 1.685.465 ; 1.387.217 
+ 2.03.01       ; Capital Social Realizado                                     ; 3.351.958  ; 1.699.466 ; 1.341.591 
+ 2.03.02       ; Reservas de Capital                                          ; 432.539    ; 0         ; 0         
+ 2.03.02.01    ; Ágio na Emissão de Ações                                     ;            ;           ;           
+ 2.03.02.02    ; Reserva Especial de Ágio na Incorporação                     ;            ;           ;           
+ 2.03.02.03    ; Alienação de Bônus de Subscrição                             ;            ;           ;           
+ 2.03.02.04    ; Opções Outorgadas                                            ;            ;           ;           
+ 2.03.02.05    ; Ações em Tesouraria                                          ;            ;           ;           
+ 2.03.02.06    ; Adiantamento para Futuro Aumento de Capital                  ;            ;           ;           
+ 2.03.03       ; Reservas de Reavaliação                                      ;            ;           ;           
+ 2.03.04       ; Reservas de Lucros                                           ; 4.853      ; 0         ; 41.383    
+ 2.03.04.01    ; Reserva Legal                                                ; 0          ; 0         ; 13.941    
+ 2.03.04.02    ; Reserva Estatutária                                          ; 0          ; 0         ; 27.442    
+ 2.03.04.03    ; Reserva para Contingências                                   ;            ;           ;           
+ 2.03.04.04    ; Reserva de Lucros a Realizar                                 ;            ;           ;           
+ 2.03.04.05    ; Reserva de Retenção de Lucros                                ;            ;           ;           
+ 2.03.04.06    ; Reserva Especial para Dividendos Não Distribuídos            ;            ;           ;           
+ 2.03.04.07    ; Reserva de Incentivos Fiscais                                ;            ;           ;           
+ 2.03.04.08    ; Dividendo Adicional Proposto                                 ;            ;           ;           
+ 2.03.04.09    ; Ações em Tesouraria                                          ;            ;           ;           
+ 2.03.05       ; Lucros/Prejuízos Acumulados                                  ; 0          ; -18.220   ; 0         
+ 2.03.06       ; Ajustes de Avaliação Patrimonial                             ;            ;           ;           
+ 2.03.07       ; Ajustes Acumulados de Conversão                              ; 34.945     ; 0         ; 0         
+ 2.03.08       ; Outros Resultados Abrangentes                                ;            ;           ;           
+ 2.03.09       ; Participação dos Acionistas Não Controladores                ; 189.517    ; 4.219     ; 4.243     

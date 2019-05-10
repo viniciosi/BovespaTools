@@ -1,0 +1,71 @@
+ Conta      ; Descrição                                                       ;T1/2013 - T4/2013;T1/2012 - T4/2012;T1/2011 - T4/2011
+ 3.01       ; Receitas das Operações                                          ; 64.156          ; 57.830          ; 62.845          
+ 3.01.01    ; Operações de Seguros                                            ; 64.156          ; 57.830          ; 62.845          
+ 3.01.01.01 ; Prêmios de Seguros Ganhos                                       ; 54.739          ; 51.431          ; 55.686          
+ 3.01.01.02 ; Outras Receitas de Seguros                                      ; 9.417           ; 6.399           ; 7.159           
+ 3.01.02    ; Operações de Resseguros                                         ;                 ;                 ;                 
+ 3.01.02.01 ; Prêmios de Resseguros Ganhos                                    ;                 ;                 ;                 
+ 3.01.02.02 ; Outras Receitas de Resseguros                                   ;                 ;                 ;                 
+ 3.01.03    ; Operações de Previdência Complementar                           ;                 ;                 ;                 
+ 3.01.03.01 ; Rendas de Contribuições Retidas                                 ;                 ;                 ;                 
+ 3.01.03.02 ; Variações das Provisões Técnicas                                ;                 ;                 ;                 
+ 3.01.03.03 ; Outras Receitas de Prev. Complementar                           ;                 ;                 ;                 
+ 3.01.04    ; Operações de Capitalização                                      ;                 ;                 ;                 
+ 3.01.04.01 ; Receita Líquida com Títs. Capitalização                         ;                 ;                 ;                 
+ 3.01.04.02 ; Variações das Provisões Técnicas                                ;                 ;                 ;                 
+ 3.01.04.03 ; Outras Receitas de Capitalização                                ;                 ;                 ;                 
+ 3.02       ; Sinistros e Despesas das Operações                              ; -55.356         ; -51.307         ; -52.942         
+ 3.02.01    ; Operações de Seguros                                            ; -55.356         ; -51.307         ; -52.942         
+ 3.02.01.01 ; Sinistros Retidos de Seguros                                    ; -35.653         ; -33.183         ; -30.074         
+ 3.02.01.02 ; Despesas de Comercialização de Seguros                          ; -13.645         ; -12.596         ; -12.077         
+ 3.02.01.03 ; Outras Despesas de Seguros                                      ; -6.058          ; -5.528          ; -10.791         
+ 3.02.02    ; Operações de Resseguros                                         ;                 ;                 ;                 
+ 3.02.02.01 ; Sinistros Retidos de Resseguros                                 ;                 ;                 ;                 
+ 3.02.02.02 ; Despesas de Comercialização de Resseguros                       ;                 ;                 ;                 
+ 3.02.02.03 ; Outras Despesas de Resseguros                                   ;                 ;                 ;                 
+ 3.02.03    ; Operações de Previdência Complementar                           ;                 ;                 ;                 
+ 3.02.03.01 ; Despesas com Benefícios e Resgates                              ;                 ;                 ;                 
+ 3.02.03.02 ; Despesas de Comercialização de Prev. Complementar               ;                 ;                 ;                 
+ 3.02.03.03 ; Outras Despesas de Prev. Complementar                           ;                 ;                 ;                 
+ 3.02.04    ; Operações de Capitalização                                      ;                 ;                 ;                 
+ 3.02.04.01 ; Despesas com Resgates e Sorteios                                ;                 ;                 ;                 
+ 3.02.04.02 ; Despesas de Comercialização de Op. de Capitalização             ;                 ;                 ;                 
+ 3.02.04.03 ; Outras Despesas de Op. de Capitalização                         ;                 ;                 ;                 
+ 3.03       ; Resultado Bruto                                                 ; 8.800           ; 6.523           ; 9.903           
+ 3.04       ; Despesas Administrativas                                        ; -28.029         ; -27.195         ; -24.140         
+ 3.04.01    ; Despesas com Pessoal Próprio                                    ;                 ;                 ;                 
+ 3.04.02    ; Despesas com Serviços de Terceiros                              ;                 ;                 ;                 
+ 3.04.03    ; Despesas com Localização e Funcionamento                        ;                 ;                 ;                 
+ 3.04.04    ; Despesas com Publicidade e Propaganda                           ;                 ;                 ;                 
+ 3.04.05    ; Despesas com Tributos                                           ; -2.298          ; -1.857          ; 83              
+ 3.04.06    ; Despesas com Publicações                                        ;                 ;                 ;                 
+ 3.04.07    ; Despesas com Donativos e Contribuições                          ;                 ;                 ;                 
+ 3.04.08    ; Outras Despesas Administrativas                                 ; -25.731         ; -25.338         ; -24.223         
+ 3.05       ; Outras Receitas e Despesas Operacionais                         ; 6.314           ; 4.296           ; -1.033          
+ 3.05.01    ; Receitas com Imóveis de Renda                                   ; 1.225           ; 1.317           ; 1.140           
+ 3.05.02    ; Despesas com Imóveis Destinados à Renda/Venda                   ; -2.455          ; -3.569          ; -3.577          
+ 3.05.03    ; Outros Investimentos                                            ; 1.237           ; 1.321           ; 1.418           
+ 3.05.04    ; Ganhos ou Perdas com Ativos não Correntes                       ; 6.307           ; 5.227           ; -14             
+ 3.06       ; Resultado de Equivalência Patrimonial                           ; 20.082          ; 26.071          ; 26.027          
+ 3.06.01    ; Receitas de Equivalência Patrimonial                            ; 20.082          ; 26.071          ; 26.027          
+ 3.06.02    ; Despesas de Equivalência Patrimonial                            ;                 ;                 ;                 
+ 3.07       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 7.167           ; 9.695           ; 10.757          
+ 3.08       ; Resultado Financeiro                                            ; 3.399           ; 3.960           ; 18.420          
+ 3.08.01    ; Receitas Financeiras                                            ; 16.886          ; 15.715          ; 32.615          
+ 3.08.02    ; Despesas Financeiras                                            ; -13.487         ; -11.755         ; -14.195         
+ 3.09       ; Resultado Antes dos Tributos sobre o Lucro                      ; 10.566          ; 13.655          ; 29.177          
+ 3.10       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; 41              ; 63              ; -924            
+ 3.10.01    ; Corrente                                                        ; 41              ; 63              ; -924            
+ 3.10.02    ; Diferido                                                        ;                 ;                 ;                 
+ 3.11       ; Resultado Líquido das Operações Continuadas                     ; 10.607          ; 13.718          ; 28.253          
+ 3.12       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.12.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.12.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.13       ; Lucro/Prejuízo Consolidado do Período                           ; 10.607          ; 13.718          ; 28.253          
+ 3.13.01    ; Atribuído a Sócios da Empresa Controladora                      ; 10.607          ; 13.718          ; 28.253          
+ 3.13.02    ; Atribuído a Sócios Não Controladores                            ;                 ;                 ;                 
+ 3.99       ; Lucro por Ação - (R$ / Ação)                                    ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ; 1,38000         ; 1,78620         ; 3,67877         
+ 3.99.01.02 ; PN                                                              ; 1,38000         ; 1,78620         ; 3,67877         
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 

@@ -1,0 +1,32 @@
+ Conta      ; Descrição                                                       ;T1/2013 - T4/2013;T1/2012 - T4/2012;T1/2011 - T4/2011
+ 3.01       ; Receita de Venda de Bens e/ou Serviços                          ; 848.213         ; 910.815         ; 1.020.111       
+ 3.02       ; Custo dos Bens e/ou Serviços Vendidos                           ; -781.873        ; -791.351        ; -814.726        
+ 3.03       ; Resultado Bruto                                                 ; 66.340          ; 119.464         ; 205.385         
+ 3.04       ; Despesas/Receitas Operacionais                                  ; -113.837        ; -131.708        ; -108.528        
+ 3.04.01    ; Despesas com Vendas                                             ; -37.674         ; -43.861         ; -59.691         
+ 3.04.02    ; Despesas Gerais e Administrativas                               ; -77.107         ; -88.242         ; -84.814         
+ 3.04.02.01 ; Administrativa e Gerais                                         ;                 ;                 ;                 
+ 3.04.03    ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04    ; Outras Receitas Operacionais                                    ; 944             ; 395             ; 35.977          
+ 3.04.05    ; Outras Despesas Operacionais                                    ;                 ;                 ;                 
+ 3.04.06    ; Resultado de Equivalência Patrimonial                           ;                 ;                 ;                 
+ 3.05       ; Resultado Antes do Resultado Financeiro e dos Tributos          ; -47.497         ; -12.244         ; 96.857          
+ 3.06       ; Resultado Financeiro                                            ; -62.578         ; -66.415         ; -71.993         
+ 3.06.01    ; Receitas Financeiras                                            ; 4.242           ; 5.242           ; 5.262           
+ 3.06.02    ; Despesas Financeiras                                            ; -66.820         ; -71.657         ; -77.255         
+ 3.07       ; Resultado Antes dos Tributos sobre o Lucro                      ; -110.075        ; -78.659         ; 24.864          
+ 3.08       ; Imposto de Renda e Contribuição Social sobre o Lucro            ; 32.476          ; 16.039          ; -13.316         
+ 3.08.01    ; Corrente                                                        ; 393             ; -214            ; -12.686         
+ 3.08.02    ; Diferido                                                        ; 32.083          ; 16.253          ; -630            
+ 3.09       ; Resultado Líquido das Operações Continuadas                     ; -77.599         ; -62.620         ; 11.548          
+ 3.10       ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01    ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02    ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11       ; Lucro/Prejuízo Consolidado do Período                           ; -77.599         ; -62.620         ; 11.548          
+ 3.11.01    ; Atribuído a Sócios da Empresa Controladora                      ; -77.515         ; -62.560         ; 11.510          
+ 3.11.02    ; Atribuído a Sócios Não Controladores                            ; -84             ; -60             ; 38              
+ 3.99       ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01    ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.01.01 ; ON                                                              ;                 ;                 ;                 
+ 3.99.02    ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
+ 3.99.02.01 ; ON                                                              ;                 ;                 ;                 

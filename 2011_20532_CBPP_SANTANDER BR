@@ -1,0 +1,56 @@
+ Conta      ; Descrição                                                                   ;T4/2011      ;T4/2010      ;T4/2009      
+ 2          ; Passivo Total                                                               ; 399.886.082 ; 374.662.683 ; 315.972.576 
+ 2.01       ; Passivos Financeiros para Negociação                                        ; 5.047.288   ; 4.784.653   ; 4.434.734   
+ 2.01.01    ; Derivativos                                                                 ; 4.709.660   ; 4.755.314   ; 4.401.709   
+ 2.01.02    ; Posições vendidas                                                           ; 337.628     ; 29.339      ; 33.025      
+ 2.02       ; Outros Passivos Financeiros ao Valor Justo no Resultado                     ; 0           ; 0           ; 1.795       
+ 2.03       ; Passivos Financeiros ao Custo Amortizado                                    ; 291.451.686 ; 253.340.771 ; 203.567.734 
+ 2.03.01    ; Depósitos do Banco Central do Brasil e depósitos de instituições de crédito ; 51.527.021  ; 42.391.572  ; 21.195.959  
+ 2.03.02    ; Depósitos de clientes                                                       ; 174.473.891 ; 167.949.201 ; 149.440.156 
+ 2.03.03    ; Obrigações por títulos e valores mobiliários                                ; 38.590.423  ; 20.086.645  ; 11.439.010  
+ 2.03.04    ; Dívidas subordinadas                                                        ; 10.908.344  ; 9.695.105   ; 11.304.445  
+ 2.03.05    ; Outros passivos financeiros                                                 ; 15.952.007  ; 13.218.248  ; 10.188.164  
+ 2.04       ; Provisões                                                                   ; 9.515.295   ; 9.395.161   ; 9.480.262   
+ 2.04.01    ; Provisões para fundos de pensões e obrigações similares                     ; 1.246.040   ; 1.190.108   ; 1.096.799   
+ 2.04.02    ; Provisões para passivos contingentes, compromissos e outras provisões       ; 8.269.255   ; 8.205.053   ; 8.383.463   
+ 2.05       ; Passivos Fiscais                                                            ; 11.875.899  ; 10.529.625  ; 9.456.537   
+ 2.05.01    ; Correntes                                                                   ; 8.127.795   ; 6.249.466   ; 5.588.680   
+ 2.05.02    ; Diferidos                                                                   ; 3.748.104   ; 4.280.159   ; 3.867.857   
+ 2.06       ; Outros Passivos                                                             ; 3.963.922   ; 23.249.079  ; 19.764.771  
+ 2.06.01    ; Derivativos utilizados como hedge                                           ; 36.071      ; 112         ; 9.806       
+ 2.06.02    ; Passivos por contratos de seguro                                            ; 0           ; 19.643.129  ; 15.527.197  
+ 2.06.03    ; Outras obrigações                                                           ; 3.927.851   ; 3.605.838   ; 4.227.768   
+ 2.07       ; Passivos sobre Ativos Não Correntes a Venda e Descontinuados                ;             ;             ;             
+ 2.07.01    ; Passivos sobre Ativos Não Correntes a Venda                                 ;             ;             ;             
+ 2.07.02    ; Passivos sobre Ativos de Operações Descontinuadas                           ;             ;             ;             
+ 2.08       ; Patrimônio Líquido Consolidado                                              ; 78.031.992  ; 73.363.394  ; 69.266.743  
+ 2.08.01    ; Capital Social Realizado                                                    ; 77.044.886  ; 72.571.563  ; 68.706.363  
+ 2.08.01.01 ; Capital social                                                              ; 62.634.585  ; 62.634.585  ; 62.612.455  
+ 2.08.01.02 ; Reservas                                                                    ; 9.950.144   ; 6.094.885   ; 2.161.302   
+ 2.08.01.03 ; Ações em Tesouraria                                                         ; -112.768    ; 0           ; 0           
+ 2.08.01.04 ; Lucro do exercício atribuível à controladora                                ; 7.747.925   ; 7.382.093   ; 5.507.606   
+ 2.08.01.05 ; Menos: dividendos e remuneração                                             ; -3.175.000  ; -3.540.000  ; -1.575.000  
+ 2.08.02    ; Reservas de Capital                                                         ;             ;             ;             
+ 2.08.02.01 ; Ágio na Emissão de Ações                                                    ;             ;             ;             
+ 2.08.02.02 ; Reserva Especial de Ágio na Incorporação                                    ;             ;             ;             
+ 2.08.02.03 ; Alienação de Bônus de Subscrição                                            ;             ;             ;             
+ 2.08.02.04 ; Opções Outorgadas                                                           ;             ;             ;             
+ 2.08.02.05 ; Ações em Tesouraria                                                         ;             ;             ;             
+ 2.08.03    ; Reservas de Reavaliação                                                     ;             ;             ;             
+ 2.08.04    ; Reservas de Lucros                                                          ;             ;             ;             
+ 2.08.04.01 ; Reserva Legal                                                               ;             ;             ;             
+ 2.08.04.02 ; Reserva Estatutária                                                         ;             ;             ;             
+ 2.08.04.03 ; Reserva para Contingências                                                  ;             ;             ;             
+ 2.08.04.04 ; Reserva de Lucros a Realizar                                                ;             ;             ;             
+ 2.08.04.05 ; Reserva de Retenção de Lucros                                               ;             ;             ;             
+ 2.08.04.06 ; Reserva Especial para Dividendos Não Distribuídos                           ;             ;             ;             
+ 2.08.04.07 ; Reserva de Incentivos Fiscais                                               ;             ;             ;             
+ 2.08.04.08 ; Dividendo Adicional Proposto                                                ;             ;             ;             
+ 2.08.04.09 ; Ações em Tesouraria                                                         ;             ;             ;             
+ 2.08.05    ; Lucros/Prejuízos Acumulados                                                 ;             ;             ;             
+ 2.08.06    ; Ajustes de Avaliação Patrimonial                                            ; 968.146     ; 783.755     ; 559.042     
+ 2.08.06.01 ; Ativos financeiros disponíveis para venda                                   ; 960.199     ; 949.597     ; 791.966     
+ 2.08.06.02 ; Hedges de fluxo de caixa                                                    ; 7.947       ; -165.842    ; -232.924    
+ 2.08.07    ; Ajustes Acumulados de Conversão                                             ;             ;             ;             
+ 2.08.08    ; Outros Resultados Abrangentes                                               ;             ;             ;             
+ 2.08.09    ; Participação dos Acionistas Não Controladores                               ; 18.960      ; 8.076       ; 1.338       

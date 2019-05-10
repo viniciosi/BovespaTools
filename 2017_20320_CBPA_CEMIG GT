@@ -1,0 +1,78 @@
+ Conta         ; Descrição                                            ;T4/2017     ;T4/2016     ;T4/2015
+ 1             ; Ativo Total                                          ; 16.710.628 ; 16.484.244 ; 0     
+ 1.01          ; Ativo Circulante                                     ; 2.974.072  ; 2.350.171  ; 0     
+ 1.01.01       ; Caixa e Equivalentes de Caixa                        ; 403.339    ; 427.827    ; 0     
+ 1.01.02       ; Aplicações Financeiras                               ; 520.963    ; 424.046    ; 0     
+ 1.01.02.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ; 514.332    ; 408.813    ; 0     
+ 1.01.02.01.01 ; Títulos para Negociação                              ; 514.332    ; 408.813    ; 0     
+ 1.01.02.01.02 ; Títulos Disponíveis para Venda                       ;            ;            ;       
+ 1.01.02.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ; 6.631      ; 15.233     ; 0     
+ 1.01.02.02.01 ; Títulos Mantidos até o Vencimento                    ; 6.631      ; 15.233     ; 0     
+ 1.01.03       ; Contas a Receber                                     ; 939.640    ; 761.629    ; 0     
+ 1.01.03.01    ; Clientes                                             ; 939.640    ; 761.629    ; 0     
+ 1.01.03.01.01 ; Consumidores e Revendedores                          ; 850.487    ; 724.939    ; 0     
+ 1.01.03.01.02 ; Concessionário - Transporte de Energia               ; 89.153     ; 36.690     ; 0     
+ 1.01.03.01.03 ; Revendedores - Transações com Energia Livre          ;            ;            ;       
+ 1.01.03.02    ; Outras Contas a Receber                              ;            ;            ;       
+ 1.01.04       ; Estoques                                             ;            ;            ;       
+ 1.01.05       ; Ativos Biológicos                                    ;            ;            ;       
+ 1.01.06       ; Tributos a Recuperar                                 ; 169.275    ; 231.957    ; 0     
+ 1.01.06.01    ; Tributos Correntes a Recuperar                       ; 169.275    ; 231.957    ; 0     
+ 1.01.06.01.01 ; Tributos Compensáveis                                ; 30.840     ; 55.493     ; 0     
+ 1.01.06.01.02 ; Imposto de Renda e Contribuição Social a Recuperar   ; 138.435    ; 176.464    ; 0     
+ 1.01.07       ; Despesas Antecipadas                                 ;            ;            ;       
+ 1.01.08       ; Outros Ativos Circulantes                            ; 940.855    ; 504.712    ; 0     
+ 1.01.08.01    ; Ativos Não-Correntes a Venda                         ;            ;            ;       
+ 1.01.08.02    ; Ativos de Operações Descontinuadas                   ;            ;            ;       
+ 1.01.08.03    ; Outros                                               ; 940.855    ; 504.712    ; 0     
+ 1.01.08.03.01 ; Dividendos a Receber                                 ;            ;            ;       
+ 1.01.08.03.02 ; Prêmio Repactuação Risco Hidrológico                 ; 16.681     ; 16.618     ; 0     
+ 1.01.08.03.03 ; Ativo Financeiro da Concessão                        ; 689.353    ; 332.763    ; 0     
+ 1.01.08.03.04 ; Créditos junto à Eletrobrás                          ; 0          ; 48.379     ; 0     
+ 1.01.08.03.05 ; Adiantamento a Fornecedores                          ; 98.914     ; 1.059      ; 0     
+ 1.01.08.03.20 ; Outros Créditos                                      ; 135.907    ; 105.893    ; 0     
+ 1.02          ; Ativo Não Circulante                                 ; 13.736.556 ; 14.134.073 ; 0     
+ 1.02.01       ; Ativo Realizável a Longo Prazo                       ; 6.817.690  ; 5.636.277  ; 0     
+ 1.02.01.01    ; Aplicações Financeiras Avaliadas a Valor Justo       ;            ;            ;       
+ 1.02.01.01.01 ; Títulos para Negociação                              ;            ;            ;       
+ 1.02.01.01.02 ; Títulos Disponíveis para Venda                       ;            ;            ;       
+ 1.02.01.02    ; Aplicações Financeiras Avaliadas ao Custo Amortizado ; 14.659     ; 13.038     ; 0     
+ 1.02.01.02.01 ; Títulos Mantidos até o Vencimento                    ; 14.659     ; 13.038     ; 0     
+ 1.02.01.03    ; Contas a Receber                                     ;            ;            ;       
+ 1.02.01.03.01 ; Clientes                                             ;            ;            ;       
+ 1.02.01.03.02 ; Outras Contas a Receber                              ;            ;            ;       
+ 1.02.01.04    ; Estoques                                             ;            ;            ;       
+ 1.02.01.05    ; Ativos Biológicos                                    ;            ;            ;       
+ 1.02.01.06    ; Tributos Diferidos                                   ;            ;            ;       
+ 1.02.01.06.01 ; Imposto de Renda e Contribuição Social Diferidos     ;            ;            ;       
+ 1.02.01.07    ; Despesas Antecipadas                                 ; 5.084      ; 229.053    ; 0     
+ 1.02.01.07.01 ; Adiantamento a Fornecedores                          ; 5.084      ; 229.053    ; 0     
+ 1.02.01.08    ; Créditos com Partes Relacionadas                     ; 351.709    ; 74.630     ; 0     
+ 1.02.01.08.01 ; Créditos com Coligadas                               ; 351.709    ; 74.630     ; 0     
+ 1.02.01.08.03 ; Créditos com Controladores                           ;            ;            ;       
+ 1.02.01.08.04 ; Créditos com Outras Partes Relacionadas              ;            ;            ;       
+ 1.02.01.09    ; Outros Ativos Não Circulantes                        ; 6.446.238  ; 5.319.556  ; 0     
+ 1.02.01.09.01 ; Ativos Não-Correntes a Venda                         ;            ;            ;       
+ 1.02.01.09.02 ; Ativos de Operações Descontinuadas                   ;            ;            ;       
+ 1.02.01.09.03 ; Depósitos Vinculados a Litígios                      ; 309.994    ; 229.294    ; 0     
+ 1.02.01.09.04 ; Ativo Financeiro da Concessão                        ; 6.024.377  ; 4.755.137  ; 0     
+ 1.02.01.09.05 ; Tributos Compensáveis                                ; 8.272      ; 14.870     ; 0     
+ 1.02.01.09.06 ; Prêmio Repactuação Risco Hidrológico                 ; 35.060     ; 46.305     ; 0     
+ 1.02.01.09.07 ; Imposto de Renda e Contribuição Social a Recuperar   ;            ;            ;       
+ 1.02.01.09.08 ; Ativos de Concessões de Geração                      ; 0          ; 206.566    ; 0     
+ 1.02.01.09.09 ; Instrumentos Financeiros Derivativos (Swap)          ; 8.649      ; 0          ; 0     
+ 1.02.01.09.20 ; Outros Créditos                                      ; 59.886     ; 67.384     ; 0     
+ 1.02.02       ; Investimentos                                        ; 4.723.336  ; 5.291.892  ; 0     
+ 1.02.02.01    ; Participações Societárias                            ; 4.723.336  ; 5.291.892  ; 0     
+ 1.02.02.01.01 ; Participações em Coligadas                           ; 4.723.336  ; 5.291.892  ; 0     
+ 1.02.02.01.04 ; Outras Participações Societárias                     ;            ;            ;       
+ 1.02.02.02    ; Propriedades para Investimento                       ;            ;            ;       
+ 1.02.03       ; Imobilizado                                          ; 2.162.890  ; 3.170.152  ; 0     
+ 1.02.03.01    ; Imobilizado em Operação                              ; 2.162.890  ; 3.170.152  ; 0     
+ 1.02.03.02    ; Imobilizado Arrendado                                ;            ;            ;       
+ 1.02.03.03    ; Imobilizado em Andamento                             ;            ;            ;       
+ 1.02.04       ; Intangível                                           ; 32.640     ; 35.752     ; 0     
+ 1.02.04.01    ; Intangíveis                                          ; 32.640     ; 35.752     ; 0     
+ 1.02.04.01.01 ; Contrato de Concessão                                ;            ;            ;       
+ 1.02.04.01.02 ; Intangíveis                                          ; 32.640     ; 35.752     ; 0     
+ 1.02.04.02    ; Goodwill                                             ;            ;            ;       

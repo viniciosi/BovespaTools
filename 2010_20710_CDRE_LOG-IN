@@ -1,0 +1,29 @@
+ Conta   ; Descrição                                                       ;T1/2010 - T4/2010;T1/2009 - T4/2009;T1/2008 - T4/2008
+ 3.01    ; Receita de Venda de Bens e/ou Serviços                          ; 620.892         ; 426.361         ; 443.936         
+ 3.02    ; Custo dos Bens e/ou Serviços Vendidos                           ; -531.162        ; -371.862        ; -354.069        
+ 3.03    ; Resultado Bruto                                                 ; 89.730          ; 54.499          ; 89.867          
+ 3.04    ; Despesas/Receitas Operacionais                                  ; -49.201         ; -62.321         ; -35.810         
+ 3.04.01 ; Despesas com Vendas                                             ;                 ;                 ;                 
+ 3.04.02 ; Despesas Gerais e Administrativas                               ; -53.035         ; -61.477         ; -53.717         
+ 3.04.03 ; Perdas pela Não Recuperabilidade de Ativos                      ;                 ;                 ;                 
+ 3.04.04 ; Outras Receitas Operacionais                                    ; 10.748          ; -560            ; 14.307          
+ 3.04.05 ; Outras Despesas Operacionais                                    ; -1.209          ; -284            ; 3.600           
+ 3.04.06 ; Resultado de Equivalência Patrimonial                           ; -5.705          ; 0               ; 0               
+ 3.05    ; Resultado Antes do Resultado Financeiro e dos Tributos          ; 40.529          ; -7.822          ; 54.057          
+ 3.06    ; Resultado Financeiro                                            ; -5.363          ; 5.293           ; 26.421          
+ 3.06.01 ; Receitas Financeiras                                            ; 12.961          ; 11.291          ; 34.282          
+ 3.06.02 ; Despesas Financeiras                                            ; -18.324         ; -5.998          ; -7.861          
+ 3.07    ; Resultado Antes dos Tributos sobre o Lucro                      ; 35.166          ; -2.529          ; 80.478          
+ 3.08    ; Imposto de Renda e Contribuição Social sobre o Lucro            ; -16.866         ; -1.536          ; 2.944           
+ 3.08.01 ; Corrente                                                        ; -17.485         ; -15.961         ; -21.572         
+ 3.08.02 ; Diferido                                                        ; 619             ; 14.425          ; 24.516          
+ 3.09    ; Resultado Líquido das Operações Continuadas                     ; 18.300          ; -4.065          ; 83.422          
+ 3.10    ; Resultado Líquido de Operações Descontinuadas                   ;                 ;                 ;                 
+ 3.10.01 ; Lucro/Prejuízo Líquido das Operações Descontinuadas             ;                 ;                 ;                 
+ 3.10.02 ; Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas ;                 ;                 ;                 
+ 3.11    ; Lucro/Prejuízo Consolidado do Período                           ; 18.300          ; -4.065          ; 83.422          
+ 3.11.01 ; Atribuído a Sócios da Empresa Controladora                      ; 18.409          ; -3.672          ; 83.373          
+ 3.11.02 ; Atribuído a Sócios Não Controladores                            ; -109            ; -393            ; 49              
+ 3.99    ; Lucro por Ação - (Reais / Ação)                                 ;                 ;                 ;                 
+ 3.99.01 ; Lucro Básico por Ação                                           ;                 ;                 ;                 
+ 3.99.02 ; Lucro Diluído por Ação                                          ;                 ;                 ;                 
