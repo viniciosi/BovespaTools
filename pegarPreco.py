@@ -9,6 +9,8 @@ eventlet.monkey_patch()
 
 dfCodigosNegociacao = pd.read_csv("consCod.csv", sep = ";")
 
+dfCodigosNegociacao.drop(dfCodigosNegociacao.columns[[0,1,-1,-2]], axis=1, inplace = True)
+
 # pegar preços
 for indice, codigoNeg in dfCodigosNegociacao.iloc[:1000].iterrows():
     log = open("log" + "Preco", 'a', encoding = 'utf-8')

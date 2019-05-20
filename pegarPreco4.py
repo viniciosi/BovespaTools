@@ -10,7 +10,7 @@ eventlet.monkey_patch()
 dfCodigosNegociacao = pd.read_csv("consCod.csv", sep = ";")
 
 # pegar preços
-for indice, codigoNeg in dfCodigosNegociacao.iloc[3000:4000].iterrows():
+for indice, codigoNeg in dfCodigosNegociacao[dfCodigosNegociacao["ano"] == 2012].iterrows():
     log = open("log" + "Preco4", 'a', encoding = 'utf-8')
     print("i_" + str(codigoNeg['ano']) + "_" + codigoNeg['codigo'])
     try:    

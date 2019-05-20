@@ -1,3714 +1,3714 @@
-erro_BBAS11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BBAS11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BBAS12.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BBAS3.SA_2010
-ok_BBAS3.SA_2011
-erro_BBAS3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_BBAS3.SA_2013
-ok_BBAS3.SA_2014
-ok_BBAS3.SA_2015
-ok_BBAS3.SA_2016
-ok_BBAS3.SA_2017
-erro_BBAS3.SA_2018_<class 'IndexError'>
-ok_ALPA3.SA_2010
-ok_ALPA3.SA_2011
-erro_ALPA3.SA_2012_<class 'IndexError'>
-ok_ALPA3.SA_2013
-ok_ALPA3.SA_2014
-ok_ALPA3.SA_2015
-ok_ALPA3.SA_2016
-ok_ALPA3.SA_2017
-erro_ALPA3.SA_2018_<class 'IndexError'>
-ok_ALPA4.SA_2010
-ok_ALPA4.SA_2011
-erro_ALPA4.SA_2012_<class 'IndexError'>
-ok_ALPA4.SA_2013
-ok_ALPA4.SA_2014
-ok_ALPA4.SA_2015
-ok_ALPA4.SA_2016
-ok_ALPA4.SA_2017
-erro_ALPA4.SA_2018_<class 'IndexError'>
-erro_SLED3.SA_2010_<class 'IndexError'>
-erro_SLED3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SLED3.SA_2012_<class 'IndexError'>
-ok_SLED3.SA_2013
-ok_SLED3.SA_2014
-ok_SLED3.SA_2015
-ok_SLED3.SA_2016
-ok_SLED3.SA_2017
-erro_SLED3.SA_2018_<class 'IndexError'>
-ok_SLED4.SA_2010
-ok_SLED4.SA_2011
-erro_SLED4.SA_2012_<class 'IndexError'>
-ok_SLED4.SA_2013
-ok_SLED4.SA_2014
-ok_SLED4.SA_2015
-ok_SLED4.SA_2016
-ok_SLED4.SA_2017
-erro_SLED4.SA_2018_<class 'IndexError'>
-erro_SOND3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SOND3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SOND5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SOND5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SOND5.SA_2012_<class 'IndexError'>
-erro_SOND5.SA_2013_<class 'IndexError'>
-erro_SOND5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SOND5.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_SOND5.SA_2016
-ok_SOND5.SA_2017
-erro_SOND5.SA_2018_<class 'IndexError'>
-erro_SOND6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SOND6.SA_2011_<class 'IndexError'>
-erro_SOND6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SOND6.SA_2013_<class 'IndexError'>
-erro_SOND6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SOND6.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_SOND6.SA_2016
-ok_SOND6.SA_2017
-erro_SOND6.SA_2018_<class 'IndexError'>
-ok_SPRI3.SA_2010
-ok_SPRI3.SA_2011
-erro_SPRI3.SA_2012_<class 'IndexError'>
-ok_SPRI3.SA_2013
-ok_SPRI3.SA_2014
-ok_SPRI3.SA_2015
-ok_SPRI3.SA_2016
-ok_SPRI3.SA_2017
-erro_SPRI5.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_SPRI5.SA_2011
-erro_SPRI5.SA_2012_<class 'IndexError'>
-ok_SPRI5.SA_2013
-erro_SPRI5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SPRI5.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_SPRI5.SA_2016
-ok_SPRI5.SA_2017
-erro_SPRI6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SPRI6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SPRI6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SPRI6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SPRI6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SPRI6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_SPRI6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SPRI6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_WLMM3.SA_2018_<class 'IndexError'>
-ok_WLMM4.SA_2010
-ok_WLMM4.SA_2011
-erro_WLMM4.SA_2012_<class 'IndexError'>
-ok_WLMM4.SA_2013
-erro_WLMM4.SA_2014_<class 'IndexError'>
-erro_WLMM4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_WLMM4.SA_2016
-ok_WLMM4.SA_2017
-erro_WLMM4.SA_2018_<class 'IndexError'>
-erro_BGIP3.SA_2010_<class 'IndexError'>
-erro_BGIP4.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_TEKA3.SA_2010
-ok_TEKA3.SA_2011
-erro_TEKA3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_TEKA3.SA_2013
-ok_TEKA3.SA_2014
-ok_TEKA3.SA_2015
-ok_TEKA3.SA_2016
-ok_TEKA3.SA_2017
-erro_TEKA3.SA_2018_<class 'IndexError'>
-ok_TEKA4.SA_2010
-ok_TEKA4.SA_2011
-erro_TEKA4.SA_2012_<class 'IndexError'>
-erro_TEKA4.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_TEKA4.SA_2014
-ok_TEKA4.SA_2015
-ok_TEKA4.SA_2016
-ok_TEKA4.SA_2017
-erro_TEKA4.SA_2018_<class 'IndexError'>
-erro_TKNO3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TKNO3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TKNO4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_OIBR3.SA_2010
-ok_OIBR3.SA_2011
-erro_OIBR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_OIBR3.SA_2013
-ok_OIBR3.SA_2014
-erro_OIBR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_OIBR3.SA_2016
-ok_OIBR3.SA_2017
-erro_OIBR3.SA_2018_<class 'IndexError'>
-ok_OIBR4.SA_2010
-erro_OIBR4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_OIBR4.SA_2012_<class 'IndexError'>
-erro_OIBR4.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_OIBR4.SA_2014
-ok_OIBR4.SA_2015
-ok_OIBR4.SA_2016
-ok_OIBR4.SA_2017
-erro_OIBR4.SA_2018_<class 'IndexError'>
-erro_OIBR11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_OIBR11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CRPG3.SA_2010_<class 'IndexError'>
-erro_CRPG3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CRPG3.SA_2012_<class 'IndexError'>
-ok_CRPG3.SA_2013
-ok_CRPG3.SA_2014
-ok_CRPG3.SA_2015
-ok_CRPG3.SA_2016
-erro_CRPG5.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_CRPG5.SA_2011
-erro_CRPG5.SA_2012_<class 'IndexError'>
-ok_CRPG5.SA_2013
-ok_CRPG5.SA_2014
-erro_CRPG5.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_CRPG5.SA_2016
-ok_CRPG6.SA_2010
-ok_CRPG6.SA_2011
-erro_CRPG6.SA_2012_<class 'IndexError'>
-ok_CRPG6.SA_2013
-erro_CRPG6.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CRPG6.SA_2015
-ok_CRPG6.SA_2016
-ok_BEES3.SA_2010
-ok_BEES3.SA_2011
-erro_BEES3.SA_2012_<class 'IndexError'>
-ok_BEES3.SA_2013
-ok_BEES3.SA_2014
-ok_BEES3.SA_2015
-ok_BEES3.SA_2016
-ok_BEES3.SA_2017
-erro_BEES3.SA_2018_<class 'IndexError'>
-ok_BEES4.SA_2010
-ok_BEES4.SA_2011
-erro_BEES4.SA_2012_<class 'IndexError'>
-ok_BEES4.SA_2013
-erro_BEES4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BEES4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_BEES4.SA_2016
-ok_BEES4.SA_2017
-erro_BEES4.SA_2018_<class 'IndexError'>
-ok_UNIP3.SA_2010
-ok_UNIP3.SA_2011
-erro_UNIP3.SA_2012_<class 'IndexError'>
-ok_UNIP3.SA_2016
-ok_UNIP3.SA_2017
-erro_UNIP3.SA_2018_<class 'IndexError'>
-erro_UNIP5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_UNIP5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_UNIP5.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_UNIP5.SA_2016
-ok_UNIP5.SA_2017
-erro_UNIP5.SA_2018_<class 'IndexError'>
-ok_UNIP6.SA_2010
-ok_UNIP6.SA_2011
-erro_UNIP6.SA_2012_<class 'IndexError'>
-ok_UNIP6.SA_2016
-ok_UNIP6.SA_2017
-erro_UNIP6.SA_2018_<class 'IndexError'>
-ok_VULC3.SA_2010
-ok_VULC3.SA_2011
-erro_VULC3.SA_2012_<class 'IndexError'>
-ok_VULC3.SA_2013
-ok_VULC3.SA_2014
-ok_VULC3.SA_2015
-ok_VULC3.SA_2016
-ok_VULC3.SA_2017
-erro_VULC3.SA_2018_<class 'IndexError'>
-ok_MYPK3.SA_2010
-ok_MYPK3.SA_2011
-erro_MYPK3.SA_2012_<class 'IndexError'>
-ok_MYPK3.SA_2013
-ok_MYPK3.SA_2014
-ok_MYPK3.SA_2015
-ok_MYPK3.SA_2016
-ok_MYPK3.SA_2017
-erro_MYPK3.SA_2018_<class 'IndexError'>
-erro_MYPK12.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MYPK12.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_AZEV3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_AZEV3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_AZEV3.SA_2012_<class 'IndexError'>
-ok_AZEV3.SA_2013
-erro_AZEV3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_AZEV3.SA_2015
-ok_AZEV3.SA_2016
-ok_AZEV3.SA_2017
-erro_AZEV4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_AZEV4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_AZEV4.SA_2012_<class 'IndexError'>
-ok_AZEV4.SA_2013
-erro_AZEV4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_AZEV4.SA_2015
-ok_AZEV4.SA_2016
-ok_AZEV4.SA_2017
-erro_MWET3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MWET3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_MWET4.SA_2010_<class 'IndexError'>
-ok_MWET4.SA_2011
-erro_MWET4.SA_2012_<class 'IndexError'>
-ok_MWET4.SA_2013
-ok_MWET4.SA_2014
-erro_MWET4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_MWET4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_MWET4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MWET4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BRSR3.SA_2010
-ok_BRSR3.SA_2011
-erro_BRSR3.SA_2012_<class 'IndexError'>
-erro_BRSR3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_BRSR3.SA_2014
-ok_BRSR3.SA_2015
-ok_BRSR3.SA_2016
-ok_BRSR3.SA_2017
-erro_BRSR3.SA_2018_<class 'IndexError'>
-erro_BRSR5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRSR5.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BRSR6.SA_2010
-ok_BRSR6.SA_2011
-erro_BRSR6.SA_2012_<class 'IndexError'>
-ok_BRSR6.SA_2013
-ok_BRSR6.SA_2014
-ok_BRSR6.SA_2015
-ok_BRSR6.SA_2016
-ok_BRSR6.SA_2017
-erro_BRSR6.SA_2018_<class 'IndexError'>
-erro_BOBR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BOBR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BOBR4.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_BOBR4.SA_2011
-erro_BOBR4.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_BOBR4.SA_2013
-ok_BOBR4.SA_2014
-erro_BOBR4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_BOBR4.SA_2016
-ok_BOBR4.SA_2017
-erro_BOBR4.SA_2018_<class 'IndexError'>
-ok_ITEC3.SA_2010
-ok_ITEC3.SA_2011
-erro_ITEC3.SA_2012_<class 'IndexError'>
-ok_ITEC3.SA_2013
-ok_ITEC3.SA_2014
-erro_ITEC3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_ITEC3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_ITEC3.SA_2017
-erro_ITEC3.SA_2018_<class 'IndexError'>
-ok_RCSL3.SA_2010
-erro_RCSL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_RCSL3.SA_2012_<class 'IndexError'>
-erro_RCSL3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_RCSL3.SA_2014
-ok_RCSL3.SA_2015
-ok_RCSL3.SA_2016
-ok_RCSL3.SA_2017
-erro_RCSL3.SA_2018_<class 'IndexError'>
-ok_RCSL4.SA_2010
-erro_RCSL4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_RCSL4.SA_2012_<class 'IndexError'>
-erro_RCSL4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_RCSL4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_RCSL4.SA_2015
-ok_RCSL4.SA_2016
-ok_RCSL4.SA_2017
-erro_RCSL4.SA_2018_<class 'IndexError'>
-erro_KLBN11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_KLBN11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_KLBN3.SA_2010
-erro_KLBN3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_KLBN3.SA_2012_<class 'IndexError'>
-ok_KLBN3.SA_2013
-erro_KLBN3.SA_2014_<class 'IndexError'>
-erro_KLBN3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_KLBN3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_KLBN3.SA_2017
-erro_KLBN3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_KLBN4.SA_2010
-ok_KLBN4.SA_2011
-erro_KLBN4.SA_2012_<class 'IndexError'>
-ok_KLBN4.SA_2013
-erro_KLBN4.SA_2014_<class 'IndexError'>
-erro_KLBN4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_KLBN4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_KLBN4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_KLBN4.SA_2018_<class 'IndexError'>
-erro_SNSY3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SNSY3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SNSY5.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_SNSY5.SA_2011
-erro_SNSY5.SA_2012_<class 'IndexError'>
-ok_SNSY5.SA_2013
-ok_SNSY5.SA_2014
-erro_SNSY5.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_SNSY5.SA_2016
-ok_SNSY5.SA_2017
-erro_SNSY5.SA_2018_<class 'IndexError'>
-erro_SNSY6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SNSY6.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_APTI3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_APTI4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BMEB3.SA_2010
-ok_BMEB3.SA_2011
-erro_BMEB3.SA_2012_<class 'IndexError'>
-erro_BMEB3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_BMEB3.SA_2014
-ok_BMEB3.SA_2015
-ok_BMEB3.SA_2016
-ok_BMEB3.SA_2017
-erro_BMEB3.SA_2018_<class 'IndexError'>
-erro_BMEB4.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_BMEB4.SA_2011
-erro_BMEB4.SA_2012_<class 'IndexError'>
-ok_BMEB4.SA_2013
-erro_BMEB4.SA_2014_<class 'IndexError'>
-erro_BMEB4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_BMEB4.SA_2016
-ok_BMEB4.SA_2017
-erro_BMEB4.SA_2018_<class 'IndexError'>
-ok_JOPA3.SA_2010
-erro_JOPA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_JOPA3.SA_2012_<class 'IndexError'>
-ok_JOPA3.SA_2013
-ok_JOPA3.SA_2014
-ok_JOPA3.SA_2015
-ok_JOPA3.SA_2016
-ok_JOPA3.SA_2017
-erro_JOPA3.SA_2018_<class 'IndexError'>
-erro_JOPA4.SA_2010_<class 'IndexError'>
-erro_JOPA4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_JOPA4.SA_2012_<class 'IndexError'>
-ok_JOPA4.SA_2013
-erro_JOPA4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_JOPA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_JOPA4.SA_2016
-ok_JOPA4.SA_2017
-erro_JOPA4.SA_2018_<class 'IndexError'>
-ok_PLAS3.SA_2010
-ok_PLAS3.SA_2011
-erro_PLAS3.SA_2012_<class 'IndexError'>
-ok_PLAS3.SA_2013
-ok_PLAS3.SA_2014
-ok_PLAS3.SA_2015
-ok_PLAS3.SA_2016
-erro_PLAS3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PLAS3.SA_2018_<class 'IndexError'>
-erro_PLAS11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PLAS11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_MNPR3.SA_2010
-erro_MNPR3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MNPR3.SA_2012_<class 'IndexError'>
-ok_MNPR3.SA_2013
-ok_MNPR3.SA_2014
-ok_MNPR3.SA_2015
-ok_MNPR3.SA_2016
-ok_MNPR3.SA_2017
-erro_MNPR3.SA_2018_<class 'IndexError'>
-ok_PTBL3.SA_2010
-ok_PTBL3.SA_2011
-erro_PTBL3.SA_2012_<class 'IndexError'>
-ok_PTBL3.SA_2013
-ok_PTBL3.SA_2014
-ok_PTBL3.SA_2015
-ok_PTBL3.SA_2016
-ok_PTBL3.SA_2017
-erro_PTBL3.SA_2018_<class 'IndexError'>
-ok_SCAR3.SA_2010
-ok_SCAR3.SA_2011
-erro_SCAR3.SA_2012_<class 'IndexError'>
-ok_SCAR3.SA_2013
-ok_SCAR3.SA_2014
-ok_SCAR3.SA_2015
-ok_SCAR3.SA_2016
-ok_SCAR3.SA_2017
-erro_SCAR3.SA_2018_<class 'IndexError'>
-ok_BRIV3.SA_2010
-ok_BRIV3.SA_2011
-erro_BRIV3.SA_2012_<class 'IndexError'>
-ok_BRIV3.SA_2013
-ok_BRIV3.SA_2014
-ok_BRIV3.SA_2015
-ok_BRIV3.SA_2016
-ok_BRIV3.SA_2017
-erro_BRIV3.SA_2018_<class 'IndexError'>
-erro_BRIV4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRIV4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRIV4.SA_2012_<class 'IndexError'>
-ok_BRIV4.SA_2013
-erro_BRIV4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRIV4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_BRIV4.SA_2016
-ok_BRIV4.SA_2017
-erro_BRIV4.SA_2018_<class 'IndexError'>
-erro_SUZB3.SA_2010_<class 'IndexError'>
-erro_SUZB3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SUZB3.SA_2012_<class 'IndexError'>
-ok_SUZB3.SA_2013
-ok_SUZB3.SA_2014
-erro_SUZB3.SA_2015_<class 'IndexError'>
-erro_SUZB3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SUZB3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SUZB3.SA_2018_<class 'IndexError'>
-ok_RAPT3.SA_2010
-ok_RAPT3.SA_2011
-erro_RAPT3.SA_2012_<class 'IndexError'>
-ok_RAPT3.SA_2013
-ok_RAPT3.SA_2014
-erro_RAPT3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_RAPT3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_RAPT3.SA_2017
-erro_RAPT3.SA_2018_<class 'IndexError'>
-ok_RAPT4.SA_2010
-ok_RAPT4.SA_2011
-erro_RAPT4.SA_2012_<class 'IndexError'>
-ok_RAPT4.SA_2013
-ok_RAPT4.SA_2014
-ok_RAPT4.SA_2015
-ok_RAPT4.SA_2016
-ok_RAPT4.SA_2017
-erro_RAPT4.SA_2018_<class 'IndexError'>
-ok_TOYB3.SA_2010
-ok_TOYB3.SA_2011
-erro_TOYB3.SA_2012_<class 'IndexError'>
-ok_TOYB3.SA_2013
-ok_TOYB3.SA_2014
-ok_TOYB3.SA_2015
-ok_TOYB3.SA_2016
-ok_TOYB3.SA_2017
-erro_TOYB3.SA_2018_<class 'IndexError'>
-ok_TOYB4.SA_2010
-ok_TOYB4.SA_2011
-erro_TOYB4.SA_2012_<class 'IndexError'>
-ok_TOYB4.SA_2013
-erro_TOYB4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_TOYB4.SA_2015
-ok_TOYB4.SA_2016
-ok_TOYB4.SA_2017
-erro_TOYB4.SA_2018_<class 'IndexError'>
-erro_TOYB13.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TOYB13.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BSLI3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BSLI4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BSLI4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BSLI4.SA_2012_<class 'IndexError'>
-erro_BSLI4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BSLI4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BSLI4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_BSLI4.SA_2016
-ok_BSLI4.SA_2017
-ok_CPLE3.SA_2010
-ok_CPLE3.SA_2011
-erro_CPLE3.SA_2012_<class 'IndexError'>
-ok_CPLE3.SA_2013
-ok_CPLE3.SA_2014
-ok_CPLE3.SA_2015
-ok_CPLE3.SA_2016
-ok_CPLE3.SA_2017
-erro_CPLE3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CPLE5.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_CPLE6.SA_2010
-erro_CPLE6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CPLE6.SA_2012_<class 'IndexError'>
-ok_CPLE6.SA_2013
-ok_CPLE6.SA_2014
-ok_CPLE6.SA_2015
-ok_CPLE6.SA_2016
-ok_CPLE6.SA_2017
-erro_CPLE6.SA_2018_<class 'IndexError'>
-ok_USIM3.SA_2010
-ok_USIM3.SA_2011
-erro_USIM3.SA_2012_<class 'IndexError'>
-erro_USIM3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_USIM3.SA_2014
-ok_USIM3.SA_2015
-ok_USIM3.SA_2016
-ok_USIM3.SA_2017
-erro_USIM3.SA_2018_<class 'IndexError'>
-ok_USIM5.SA_2010
-ok_USIM5.SA_2011
-erro_USIM5.SA_2012_<class 'IndexError'>
-ok_USIM5.SA_2013
-ok_USIM5.SA_2014
-ok_USIM5.SA_2015
-ok_USIM5.SA_2016
-ok_USIM5.SA_2017
-erro_USIM5.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_USIM6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_USIM6.SA_2011_<class 'IndexError'>
-erro_USIM6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_USIM6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_USIM6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_USIM6.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_USIM6.SA_2016
-ok_USIM6.SA_2017
-erro_USIM6.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_WHRL3.SA_2010
-ok_WHRL3.SA_2011
-erro_WHRL3.SA_2012_<class 'IndexError'>
-ok_WHRL3.SA_2013
-ok_WHRL3.SA_2014
-ok_WHRL3.SA_2015
-ok_WHRL3.SA_2016
-ok_WHRL3.SA_2017
-erro_WHRL3.SA_2018_<class 'IndexError'>
-ok_WHRL4.SA_2010
-ok_WHRL4.SA_2011
-erro_WHRL4.SA_2012_<class 'IndexError'>
-ok_WHRL4.SA_2013
-ok_WHRL4.SA_2014
-ok_WHRL4.SA_2015
-ok_WHRL4.SA_2016
-ok_WHRL4.SA_2017
-erro_WHRL4.SA_2018_<class 'IndexError'>
-ok_SBSP3.SA_2010
-ok_SBSP3.SA_2011
-erro_SBSP3.SA_2012_<class 'IndexError'>
-ok_CEBR3.SA_2010
-ok_CEBR3.SA_2011
-erro_CEBR3.SA_2012_<class 'IndexError'>
-ok_CEBR3.SA_2013
-ok_CEBR3.SA_2014
-ok_CEBR3.SA_2015
-ok_CEBR3.SA_2016
-ok_CEBR3.SA_2017
-erro_CEBR3.SA_2018_<class 'IndexError'>
-erro_CEBR5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CEBR5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CEBR5.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_CEBR5.SA_2013
-erro_CEBR5.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CEBR5.SA_2015
-ok_CEBR5.SA_2016
-ok_CEBR5.SA_2017
-erro_CEBR5.SA_2018_<class 'IndexError'>
-erro_CEBR6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CEBR6.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_CYRE3.SA_2010
-ok_CYRE3.SA_2011
-erro_CYRE3.SA_2012_<class 'IndexError'>
-ok_CYRE3.SA_2013
-ok_CYRE3.SA_2014
-ok_CYRE3.SA_2015
-ok_CYRE3.SA_2016
-ok_CYRE3.SA_2017
-erro_CYRE3.SA_2018_<class 'IndexError'>
-erro_SHUL3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SHUL3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_SHUL4.SA_2010
-ok_SHUL4.SA_2011
-erro_SHUL4.SA_2012_<class 'IndexError'>
-ok_SHUL4.SA_2013
-ok_SHUL4.SA_2014
-ok_SHUL4.SA_2015
-ok_SHUL4.SA_2016
-ok_SHUL4.SA_2017
-erro_SHUL4.SA_2018_<class 'IndexError'>
-erro_HGTX3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_HGTX3.SA_2011
-erro_HGTX3.SA_2012_<class 'IndexError'>
-erro_HGTX3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_HGTX3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HGTX3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_HGTX3.SA_2016
-ok_HGTX3.SA_2017
-erro_HGTX3.SA_2018_<class 'IndexError'>
-erro_PCAR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PCAR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_PCAR4.SA_2010
-ok_PCAR4.SA_2011
-erro_PCAR4.SA_2012_<class 'IndexError'>
-ok_PCAR4.SA_2013
-ok_PCAR4.SA_2014
-ok_PCAR4.SA_2015
-ok_PCAR4.SA_2016
-ok_PCAR4.SA_2017
-erro_PCAR4.SA_2018_<class 'IndexError'>
-erro_LTEL11B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_LTEL11B.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_LTEL3B.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_LTEL5B.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BDLL3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BDLL4.SA_2010
-ok_BDLL4.SA_2011
-erro_BDLL4.SA_2012_<class 'IndexError'>
-erro_BDLL4.SA_2013_<class 'IndexError'>
-erro_BDLL4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_BDLL4.SA_2015
-ok_BDLL4.SA_2016
-ok_BDLL4.SA_2017
-erro_BDLL4.SA_2018_<class 'IndexError'>
-ok_ENGI11.SA_2010
-ok_ENGI11.SA_2011
-erro_ENGI11.SA_2012_<class 'IndexError'>
-ok_ENGI11.SA_2013
-erro_ENGI11.SA_2014_<class 'IndexError'>
-erro_ENGI11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_ENGI11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_ENGI11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_ENGI11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_ENGI3.SA_2010
-ok_ENGI3.SA_2011
-erro_ENGI3.SA_2012_<class 'IndexError'>
-ok_ENGI3.SA_2013
-ok_ENGI3.SA_2014
-ok_ENGI3.SA_2015
-ok_ENGI3.SA_2016
-ok_ENGI3.SA_2017
-erro_ENGI3.SA_2018_<class 'IndexError'>
-erro_ENGI4.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_ENGI4.SA_2011
-erro_ENGI4.SA_2012_<class 'IndexError'>
-erro_ENGI4.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_ENGI4.SA_2014
-ok_ENGI4.SA_2015
-ok_ENGI4.SA_2016
-ok_ENGI4.SA_2017
-erro_ENGI4.SA_2018_<class 'IndexError'>
-erro_ENGI12.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_ENGI12.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_FRRN3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_FRRN3B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FRRN3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_FRRN5B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_FRRN5B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FRRN5B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_FRRN6B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_FRRN6B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FRRN6B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_VSPT3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_VSPT3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_VSPT3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_VSPT3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_VSPT3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_VSPT4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_VSPT4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_VSPT4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_VSPT4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_VSPT4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BTTL3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_BTTL3.SA_2011
-erro_BTTL3.SA_2012_<class 'IndexError'>
-ok_BTTL3.SA_2013
-ok_BTTL3.SA_2014
-ok_BTTL3.SA_2015
-ok_BTTL3.SA_2016
-ok_BTTL3.SA_2017
-erro_BTTL3.SA_2018_<class 'IndexError'>
-erro_NEOE3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_NEOE3B.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BALM3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BALM4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_GFSA3.SA_2010
-ok_GFSA3.SA_2011
-erro_GFSA3.SA_2012_<class 'IndexError'>
-ok_GFSA3.SA_2013
-ok_GFSA3.SA_2014
-ok_GFSA3.SA_2015
-ok_GFSA3.SA_2016
-ok_GFSA3.SA_2017
-erro_GFSA3.SA_2018_<class 'IndexError'>
-erro_GFSA1.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_GFSA1.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BRFS3.SA_2010
-ok_BRFS3.SA_2011
-erro_BRFS3.SA_2012_<class 'IndexError'>
-ok_BRFS3.SA_2013
-ok_BRFS3.SA_2014
-ok_BRFS3.SA_2015
-ok_BRFS3.SA_2016
-ok_BRFS3.SA_2017
-erro_BRFS3.SA_2018_<class 'IndexError'>
-ok_RSID3.SA_2010
-ok_RSID3.SA_2011
-erro_RSID3.SA_2012_<class 'IndexError'>
-ok_RSID3.SA_2013
-ok_RSID3.SA_2014
-ok_RSID3.SA_2015
-erro_RSID3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_RSID3.SA_2017
-erro_RSID3.SA_2018_<class 'IndexError'>
-erro_OPTS3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_OPTS3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_ECPR3.SA_2010
-ok_ECPR3.SA_2011
-erro_ECPR3.SA_2012_<class 'IndexError'>
-ok_ECPR3.SA_2013
-ok_ECPR3.SA_2014
-ok_ECPR3.SA_2015
-ok_ECPR3.SA_2016
-ok_ECPR3.SA_2017
-erro_ECPR3.SA_2018_<class 'IndexError'>
-ok_ECPR4.SA_2010
-ok_ECPR4.SA_2011
-erro_ECPR4.SA_2012_<class 'IndexError'>
-erro_ECPR4.SA_2013_<class 'IndexError'>
-erro_ECPR4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_ECPR4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_ECPR4.SA_2016
-ok_ECPR4.SA_2017
-erro_ECPR4.SA_2018_<class 'IndexError'>
-erro_UPKP3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_GPCP3.SA_2010
-ok_GPCP3.SA_2011
-erro_GPCP3.SA_2012_<class 'IndexError'>
-ok_GPCP3.SA_2013
-ok_GPCP3.SA_2014
-ok_GPCP3.SA_2015
-ok_GPCP3.SA_2016
-ok_GPCP3.SA_2017
-erro_GPCP3.SA_2018_<class 'IndexError'>
-erro_GPCP4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_GPCP4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_PSSA3.SA_2010
-ok_PSSA3.SA_2011
-erro_PSSA3.SA_2012_<class 'IndexError'>
-erro_PSSA3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_PSSA3.SA_2014
-ok_LEVE3.SA_2017
-erro_LEVE3.SA_2018_<class 'IndexError'>
-ok_GOAU3.SA_2010
-ok_GOAU3.SA_2011
-erro_GOAU3.SA_2012_<class 'IndexError'>
-ok_GOAU3.SA_2013
-ok_GOAU3.SA_2014
-ok_GOAU3.SA_2015
-ok_GOAU3.SA_2016
-ok_GOAU3.SA_2017
-erro_GOAU3.SA_2018_<class 'IndexError'>
-ok_GOAU4.SA_2010
-ok_GOAU4.SA_2011
-erro_GOAU4.SA_2012_<class 'IndexError'>
-ok_GOAU4.SA_2013
-ok_GOAU4.SA_2014
-ok_GOAU4.SA_2015
-ok_GOAU4.SA_2016
-ok_GOAU4.SA_2017
-erro_GOAU4.SA_2018_<class 'IndexError'>
-erro_JPSA3.SA_2010_<class 'IndexError'>
-erro_JPSA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_JPSA3.SA_2012_<class 'IndexError'>
-ok_JPSA3.SA_2013
-ok_JPSA3.SA_2014
-ok_JPSA3.SA_2015
-ok_JPSA3.SA_2016
-ok_JPSA3.SA_2017
-erro_JPSA3.SA_2018_<class 'IndexError'>
-erro_MTSA3.SA_2010_<class 'IndexError'>
-erro_MTSA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MTSA3.SA_2012_<class 'IndexError'>
-ok_MTSA3.SA_2013
-ok_MTSA3.SA_2014
-ok_MTSA3.SA_2015
-ok_MTSA3.SA_2016
-ok_MTSA3.SA_2017
-erro_MTSA3.SA_2018_<class 'IndexError'>
-erro_MTSA4.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_MTSA4.SA_2011
-erro_MTSA4.SA_2012_<class 'IndexError'>
-erro_MTSA4.SA_2013_<class 'IndexError'>
-ok_MTSA4.SA_2014
-erro_MTSA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_MTSA4.SA_2016
-ok_MTSA4.SA_2017
-erro_MTSA4.SA_2018_<class 'IndexError'>
-ok_MOAR3.SA_2010
-ok_MOAR3.SA_2011
-erro_MOAR3.SA_2012_<class 'IndexError'>
-ok_MOAR3.SA_2013
-ok_MOAR3.SA_2014
-ok_MOAR3.SA_2015
-ok_MOAR3.SA_2016
-ok_MOAR3.SA_2017
-erro_MOAR3.SA_2018_<class 'IndexError'>
-erro_NAFG3.SA_2010_<class 'IndexError'>
-erro_NAFG3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_NAFG3.SA_2012_<class 'IndexError'>
-ok_NAFG3.SA_2013
-erro_NAFG3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_NAFG3.SA_2015
-ok_NAFG3.SA_2016
-ok_NAFG3.SA_2017
-erro_NAFG3.SA_2018_<class 'IndexError'>
-erro_NAFG4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_NAFG4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_NAFG4.SA_2012_<class 'IndexError'>
-erro_NAFG4.SA_2013_<class 'IndexError'>
-erro_NAFG4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_NAFG4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_NAFG4.SA_2016
-ok_NAFG4.SA_2017
-erro_NAFG4.SA_2018_<class 'IndexError'>
-erro_NEMO3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_NEMO3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_NEMO5.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_NEMO6.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BBDC3.SA_2010
-ok_BBDC3.SA_2011
-erro_BBDC3.SA_2012_<class 'IndexError'>
-ok_BBDC3.SA_2013
-ok_BBDC3.SA_2014
-ok_BBDC3.SA_2015
-ok_BBDC3.SA_2016
-ok_BBDC3.SA_2017
-erro_BBDC3.SA_2018_<class 'IndexError'>
-ok_BBDC4.SA_2010
-ok_BBDC4.SA_2011
-erro_BBDC4.SA_2012_<class 'IndexError'>
-ok_BBDC4.SA_2013
-ok_BBDC4.SA_2014
-ok_BBDC4.SA_2015
-ok_BBDC4.SA_2016
-ok_BBDC4.SA_2017
-erro_BBDC4.SA_2018_<class 'IndexError'>
-ok_PNVL3.SA_2010
-ok_PNVL3.SA_2011
-erro_PNVL3.SA_2012_<class 'IndexError'>
-ok_PNVL3.SA_2013
-ok_PNVL3.SA_2014
-ok_PNVL3.SA_2015
-ok_PNVL3.SA_2016
-ok_PNVL3.SA_2017
-erro_PNVL3.SA_2018_<class 'IndexError'>
-ok_PNVL4.SA_2010
-ok_PNVL4.SA_2011
-erro_PNVL4.SA_2012_<class 'IndexError'>
-ok_PNVL4.SA_2013
-erro_PNVL4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_PNVL4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_PNVL4.SA_2016
-ok_PNVL4.SA_2017
-erro_PNVL4.SA_2018_<class 'IndexError'>
-ok_PMAM3.SA_2010
-ok_PMAM3.SA_2011
-erro_PMAM3.SA_2012_<class 'IndexError'>
-ok_PMAM3.SA_2013
-ok_PMAM3.SA_2014
-erro_PMAM3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_PMAM3.SA_2016
-ok_PMAM3.SA_2017
-erro_PMAM3.SA_2018_<class 'IndexError'>
-ok_PATI3.SA_2010
-ok_PATI3.SA_2011
-erro_PATI3.SA_2012_<class 'IndexError'>
-ok_PATI3.SA_2013
-ok_PATI3.SA_2014
-ok_PATI3.SA_2015
-ok_PATI3.SA_2016
-ok_PATI3.SA_2017
-erro_PATI3.SA_2018_<class 'IndexError'>
-erro_PATI4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_PATI4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_PATI4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_PATI4.SA_2013_<class 'IndexError'>
-erro_PATI4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_PATI4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_PATI4.SA_2016
-ok_PATI4.SA_2017
-erro_PATI4.SA_2018_<class 'IndexError'>
-ok_PETR3.SA_2010
-ok_PETR3.SA_2011
-erro_PETR3.SA_2012_<class 'IndexError'>
-ok_PETR3.SA_2013
-ok_PETR3.SA_2014
-ok_PETR3.SA_2015
-ok_PETR3.SA_2016
-ok_PETR3.SA_2017
-erro_PETR3.SA_2018_<class 'IndexError'>
-ok_PETR4.SA_2010
-ok_PETR4.SA_2011
-erro_PETR4.SA_2012_<class 'IndexError'>
-ok_PETR4.SA_2013
-ok_PETR4.SA_2014
-erro_PETR4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_PETR4.SA_2016
-ok_PETR4.SA_2017
-erro_PETR4.SA_2018_<class 'IndexError'>
-ok_RPAD3.SA_2010
-ok_RPAD3.SA_2011
-erro_RPAD3.SA_2012_<class 'IndexError'>
-ok_RPAD5.SA_2010
-ok_RPAD5.SA_2011
-erro_RPAD5.SA_2012_<class 'IndexError'>
-ok_RPAD6.SA_2010
-ok_RPAD6.SA_2011
-erro_RPAD6.SA_2012_<class 'IndexError'>
-ok_RPMG3.SA_2010
-ok_RPMG3.SA_2011
-erro_RPMG3.SA_2012_<class 'IndexError'>
-ok_RPMG3.SA_2013
-ok_RPMG3.SA_2014
-ok_RPMG3.SA_2015
-ok_RPMG3.SA_2016
-ok_RPMG3.SA_2017
-ok_ADHM3.SA_2011
-erro_ADHM3.SA_2012_<class 'IndexError'>
-ok_ADHM3.SA_2013
-ok_ADHM3.SA_2014
-ok_ADHM3.SA_2015
-ok_ADHM3.SA_2016
-ok_ADHM3.SA_2017
-erro_ADHM3.SA_2018_<class 'IndexError'>
-erro_ARZZ3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_ARZZ3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ARZZ3.SA_2012_<class 'IndexError'>
-ok_ARZZ3.SA_2013
-ok_ARZZ3.SA_2014
-ok_ARZZ3.SA_2015
-ok_ARZZ3.SA_2016
-ok_ARZZ3.SA_2017
-erro_ARZZ3.SA_2018_<class 'IndexError'>
-erro_SSBR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SSBR3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SSBR3.SA_2012_<class 'IndexError'>
-ok_SSBR3.SA_2013
-ok_SSBR3.SA_2014
-ok_SSBR3.SA_2015
-ok_SSBR3.SA_2016
-ok_SSBR3.SA_2017
-erro_SSBR3.SA_2018_<class 'IndexError'>
-erro_ENAT3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_ENAT3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SHOW3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SHOW3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SHOW3.SA_2012_<class 'IndexError'>
-erro_SHOW3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_SHOW3.SA_2014
-ok_SHOW3.SA_2015
-ok_SHOW3.SA_2016
-ok_SHOW3.SA_2017
-erro_SHOW3.SA_2018_<class 'IndexError'>
-erro_MGLU3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_MGLU3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MGLU3.SA_2012_<class 'IndexError'>
-ok_MGLU3.SA_2013
-ok_MGLU3.SA_2014
-ok_MGLU3.SA_2015
-ok_MGLU3.SA_2016
-erro_MGLU3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MGLU3.SA_2018_<class 'IndexError'>
-erro_QUAL3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_QUAL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_QUAL3.SA_2012_<class 'IndexError'>
-ok_QUAL3.SA_2013
-ok_QUAL3.SA_2014
-ok_QUAL3.SA_2015
-ok_QUAL3.SA_2016
-ok_QUAL3.SA_2017
-erro_QUAL3.SA_2018_<class 'IndexError'>
-erro_BPHA3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BPHA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BPHA3.SA_2012_<class 'IndexError'>
-ok_BPHA3.SA_2013
-ok_BPHA3.SA_2014
-ok_BPHA3.SA_2015
-ok_BPHA3.SA_2016
-ok_BPHA3.SA_2017
-erro_BPHA3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_TECN3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TECN3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TECN3.SA_2012_<class 'IndexError'>
-ok_TECN3.SA_2013
-ok_TECN3.SA_2014
-ok_TECN3.SA_2015
-ok_TECN3.SA_2016
-ok_TECN3.SA_2017
-erro_TECN3.SA_2018_<class 'IndexError'>
-erro_SEDU3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SEDU3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SEDU3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SEDU3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SEDU3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_SEDU3.SA_2015
-ok_SEDU3.SA_2016
-ok_SEDU3.SA_2017
-erro_SEDU3.SA_2018_<class 'IndexError'>
-erro_STKF3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_STKF3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BPAC11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BPAC3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BPAC3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BPAC3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BPAC3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BPAC3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BPAC3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_BPAC3.SA_2017
-erro_BPAC3.SA_2018_<class 'IndexError'>
-erro_BPAC5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BPAC5.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BPAC5.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BPAC5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BPAC5.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BPAC5.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_BPAC5.SA_2017
-erro_BPAC5.SA_2018_<class 'IndexError'>
-ok_RADL3.SA_2011
-erro_RADL3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_RADL3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_RADL3.SA_2015
-erro_RADL3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_RADL3.SA_2017
-erro_RADL3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_HAGA3.SA_2012_<class 'IndexError'>
-ok_HAGA3.SA_2013
-ok_HAGA3.SA_2014
-ok_HAGA3.SA_2015
-ok_HAGA3.SA_2016
-ok_HAGA3.SA_2017
-erro_HAGA3.SA_2018_<class 'IndexError'>
-erro_HAGA4.SA_2012_<class 'IndexError'>
-ok_HAGA4.SA_2013
-ok_HAGA4.SA_2014
-erro_HAGA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_HAGA4.SA_2016
-ok_HAGA4.SA_2017
-erro_HAGA4.SA_2018_<class 'IndexError'>
-erro_CCXC3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_CCXC3.SA_2013
-ok_CCXC3.SA_2014
-ok_CCXC3.SA_2015
-ok_CCXC3.SA_2016
-ok_CCXC3.SA_2017
-erro_CCXC3.SA_2018_<class 'IndexError'>
-erro_NUTR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_NUTR3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_NUTR3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_NUTR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_NUTR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_NUTR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_NUTR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_LCAM3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LCAM3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LCAM3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LCAM3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_LCAM3.SA_2014
-ok_LCAM3.SA_2017
-erro_LCAM3.SA_2018_<class 'IndexError'>
-erro_SQIA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SQIA3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SQIA3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_SQIA3.SA_2014
-ok_SQIA3.SA_2015
-ok_SQIA3.SA_2016
-ok_SQIA3.SA_2017
-erro_SQIA3.SA_2018_<class 'IndexError'>
-erro_BPAT33.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BPAT33.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BPAT33.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BPAT33.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BPAT33.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BPAT33.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BPAT33.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_PPLA11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_PPLA11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_PPLA11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_PPLA11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_PPLA11.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_TCNO3.SA_2013
-ok_TCNO3.SA_2014
-ok_TCNO3.SA_2015
-ok_TCNO3.SA_2016
-ok_TCNO3.SA_2017
-erro_TCNO3.SA_2018_<class 'IndexError'>
-erro_TCNO4.SA_2013_<class 'IndexError'>
-ok_TCNO4.SA_2014
-ok_TCNO4.SA_2015
-ok_TCNO4.SA_2016
-erro_TCNO4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TCNO4.SA_2018_<class 'IndexError'>
-ok_CSAN3.SA_2013
-ok_CSAN3.SA_2014
-ok_CSAN3.SA_2015
-ok_CSAN3.SA_2016
-ok_CSAN3.SA_2017
-erro_CSAN3.SA_2018_<class 'IndexError'>
-erro_ALUP11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_ALUP11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_ALUP3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_ALUP3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ALUP3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_ALUP3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_ALUP3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_ALUP3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_ALUP3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_ALUP3.SA_2017
-erro_ALUP3.SA_2018_<class 'IndexError'>
-erro_ALUP4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_ALUP4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ALUP4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_ALUP4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_ALUP4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_ALUP4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_ALUP4.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_ALUP4.SA_2017
-erro_ALUP4.SA_2018_<class 'IndexError'>
-ok_UCAS3.SA_2013
-ok_UCAS3.SA_2014
-ok_UCAS3.SA_2015
-ok_UCAS3.SA_2016
-ok_UCAS3.SA_2017
-erro_UCAS3.SA_2018_<class 'IndexError'>
-erro_LINX3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LINX3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LINX3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_LINX3.SA_2014
-ok_LINX3.SA_2015
-ok_LINX3.SA_2016
-ok_LINX3.SA_2017
-erro_LINX3.SA_2018_<class 'IndexError'>
-erro_BBSE3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BBSE3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_BBSE3.SA_2014
-ok_BBSE3.SA_2015
-ok_BBSE3.SA_2016
-ok_BBSE3.SA_2017
-erro_BBSE3.SA_2018_<class 'IndexError'>
-erro_IGSN3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_IGSN3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_IGSN3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_IGSN3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_IGSN3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_IGSN3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_IGSN3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SEER3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SEER3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_SEER3.SA_2014
-ok_SEER3.SA_2015
-ok_SEER3.SA_2016
-ok_SEER3.SA_2017
-erro_SEER3.SA_2018_<class 'IndexError'>
-erro_ANIM3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_ANIM3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_ANIM3.SA_2014
-ok_ANIM3.SA_2015
-ok_ANIM3.SA_2016
-ok_ANIM3.SA_2017
-erro_ANIM3.SA_2018_<class 'IndexError'>
-ok_ABEV3.SA_2013
-ok_ABEV3.SA_2014
-ok_ABEV3.SA_2015
-ok_ABEV3.SA_2016
-ok_ABEV3.SA_2017
-erro_ABEV3.SA_2018_<class 'IndexError'>
-erro_CVCB3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CVCB3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_CVCB3.SA_2014
-ok_CVCB3.SA_2015
-ok_CVCB3.SA_2016
-ok_CVCB3.SA_2017
-erro_CVCB3.SA_2018_<class 'IndexError'>
-ok_TELB3.SA_2014
-ok_TELB3.SA_2015
-ok_TELB3.SA_2016
-ok_TELB4.SA_2014
-ok_TELB4.SA_2015
-ok_TELB4.SA_2016
-erro_RLOG3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_RLOG3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_RLOG3.SA_2015
-ok_RLOG3.SA_2016
-ok_RLOG3.SA_2017
-erro_RLOG3.SA_2018_<class 'IndexError'>
-erro_DMMO3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_DMMO3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_DMMO3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_DMMO3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_DMMO3.SA_2017
-erro_DMMO3.SA_2018_<class 'IndexError'>
-erro_DMMO11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_DMMO11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_DMMO11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_DMMO11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_DMMO11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_DMMO11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_OFSA3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_OFSA3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_OFSA3.SA_2016
-ok_OFSA3.SA_2017
-erro_OFSA3.SA_2018_<class 'IndexError'>
-ok_EEEL3.SA_2014
-erro_EEEL3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_EEEL3.SA_2016
-ok_EEEL3.SA_2017
-erro_EEEL3.SA_2018_<class 'IndexError'>
-erro_EEEL4.SA_2014_<class 'IndexError'>
-erro_EEEL4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_EEEL4.SA_2016
-ok_EEEL4.SA_2017
-erro_EEEL4.SA_2018_<class 'IndexError'>
-erro_JBDU11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_JBDU11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_JBDU11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_JBDU12.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_JBDU12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_JBDU12.SA_2017_<class 'eventlet.timeout.Timeout'>
-ok_JBDU3.SA_2015
-ok_JBDU3.SA_2016
-ok_JBDU3.SA_2017
-ok_JBDU4.SA_2015
-ok_JBDU4.SA_2016
-ok_JBDU4.SA_2017
-ok_GEPA3.SA_2015
-ok_GEPA3.SA_2016
-ok_GEPA3.SA_2017
-erro_GEPA3.SA_2018_<class 'IndexError'>
-erro_GEPA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_GEPA4.SA_2016
-ok_GEPA4.SA_2017
-erro_GEPA4.SA_2018_<class 'IndexError'>
-erro_QUSW3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_QUSW3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_QUSW3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_QUSW3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_MEAL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MEAL3.SA_2012_<class 'IndexError'>
-ok_MEAL3.SA_2013
-ok_MEAL3.SA_2014
-ok_MEAL3.SA_2015
-erro_MEAL3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_MEAL3.SA_2017
-erro_MEAL3.SA_2018_<class 'IndexError'>
-erro_WIZS3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_WIZS3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_WIZS3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_WIZS3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_WIZS3.SA_2018_<class 'IndexError'>
-erro_HCBR3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HCBR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_HCBR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_HCBR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_HCBR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_HCBR1.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HCBR1.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_HCBR1.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_HCBR1.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_HCBR1.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_AHEB3.SA_2015
-erro_AHEB5.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_AHEB6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA12B0.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA19B0.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1AB0.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA1BB0.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CBSC-CRA21B0.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BRQB3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRQB3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRQB3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRQB3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRQB3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CNSY3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CNSY3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CNSY3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CNSY3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_AALR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_AALR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_AALR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_AALR3.SA_2018_<class 'IndexError'>
-ok_ATOM3.SA_2017
-erro_ATOM3.SA_2018_<class 'IndexError'>
-erro_OMGE3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_OMGE3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_OMGE3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_OMGE3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_OMGE3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_OMGE3.SA_2018_<class 'IndexError'>
-erro_MOVI3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_MOVI3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_MOVI3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_MOVI3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MOVI3.SA_2018_<class 'IndexError'>
-erro_PARD3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_PARD3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PARD3.SA_2018_<class 'IndexError'>
-erro_AZUL4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_AZUL4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_AZUL4.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CRFB3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CRFB3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CRFB3.SA_2018_<class 'IndexError'>
-erro_IRBR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_IRBR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_IRBR3.SA_2018_<class 'IndexError'>
-erro_STTR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_STTR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_STTR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_PRNR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_PRNR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PRNR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_SMLS3.SA_2017
-erro_SMLS3.SA_2018_<class 'IndexError'>
-erro_BKBR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BKBR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BKBR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_GBIO33.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_GBIO33.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_GBIO33.SA_2018_<class 'IndexError'>
-erro_LOGG3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LOGG3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LOGG3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LOGG3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_LOGG3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_LOGG3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_LOGG3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_MSRO3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SMFT11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SMFT11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SMFT11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SMFT12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SMFT12.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SMFT12.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SMFT13.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SMFT13.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SMFT13.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SMFT14.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SMFT14.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SMFT14.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SMFT15.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SMFT15.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SMFT15.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SMFT3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SMFT3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SMFT3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SMFT6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SMFT6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SMFT6.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_INNT3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_FLEX3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_FLEX3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_FLEX3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_GNDI3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_GNDI3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_HAPV3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_HAPV3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BIDI4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BIDI4.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_PTCA11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PTCA11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_PTCA3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PTCA3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_EALT3.SA_2018_<class 'IndexError'>
-erro_EALT4.SA_2018_<class 'IndexError'>
-ok_BPAN4.SA_2010
-ok_BPAN4.SA_2011
-erro_BPAN4.SA_2012_<class 'IndexError'>
-ok_BPAN4.SA_2013
-ok_BPAN4.SA_2014
-ok_BPAN4.SA_2015
-ok_BPAN4.SA_2016
-ok_BPAN4.SA_2017
-erro_BPAN4.SA_2018_<class 'IndexError'>
-ok_ENEV3.SA_2010
-ok_ENEV3.SA_2011
-erro_ENEV3.SA_2012_<class 'IndexError'>
-ok_ENEV3.SA_2013
-ok_ENEV3.SA_2014
-ok_ENEV3.SA_2015
-ok_ENEV3.SA_2016
-ok_ENEV3.SA_2017
-erro_ENEV3.SA_2018_<class 'IndexError'>
-erro_ALSC3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_ALSC3.SA_2011
-erro_ALSC3.SA_2012_<class 'IndexError'>
-ok_ALSC3.SA_2013
-ok_ALSC3.SA_2014
-ok_ALSC3.SA_2015
-ok_ALSC3.SA_2016
-ok_ALSC3.SA_2017
-erro_ALSC3.SA_2018_<class 'IndexError'>
-erro_OSXB3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_OSXB3.SA_2011
-erro_OSXB3.SA_2012_<class 'IndexError'>
-ok_OSXB3.SA_2013
-ok_OSXB3.SA_2014
-ok_OSXB3.SA_2015
-ok_OSXB3.SA_2016
-ok_OSXB3.SA_2017
-erro_OSXB3.SA_2018_<class 'IndexError'>
-erro_DIRR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_DIRR3.SA_2011
-erro_DIRR3.SA_2012_<class 'IndexError'>
-ok_DIRR3.SA_2013
-ok_DIRR3.SA_2014
-ok_DIRR3.SA_2015
-ok_DIRR3.SA_2016
-ok_DIRR3.SA_2017
-erro_DIRR3.SA_2018_<class 'IndexError'>
-erro_GPAR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_GPAR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_HYPE3.SA_2010
-ok_HYPE3.SA_2011
-erro_HYPE3.SA_2012_<class 'IndexError'>
-ok_HYPE3.SA_2013
-ok_HYPE3.SA_2014
-ok_HYPE3.SA_2015
-ok_HYPE3.SA_2016
-ok_HYPE3.SA_2017
-erro_HYPE3.SA_2018_<class 'IndexError'>
-ok_LLIS3.SA_2010
-ok_LLIS3.SA_2014
-ok_LLIS3.SA_2015
-ok_LLIS3.SA_2016
-ok_LLIS3.SA_2017
-erro_LLIS3.SA_2018_<class 'IndexError'>
-erro_B3SA3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_B3SA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_B3SA3.SA_2012_<class 'IndexError'>
-ok_B3SA3.SA_2013
-ok_B3SA3.SA_2014
-ok_B3SA3.SA_2015
-erro_B3SA3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_B3SA3.SA_2017
-erro_B3SA3.SA_2018_<class 'IndexError'>
-erro_RNEW11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_RNEW11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_RNEW3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RNEW3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_RNEW3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_RNEW3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_RNEW3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_RNEW3.SA_2015
-ok_RNEW3.SA_2016
-ok_RNEW3.SA_2017
-erro_RNEW3.SA_2018_<class 'IndexError'>
-erro_RNEW4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_RNEW4.SA_2018_<class 'IndexError'>
-ok_TRPN3.SA_2010
-ok_TRPN3.SA_2011
-erro_TRPN3.SA_2012_<class 'IndexError'>
-ok_TRPN3.SA_2013
-ok_TRPN3.SA_2014
-ok_TRPN3.SA_2015
-ok_TRPN3.SA_2016
-ok_TRPN3.SA_2017
-erro_TRPN3.SA_2018_<class 'IndexError'>
-ok_CIEL3.SA_2010
-ok_CIEL3.SA_2011
-erro_CIEL3.SA_2012_<class 'IndexError'>
-ok_CIEL3.SA_2013
-ok_CIEL3.SA_2014
-ok_CIEL3.SA_2015
-ok_CIEL3.SA_2016
-ok_CIEL3.SA_2017
-erro_CIEL3.SA_2018_<class 'IndexError'>
-ok_FLRY3.SA_2010
-ok_FLRY3.SA_2011
-erro_FLRY3.SA_2012_<class 'IndexError'>
-ok_FLRY3.SA_2013
-ok_FLRY3.SA_2014
-ok_FLRY3.SA_2015
-ok_FLRY3.SA_2016
-ok_FLRY3.SA_2017
-erro_FLRY3.SA_2018_<class 'IndexError'>
-erro_JSLG3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_JSLG3.SA_2011
-erro_JSLG3.SA_2012_<class 'IndexError'>
-ok_JSLG3.SA_2013
-ok_JSLG3.SA_2014
-ok_JSLG3.SA_2015
-ok_JSLG3.SA_2016
-ok_JSLG3.SA_2017
-erro_JSLG3.SA_2018_<class 'IndexError'>
-ok_AMAR3.SA_2010
-ok_AMAR3.SA_2011
-erro_AMAR3.SA_2012_<class 'IndexError'>
-ok_AMAR3.SA_2013
-ok_AMAR3.SA_2014
-ok_AMAR3.SA_2015
-ok_AMAR3.SA_2016
-ok_AMAR3.SA_2017
-erro_AMAR3.SA_2018_<class 'IndexError'>
-erro_PRIO3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_PRIO3.SA_2011
-erro_PRIO3.SA_2012_<class 'IndexError'>
-ok_PRIO3.SA_2013
-ok_PRIO3.SA_2014
-ok_PRIO3.SA_2015
-ok_PRIO3.SA_2016
-ok_PRIO3.SA_2017
-erro_PRIO3.SA_2018_<class 'IndexError'>
-erro_APER3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_APER3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_RANI3.SA_2010
-ok_RANI3.SA_2011
-erro_RANI3.SA_2012_<class 'IndexError'>
-ok_RANI3.SA_2013
-ok_RANI3.SA_2014
-ok_RANI3.SA_2015
-ok_RANI3.SA_2016
-ok_RANI3.SA_2017
-erro_RANI3.SA_2018_<class 'IndexError'>
-ok_RANI4.SA_2010
-erro_RANI4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_RANI4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_RANI4.SA_2013_<class 'IndexError'>
-erro_RANI4.SA_2014_<class 'IndexError'>
-erro_RANI4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_RANI4.SA_2016
-ok_RANI4.SA_2017
-erro_RANI4.SA_2018_<class 'IndexError'>
-ok_ELET3.SA_2010
-ok_ELET3.SA_2011
-erro_ELET3.SA_2012_<class 'IndexError'>
-ok_ELET3.SA_2013
-ok_ELET3.SA_2014
-ok_ELET3.SA_2015
-erro_ELET3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_ELET3.SA_2017
-erro_ELET3.SA_2018_<class 'IndexError'>
-erro_ELET5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_ELET5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ELET5.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_ELET5.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_ELET5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_ELET5.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_ELET5.SA_2016
-erro_ELET5.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_ELET5.SA_2018_<class 'IndexError'>
-erro_ELET6.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_ELET6.SA_2011
-erro_ELET6.SA_2012_<class 'IndexError'>
-ok_ELET6.SA_2013
-ok_ELET6.SA_2014
-ok_ELET6.SA_2015
-ok_ELET6.SA_2016
-ok_ELET6.SA_2017
-erro_ELET6.SA_2018_<class 'IndexError'>
-ok_CMIG3.SA_2010
-ok_CMIG3.SA_2011
-erro_CMIG3.SA_2012_<class 'IndexError'>
-ok_CMIG3.SA_2013
-ok_CMIG3.SA_2014
-ok_CMIG3.SA_2015
-ok_CMIG3.SA_2016
-ok_CMIG3.SA_2017
-erro_CMIG3.SA_2018_<class 'IndexError'>
-ok_CMIG4.SA_2010
-ok_CMIG4.SA_2011
-erro_CMIG4.SA_2012_<class 'IndexError'>
-ok_CMIG4.SA_2013
-ok_CMIG4.SA_2014
-ok_CMIG4.SA_2015
-ok_CMIG4.SA_2016
-ok_CMIG4.SA_2017
-erro_CMIG4.SA_2018_<class 'IndexError'>
-erro_CLSC3.SA_2010_<class 'IndexError'>
-ok_CLSC3.SA_2011
-erro_CLSC3.SA_2012_<class 'IndexError'>
-erro_CLSC3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CLSC3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CLSC3.SA_2015
-ok_CLSC3.SA_2016
-erro_CLSC3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CLSC3.SA_2018_<class 'IndexError'>
-erro_CLSC4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CLSC4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CLSC4.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_CLSC4.SA_2013
-ok_CLSC4.SA_2014
-ok_CLSC4.SA_2015
-ok_CLSC4.SA_2016
-ok_CLSC4.SA_2017
-erro_CLSC4.SA_2018_<class 'IndexError'>
-ok_FESA3.SA_2010
-ok_FESA3.SA_2011
-erro_FESA3.SA_2012_<class 'IndexError'>
-ok_FESA3.SA_2013
-ok_FESA3.SA_2014
-ok_FESA3.SA_2015
-ok_FESA3.SA_2016
-ok_FESA3.SA_2017
-erro_FESA3.SA_2018_<class 'IndexError'>
-ok_FESA4.SA_2010
-ok_FESA4.SA_2011
-erro_FESA4.SA_2012_<class 'IndexError'>
-erro_FESA4.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_FESA4.SA_2014
-ok_FESA4.SA_2015
-ok_FESA4.SA_2016
-ok_FESA4.SA_2017
-erro_FESA4.SA_2018_<class 'IndexError'>
-ok_CEDO3.SA_2010
-erro_CEDO3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CEDO3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CEDO3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CEDO3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CEDO3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CEDO3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CEDO3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CEDO3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CEDO4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CEDO4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CEDO4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CEDO4.SA_2013_<class 'IndexError'>
-erro_CEDO4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CEDO4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_CEDO4.SA_2016
-ok_CEDO4.SA_2017
-erro_CEDO4.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CSAB3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CSAB4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CSAB4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CSAB4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CSAB4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CSAB4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CSAB4.SA_2015
-ok_CSAB4.SA_2016
-ok_CSAB4.SA_2017
-erro_CSAB4.SA_2018_<class 'IndexError'>
-erro_CTNM3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_CTNM3.SA_2011
-erro_CTNM3.SA_2012_<class 'IndexError'>
-ok_CTNM3.SA_2013
-ok_CTNM3.SA_2014
-ok_CTNM3.SA_2015
-ok_CTNM3.SA_2016
-ok_CTNM3.SA_2017
-erro_CTNM3.SA_2018_<class 'IndexError'>
-ok_CTNM4.SA_2010
-ok_CTNM4.SA_2011
-erro_CTNM4.SA_2012_<class 'IndexError'>
-ok_CTNM4.SA_2013
-erro_CTNM4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CTNM4.SA_2015
-ok_CTNM4.SA_2016
-ok_CTNM4.SA_2017
-erro_CTNM4.SA_2018_<class 'IndexError'>
-ok_REDE3.SA_2010
-ok_REDE3.SA_2011
-erro_REDE3.SA_2012_<class 'IndexError'>
-ok_REDE3.SA_2013
-ok_REDE3.SA_2014
-ok_REDE3.SA_2015
-ok_REDE3.SA_2016
-erro_REDE3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_REDE3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_HBTS3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_HBTS5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_HBTS5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_HBTS5.SA_2012_<class 'IndexError'>
-erro_HBTS5.SA_2013_<class 'IndexError'>
-erro_HBTS5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HBTS5.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_HBTS5.SA_2016
-ok_HBTS5.SA_2017
-erro_HBTS5.SA_2018_<class 'IndexError'>
-erro_HBTS6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_HBTS6.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CATA3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CATA4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_MSPA3.SA_2010
-erro_MSPA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MSPA3.SA_2012_<class 'IndexError'>
-ok_MSPA3.SA_2013
-ok_MSPA3.SA_2014
-ok_MSPA3.SA_2015
-ok_MSPA3.SA_2016
-ok_MSPA3.SA_2017
-erro_MSPA3.SA_2018_<class 'IndexError'>
-erro_MSPA4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MSPA4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_GGBR3.SA_2010
-ok_GGBR3.SA_2011
-erro_GGBR3.SA_2012_<class 'IndexError'>
-ok_GGBR3.SA_2013
-ok_GGBR3.SA_2014
-ok_GGBR3.SA_2015
-ok_GGBR3.SA_2016
-ok_GGBR3.SA_2017
-erro_GGBR3.SA_2018_<class 'IndexError'>
-ok_GGBR4.SA_2010
-ok_GGBR4.SA_2011
-erro_GGBR4.SA_2012_<class 'IndexError'>
-ok_GGBR4.SA_2013
-ok_GGBR4.SA_2014
-ok_GGBR4.SA_2015
-ok_GGBR4.SA_2016
-erro_GGBR4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_GGBR4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_CSNA3.SA_2010
-erro_CSNA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CSNA3.SA_2012_<class 'IndexError'>
-ok_CSNA3.SA_2013
-ok_CSNA3.SA_2014
-ok_CSNA3.SA_2015
-ok_CSNA3.SA_2016
-ok_CSNA3.SA_2017
-erro_CSNA3.SA_2018_<class 'IndexError'>
-ok_CTSA3.SA_2010
-ok_CTSA3.SA_2011
-erro_CTSA3.SA_2012_<class 'IndexError'>
-ok_CTSA3.SA_2013
-erro_CTSA3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CTSA3.SA_2015
-ok_CTSA3.SA_2016
-ok_CTSA3.SA_2017
-erro_CTSA3.SA_2018_<class 'IndexError'>
-ok_CTSA4.SA_2010
-ok_CTSA4.SA_2011
-erro_CTSA4.SA_2012_<class 'IndexError'>
-erro_CTSA4.SA_2013_<class 'IndexError'>
-erro_CTSA4.SA_2014_<class 'IndexError'>
-erro_CTSA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_CTSA4.SA_2016
-ok_CTSA4.SA_2017
-erro_CTSA4.SA_2018_<class 'IndexError'>
-erro_CTSA8.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CTSA8.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CTKA3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_CTKA4.SA_2010
-ok_CTKA4.SA_2011
-erro_CTKA4.SA_2012_<class 'IndexError'>
-erro_CTKA4.SA_2013_<class 'IndexError'>
-erro_CTKA4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CTKA4.SA_2015
-ok_CTKA4.SA_2016
-ok_CTKA4.SA_2017
-erro_CTKA4.SA_2018_<class 'IndexError'>
-ok_VALE3.SA_2010
-ok_VALE3.SA_2011
-erro_VALE3.SA_2012_<class 'IndexError'>
-erro_VALE3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_VALE3.SA_2014
-ok_VALE3.SA_2015
-ok_VALE3.SA_2016
-ok_VALE3.SA_2017
-erro_VALE3.SA_2018_<class 'IndexError'>
-ok_ELEK3.SA_2010
-erro_ELEK4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CGRA3.SA_2010_<class 'IndexError'>
-ok_CGRA3.SA_2011
-erro_CGRA3.SA_2012_<class 'IndexError'>
-ok_CGRA3.SA_2013
-ok_CGRA3.SA_2014
-ok_CGRA3.SA_2015
-ok_CGRA3.SA_2016
-ok_CGRA3.SA_2017
-erro_CGRA3.SA_2018_<class 'IndexError'>
-ok_CGRA4.SA_2010
-ok_CGRA4.SA_2011
-erro_CGRA4.SA_2012_<class 'IndexError'>
-ok_CGRA4.SA_2013
-ok_CGRA4.SA_2014
-ok_CGRA4.SA_2015
-ok_CGRA4.SA_2016
-ok_CGRA4.SA_2017
-erro_CGRA4.SA_2018_<class 'IndexError'>
-ok_GUAR3.SA_2010
-ok_GUAR3.SA_2011
-erro_GUAR3.SA_2012_<class 'IndexError'>
-ok_GUAR3.SA_2013
-ok_GUAR3.SA_2014
-ok_GUAR3.SA_2015
-erro_GUAR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_GUAR3.SA_2017
-erro_GUAR3.SA_2018_<class 'IndexError'>
-erro_BRGE11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRGE11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRGE12.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BRGE3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_BRGE3.SA_2011
-erro_BRGE3.SA_2012_<class 'IndexError'>
-ok_BRGE3.SA_2013
-ok_BRGE3.SA_2014
-erro_BRGE3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_BRGE3.SA_2016
-ok_BRGE3.SA_2017
-erro_BRGE3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRGE5.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRGE6.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRGE7.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2014_<class 'IndexError'>
-erro_BRGE8.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRGE8.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CALI3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CALI4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CALI4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CALI4.SA_2012_<class 'IndexError'>
-erro_CALI4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CALI4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CALI4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_CALI4.SA_2016
-ok_CALI4.SA_2017
-erro_CALI4.SA_2018_<class 'IndexError'>
-ok_BRKM3.SA_2010
-ok_BRKM3.SA_2011
-erro_BRKM3.SA_2012_<class 'IndexError'>
-ok_BRKM3.SA_2013
-ok_BRKM3.SA_2014
-ok_BRKM3.SA_2015
-ok_BRKM3.SA_2016
-ok_BRKM3.SA_2017
-erro_BRKM3.SA_2018_<class 'IndexError'>
-erro_BRKM5.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_BRKM5.SA_2011
-erro_BRKM5.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_BRKM5.SA_2013
-ok_BRKM5.SA_2014
-ok_BRKM5.SA_2015
-erro_BRKM5.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_BRKM5.SA_2017
-erro_BRKM5.SA_2018_<class 'IndexError'>
-erro_BRKM6.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BRKM6.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CORR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CORR4.SA_2010_<class 'IndexError'>
-erro_CORR4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CORR4.SA_2012_<class 'IndexError'>
-erro_CORR4.SA_2013_<class 'IndexError'>
-erro_CORR4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CORR4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CORR4.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_CORR4.SA_2017
-erro_CORR4.SA_2018_<class 'IndexError'>
-erro_DOHL3.SA_2010_<class 'IndexError'>
-erro_DOHL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_DOHL3.SA_2012_<class 'IndexError'>
-ok_DOHL3.SA_2013
-ok_DOHL3.SA_2014
-ok_DOHL3.SA_2015
-ok_DOHL3.SA_2016
-ok_DOHL3.SA_2017
-erro_DOHL3.SA_2018_<class 'IndexError'>
-ok_DOHL4.SA_2010
-ok_DOHL4.SA_2011
-erro_DOHL4.SA_2012_<class 'IndexError'>
-erro_DOHL4.SA_2013_<class 'IndexError'>
-erro_DOHL4.SA_2014_<class 'IndexError'>
-ok_DOHL4.SA_2015
-ok_DOHL4.SA_2016
-ok_DOHL4.SA_2017
-erro_DOHL4.SA_2018_<class 'IndexError'>
-ok_MNDL3.SA_2010
-ok_MNDL3.SA_2011
-erro_MNDL3.SA_2012_<class 'IndexError'>
-ok_MNDL3.SA_2013
-ok_MNDL3.SA_2014
-erro_MNDL3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_MNDL3.SA_2016
-ok_MNDL3.SA_2017
-erro_MNDL3.SA_2018_<class 'IndexError'>
-ok_WEGE3.SA_2010
-ok_WEGE3.SA_2011
-erro_WEGE3.SA_2012_<class 'IndexError'>
-ok_WEGE3.SA_2013
-erro_WEGE3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_WEGE3.SA_2015
-ok_WEGE3.SA_2016
-ok_WEGE3.SA_2017
-erro_WEGE3.SA_2018_<class 'IndexError'>
-ok_ETER3.SA_2010
-ok_ETER3.SA_2011
-erro_ETER3.SA_2012_<class 'IndexError'>
-ok_ETER3.SA_2013
-erro_ETER3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_ETER3.SA_2015
-ok_ETER3.SA_2016
-ok_ETER3.SA_2017
-erro_ETER3.SA_2018_<class 'IndexError'>
-erro_EUCA3.SA_2010_<class 'IndexError'>
-erro_EUCA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_EUCA3.SA_2012_<class 'IndexError'>
-ok_EUCA3.SA_2013
-ok_EUCA3.SA_2014
-ok_EUCA3.SA_2015
-ok_EUCA3.SA_2016
-ok_EUCA3.SA_2017
-erro_EUCA3.SA_2018_<class 'IndexError'>
-ok_EUCA4.SA_2010
-ok_EUCA4.SA_2011
-erro_EUCA4.SA_2012_<class 'IndexError'>
-ok_EUCA4.SA_2013
-ok_EUCA4.SA_2014
-erro_EUCA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_EUCA4.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_EUCA4.SA_2017
-erro_EUCA4.SA_2018_<class 'IndexError'>
-ok_FJTA3.SA_2010
-erro_FJTA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FJTA3.SA_2012_<class 'IndexError'>
-ok_FJTA3.SA_2013
-ok_FJTA3.SA_2014
-ok_FJTA3.SA_2015
-ok_FJTA3.SA_2016
-ok_FJTA3.SA_2017
-erro_FJTA3.SA_2018_<class 'IndexError'>
-ok_FJTA4.SA_2010
-ok_FJTA4.SA_2011
-erro_FJTA4.SA_2012_<class 'IndexError'>
-ok_FJTA4.SA_2013
-ok_FJTA4.SA_2014
-ok_FJTA4.SA_2015
-ok_FJTA4.SA_2016
-ok_FJTA4.SA_2017
-erro_FJTA4.SA_2018_<class 'IndexError'>
-erro_FJTA13.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_FJTA13.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_FJTA15.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_FJTA17.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_FRAS3.SA_2010_<class 'IndexError'>
-erro_FRAS3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_FRAS3.SA_2012_<class 'IndexError'>
-ok_FRAS3.SA_2013
-ok_FRAS3.SA_2014
-ok_FRAS3.SA_2015
-ok_FRAS3.SA_2016
-ok_FRAS3.SA_2017
-erro_FRAS3.SA_2018_<class 'IndexError'>
-ok_TUPY3.SA_2010
-erro_TUPY3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TUPY3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TUPY3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_TUPY3.SA_2014
-erro_TUPY3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TUPY3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TUPY3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TUPY3.SA_2018_<class 'IndexError'>
-ok_VVAR3.SA_2010
-ok_VVAR3.SA_2011
-erro_VVAR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_VVAR3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_VVAR3.SA_2014
-ok_VVAR3.SA_2015
-ok_VVAR3.SA_2016
-ok_VVAR3.SA_2017
-erro_VVAR3.SA_2018_<class 'IndexError'>
-erro_HOOT3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_HOOT3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_HOOT4.SA_2010
-erro_HOOT4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_HOOT4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_HOOT4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_HOOT4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_HOOT4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_HOOT4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_HOOT4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_HOOT4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_IGBR3.SA_2010
-ok_IGBR3.SA_2010
-ok_IGBR3.SA_2011
-erro_IGBR3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_IGBR3.SA_2013
-ok_IGBR3.SA_2014
-ok_IGBR3.SA_2015
-ok_IGBR3.SA_2016
-ok_IGBR3.SA_2017
-erro_IGBR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BAHI3.SA_2010
-ok_BAHI3.SA_2011
-erro_BAHI3.SA_2012_<class 'IndexError'>
-ok_BAHI3.SA_2013
-ok_BAHI3.SA_2017
-erro_BAHI3.SA_2018_<class 'IndexError'>
-ok_ROMI3.SA_2010
-erro_ROMI3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ROMI3.SA_2012_<class 'IndexError'>
-erro_ROMI3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_ROMI3.SA_2014
-ok_ROMI3.SA_2015
-ok_ROMI3.SA_2016
-ok_ROMI3.SA_2017
-erro_ROMI3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TXRX3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_INEP3.SA_2010
-ok_INEP3.SA_2011
-erro_INEP3.SA_2012_<class 'IndexError'>
-ok_INEP3.SA_2013
-ok_INEP3.SA_2014
-ok_INEP3.SA_2015
-ok_INEP3.SA_2016
-ok_INEP3.SA_2017
-ok_INEP4.SA_2010
-ok_INEP4.SA_2011
-erro_INEP4.SA_2012_<class 'IndexError'>
-erro_INEP4.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_INEP4.SA_2014
-ok_INEP4.SA_2015
-erro_INEP4.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_INEP4.SA_2017
-ok_ITSA3.SA_2010
-ok_ITSA3.SA_2011
-erro_ITSA3.SA_2012_<class 'IndexError'>
-ok_ITSA3.SA_2013
-ok_ITSA3.SA_2014
-ok_ITSA3.SA_2015
-ok_ITSA3.SA_2016
-ok_ITSA3.SA_2017
-erro_ITSA3.SA_2018_<class 'IndexError'>
-ok_ITSA4.SA_2010
-ok_ITSA4.SA_2011
-erro_ITSA4.SA_2012_<class 'IndexError'>
-ok_ITSA4.SA_2013
-ok_ITSA4.SA_2014
-ok_ITSA4.SA_2015
-ok_ITSA4.SA_2016
-ok_ITSA4.SA_2017
-erro_ITSA4.SA_2018_<class 'IndexError'>
-ok_JFEN3.SA_2010
-ok_JFEN3.SA_2011
-erro_JFEN3.SA_2012_<class 'IndexError'>
-ok_JFEN3.SA_2013
-ok_JFEN3.SA_2014
-ok_JFEN3.SA_2015
-ok_JFEN3.SA_2016
-ok_JFEN3.SA_2017
-ok_KEPL3.SA_2010
-ok_KEPL3.SA_2011
-erro_KEPL3.SA_2012_<class 'IndexError'>
-ok_KEPL3.SA_2013
-ok_KEPL3.SA_2014
-ok_KEPL3.SA_2015
-ok_KEPL3.SA_2016
-ok_KEPL3.SA_2017
-erro_KEPL3.SA_2018_<class 'IndexError'>
-erro_KEPL11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_KEPL11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_GPIV33.SA_2010
-ok_GPIV33.SA_2011
-erro_GPIV33.SA_2012_<class 'IndexError'>
-ok_GPIV33.SA_2013
-ok_GPIV33.SA_2014
-ok_GPIV33.SA_2015
-ok_GPIV33.SA_2016
-ok_GPIV33.SA_2017
-erro_GPIV33.SA_2018_<class 'IndexError'>
-ok_WSON33.SA_2010
-ok_WSON33.SA_2011
-erro_WSON33.SA_2012_<class 'IndexError'>
-ok_WSON33.SA_2013
-ok_WSON33.SA_2014
-ok_WSON33.SA_2015
-ok_WSON33.SA_2016
-ok_WSON33.SA_2017
-erro_WSON33.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_LAME3.SA_2010
-ok_LAME3.SA_2011
-erro_LAME3.SA_2012_<class 'IndexError'>
-ok_LAME3.SA_2013
-ok_LAME3.SA_2014
-ok_LAME3.SA_2015
-ok_LAME3.SA_2016
-ok_LAME3.SA_2017
-erro_LAME3.SA_2018_<class 'IndexError'>
-ok_LAME4.SA_2010
-ok_LAME4.SA_2011
-erro_LAME4.SA_2012_<class 'IndexError'>
-erro_LAME4.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_LAME4.SA_2014
-ok_LAME4.SA_2015
-ok_LAME4.SA_2016
-ok_LAME4.SA_2017
-erro_LAME4.SA_2018_<class 'IndexError'>
-ok_LREN3.SA_2010
-ok_LREN3.SA_2011
-erro_LREN3.SA_2012_<class 'IndexError'>
-ok_LREN3.SA_2013
-ok_LREN3.SA_2014
-ok_LREN3.SA_2015
-ok_LREN3.SA_2016
-ok_LREN3.SA_2017
-erro_LREN3.SA_2018_<class 'IndexError'>
-erro_LUXM3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_LUXM3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_LUXM4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LUXM4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LUXM4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LUXM4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LUXM4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LUXM4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_LUXM4.SA_2016
-ok_LUXM4.SA_2017
-erro_LUXM4.SA_2018_<class 'IndexError'>
-erro_MGEL3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MGEL3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_MGEL4.SA_2010
-ok_MGEL4.SA_2011
-erro_MGEL4.SA_2012_<class 'IndexError'>
-ok_MGEL4.SA_2013
-ok_MGEL4.SA_2014
-erro_MGEL4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_MGEL4.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_MGEL4.SA_2017
-erro_MGEL4.SA_2018_<class 'IndexError'>
-erro_ESTR3.SA_2010_<class 'IndexError'>
-erro_ESTR3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_ESTR3.SA_2012_<class 'IndexError'>
-ok_ESTR3.SA_2013
-ok_ESTR3.SA_2014
-ok_ESTR3.SA_2015
-ok_ESTR3.SA_2016
-ok_ESTR3.SA_2017
-erro_ESTR3.SA_2018_<class 'IndexError'>
-ok_ESTR4.SA_2010
-ok_ESTR4.SA_2011
-erro_ESTR4.SA_2012_<class 'IndexError'>
-ok_ESTR4.SA_2013
-ok_ESTR4.SA_2014
-ok_ESTR4.SA_2015
-erro_ESTR4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_ESTR4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_ESTR4.SA_2018_<class 'IndexError'>
-ok_POMO3.SA_2010
-ok_POMO3.SA_2011
-erro_POMO3.SA_2012_<class 'IndexError'>
-ok_POMO3.SA_2013
-ok_POMO3.SA_2014
-ok_POMO3.SA_2015
-ok_POMO3.SA_2016
-ok_POMO3.SA_2017
-erro_POMO3.SA_2018_<class 'IndexError'>
-ok_POMO4.SA_2010
-ok_POMO4.SA_2011
-erro_POMO4.SA_2012_<class 'IndexError'>
-ok_POMO4.SA_2013
-ok_POMO4.SA_2014
-ok_POMO4.SA_2015
-ok_POMO4.SA_2016
-ok_POMO4.SA_2017
-erro_POMO4.SA_2018_<class 'IndexError'>
-erro_LEVE3.SA_2010_<class 'IndexError'>
-erro_LEVE3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LEVE3.SA_2012_<class 'IndexError'>
-ok_LEVE3.SA_2013
-ok_LEVE3.SA_2014
-ok_LEVE3.SA_2015
-ok_LEVE3.SA_2016
-erro_PSSA3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_PSSA3.SA_2016
-ok_PSSA3.SA_2017
-erro_PSSA3.SA_2018_<class 'IndexError'>
-ok_BMKS3.SA_2010
-ok_BMKS3.SA_2011
-erro_BMKS3.SA_2012_<class 'IndexError'>
-ok_BMKS3.SA_2013
-ok_BMKS3.SA_2014
-ok_BMKS3.SA_2015
-ok_BMKS3.SA_2016
-ok_BMKS3.SA_2017
-erro_EMAE3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_EMAE3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_EMAE4.SA_2010
-ok_EMAE4.SA_2011
-erro_EMAE4.SA_2012_<class 'IndexError'>
-erro_EMAE4.SA_2013_<class 'IndexError'>
-erro_EMAE4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_EMAE4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_EMAE4.SA_2016
-ok_EMAE4.SA_2017
-erro_EMAE4.SA_2018_<class 'IndexError'>
-ok_EGIE3.SA_2010
-ok_EGIE3.SA_2011
-erro_EGIE3.SA_2012_<class 'IndexError'>
-ok_EGIE3.SA_2013
-ok_EGIE3.SA_2014
-erro_EGIE3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_EGIE3.SA_2016
-ok_EGIE3.SA_2017
-erro_EGIE3.SA_2018_<class 'IndexError'>
-erro_RAIL3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RAIL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_RAIL3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_RAIL3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_RAIL3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_RAIL3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_RAIL3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_RAIL3.SA_2017
-erro_RAIL3.SA_2018_<class 'IndexError'>
-erro_CPTP3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CPTP3B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CPTP3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CPTP3B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CPTP3B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CPTP3B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CPTP3B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SLCT3B.SA_2017_<class 'eventlet.timeout.Timeout'>
-ok_TIMP3.SA_2010
-erro_TIMP3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TIMP3.SA_2012_<class 'IndexError'>
-ok_TIMP3.SA_2013
-ok_TIMP3.SA_2014
-ok_TIMP3.SA_2015
-ok_TIMP3.SA_2016
-ok_TIMP3.SA_2017
-erro_TIMP3.SA_2018_<class 'IndexError'>
-ok_VIVT3.SA_2010
-ok_VIVT3.SA_2011
-erro_VIVT3.SA_2012_<class 'IndexError'>
-ok_VIVT3.SA_2013
-erro_VIVT3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_VIVT3.SA_2015
-ok_VIVT3.SA_2016
-ok_VIVT3.SA_2017
-erro_VIVT3.SA_2018_<class 'IndexError'>
-ok_VIVT4.SA_2010
-ok_VIVT4.SA_2011
-erro_VIVT4.SA_2012_<class 'IndexError'>
-ok_VIVT4.SA_2013
-ok_VIVT4.SA_2014
-ok_VIVT4.SA_2015
-ok_VIVT4.SA_2016
-ok_VIVT4.SA_2017
-erro_VIVT4.SA_2018_<class 'IndexError'>
-erro_STBP3.SA_2010_<class 'IndexError'>
-erro_STBP3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_STBP3.SA_2012_<class 'IndexError'>
-ok_STBP3.SA_2013
-ok_STBP3.SA_2014
-ok_STBP3.SA_2015
-ok_STBP3.SA_2016
-ok_STBP3.SA_2017
-erro_STBP3.SA_2018_<class 'IndexError'>
-ok_MMXM3.SA_2010
-ok_MMXM3.SA_2011
-erro_MMXM3.SA_2012_<class 'IndexError'>
-ok_MMXM3.SA_2013
-ok_MMXM3.SA_2014
-ok_MMXM3.SA_2015
-ok_MMXM3.SA_2016
-ok_MMXM3.SA_2017
-erro_MMXM3.SA_2018_<class 'IndexError'>
-erro_MMXM11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_MMXM11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_MMXM11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_MMXM11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_MMXM11.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_MMXM11.SA_2015
-ok_MMXM11.SA_2016
-erro_MMXM11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_MMXM11.SA_2018_<class 'IndexError'>
-erro_A.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_A.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_A.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_A.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_A.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_KROT3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_KROT3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_KROT3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_KROT3.SA_2013
-ok_KROT3.SA_2014
-ok_KROT3.SA_2015
-ok_KROT3.SA_2016
-ok_KROT3.SA_2017
-erro_KROT3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_TRPL3.SA_2010
-ok_TRPL3.SA_2011
-erro_TRPL3.SA_2012_<class 'IndexError'>
-ok_TRPL3.SA_2013
-ok_TRPL3.SA_2014
-ok_TRPL3.SA_2015
-ok_TRPL3.SA_2016
-ok_TRPL3.SA_2017
-erro_TRPL3.SA_2018_<class 'IndexError'>
-ok_TRPL4.SA_2010
-ok_TRPL4.SA_2011
-erro_TRPL4.SA_2012_<class 'IndexError'>
-ok_TRPL4.SA_2013
-erro_TRPL4.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_TRPL4.SA_2015
-ok_TRPL4.SA_2016
-ok_TRPL4.SA_2017
-erro_TRPL4.SA_2018_<class 'IndexError'>
-ok_IDNT3.SA_2010
-ok_IDNT3.SA_2011
-erro_IDNT3.SA_2012_<class 'IndexError'>
-ok_IDNT3.SA_2013
-erro_IDNT3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_IDNT3.SA_2015
-ok_IDNT3.SA_2016
-ok_IDNT3.SA_2017
-erro_IDNT3.SA_2018_<class 'IndexError'>
-erro_UGPA3.SA_2010_<class 'IndexError'>
-erro_UGPA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_UGPA3.SA_2012_<class 'IndexError'>
-ok_UGPA3.SA_2013
-ok_UGPA3.SA_2014
-ok_UGPA3.SA_2015
-ok_UGPA3.SA_2016
-erro_UGPA3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_UGPA3.SA_2018_<class 'IndexError'>
-erro_CPFE3.SA_2010_<class 'OSError'>
-ok_CPFE3.SA_2011
-erro_CPFE3.SA_2012_<class 'IndexError'>
-ok_CPFE3.SA_2013
-erro_CPFE3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CPFE3.SA_2015
-ok_CPFE3.SA_2016
-ok_CPFE3.SA_2017
-erro_CPFE3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_PEAB3.SA_2010
-erro_PEAB3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_PEAB3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_PEAB3.SA_2013
-ok_PEAB3.SA_2014
-ok_PEAB3.SA_2015
-ok_PEAB3.SA_2016
-ok_PEAB3.SA_2017
-erro_PEAB3.SA_2018_<class 'IndexError'>
-erro_PEAB4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PEAB4.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_BRAP3.SA_2010
-ok_BRAP3.SA_2011
-erro_BRAP3.SA_2012_<class 'IndexError'>
-ok_BRAP3.SA_2013
-ok_BRAP3.SA_2014
-ok_BRAP3.SA_2015
-ok_BRAP3.SA_2016
-ok_BRAP3.SA_2017
-erro_BRAP3.SA_2018_<class 'IndexError'>
-ok_BRAP4.SA_2010
-ok_BRAP4.SA_2011
-erro_BRAP4.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_BRAP4.SA_2013
-ok_BRAP4.SA_2014
-ok_BRAP4.SA_2015
-ok_BRAP4.SA_2016
-ok_BRAP4.SA_2017
-erro_BRAP4.SA_2018_<class 'IndexError'>
-erro_IVPR3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_IVPR3B.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_IVPR4B.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_CCRO3.SA_2010
-ok_CCRO3.SA_2011
-erro_CCRO3.SA_2012_<class 'IndexError'>
-ok_CCRO3.SA_2013
-ok_CCRO3.SA_2014
-ok_CCRO3.SA_2015
-ok_CCRO3.SA_2016
-ok_CCRO3.SA_2017
-erro_CCRO3.SA_2018_<class 'IndexError'>
-erro_TIET11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TIET11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_TIET3.SA_2010
-ok_TIET3.SA_2011
-erro_TIET3.SA_2012_<class 'IndexError'>
-ok_TIET3.SA_2013
-ok_TIET3.SA_2014
-ok_TIET3.SA_2015
-ok_TIET3.SA_2016
-ok_TIET3.SA_2017
-erro_TIET3.SA_2018_<class 'IndexError'>
-ok_TIET4.SA_2010
-ok_TIET4.SA_2011
-erro_TIET4.SA_2012_<class 'IndexError'>
-ok_TIET4.SA_2013
-ok_TIET4.SA_2014
-ok_TIET4.SA_2015
-ok_TIET4.SA_2016
-ok_TIET4.SA_2017
-erro_TIET4.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CANT3B.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CANT4B.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_LIQO3.SA_2010
-ok_LIQO3.SA_2011
-erro_LIQO3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_LIQO3.SA_2013
-erro_LIQO3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_LIQO3.SA_2015
-ok_LIQO3.SA_2016
-ok_LIQO3.SA_2017
-erro_LIQO3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_BIOM3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BIOM3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BIOM3.SA_2012_<class 'IndexError'>
-ok_BIOM3.SA_2013
-ok_BIOM3.SA_2014
-ok_BIOM3.SA_2015
-ok_BIOM3.SA_2016
-erro_BIOM3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BIOM3.SA_2018_<class 'IndexError'>
-ok_TPIS3.SA_2010
-ok_TPIS3.SA_2011
-erro_TPIS3.SA_2012_<class 'IndexError'>
-ok_TPIS3.SA_2013
-ok_TPIS3.SA_2014
-ok_TPIS3.SA_2015
-ok_TPIS3.SA_2016
-ok_TPIS3.SA_2017
-ok_ITUB3.SA_2010
-erro_ITUB3.SA_2012_<class 'IndexError'>
-ok_ITUB3.SA_2013
-ok_ITUB3.SA_2014
-ok_ITUB3.SA_2015
-ok_ITUB3.SA_2016
-ok_ITUB3.SA_2017
-erro_ITUB3.SA_2018_<class 'IndexError'>
-ok_ITUB4.SA_2010
-erro_ITUB4.SA_2012_<class 'IndexError'>
-ok_ITUB4.SA_2013
-ok_ITUB4.SA_2014
-ok_ITUB4.SA_2015
-ok_ITUB4.SA_2016
-ok_ITUB4.SA_2017
-erro_ITUB4.SA_2018_<class 'IndexError'>
-ok_CSMG3.SA_2010
-ok_CSMG3.SA_2011
-erro_CSMG3.SA_2012_<class 'IndexError'>
-ok_CSMG3.SA_2013
-ok_CSMG3.SA_2014
-erro_CSMG3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CSMG3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_CSMG3.SA_2017
-erro_CSMG3.SA_2018_<class 'IndexError'>
-erro_ECOR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_ECOR3.SA_2011
-erro_ECOR3.SA_2012_<class 'IndexError'>
-ok_ECOR3.SA_2013
-ok_ECOR3.SA_2014
-ok_ECOR3.SA_2015
-ok_ECOR3.SA_2016
-ok_ECOR3.SA_2017
-erro_ECOR3.SA_2018_<class 'IndexError'>
-ok_NATU3.SA_2010
-ok_NATU3.SA_2011
-erro_NATU3.SA_2012_<class 'IndexError'>
-ok_NATU3.SA_2013
-ok_NATU3.SA_2014
-ok_NATU3.SA_2015
-ok_NATU3.SA_2016
-ok_NATU3.SA_2017
-erro_NATU3.SA_2018_<class 'IndexError'>
-ok_GOLL4.SA_2010
-ok_GOLL4.SA_2011
-erro_GOLL4.SA_2012_<class 'IndexError'>
-ok_GOLL4.SA_2013
-ok_GOLL4.SA_2014
-ok_GOLL4.SA_2015
-ok_GOLL4.SA_2016
-ok_GOLL4.SA_2017
-erro_GOLL4.SA_2018_<class 'IndexError'>
-erro_GOLL12.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_GOLL12.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_GRND3.SA_2010
-ok_GRND3.SA_2011
-erro_GRND3.SA_2012_<class 'IndexError'>
-ok_GRND3.SA_2013
-ok_GRND3.SA_2014
-ok_GRND3.SA_2015
-ok_GRND3.SA_2016
-ok_GRND3.SA_2017
-erro_GRND3.SA_2018_<class 'IndexError'>
-erro_DASA3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_DASA3.SA_2011
-erro_DASA3.SA_2012_<class 'IndexError'>
-ok_DASA3.SA_2013
-ok_DASA3.SA_2014
-ok_DASA3.SA_2015
-ok_DASA3.SA_2016
-ok_DASA3.SA_2017
-erro_DASA3.SA_2018_<class 'IndexError'>
-ok_FRTA3.SA_2010
-erro_FRTA3.SA_2011_<class 'IndexError'>
-erro_FRTA3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_FRTA3.SA_2013
-ok_FRTA3.SA_2014
-ok_FRTA3.SA_2015
-ok_FRTA3.SA_2016
-ok_FRTA3.SA_2017
-erro_FRTA3.SA_2018_<class 'IndexError'>
-ok_RENT3.SA_2010
-ok_RENT3.SA_2011
-erro_RENT3.SA_2012_<class 'IndexError'>
-ok_RENT3.SA_2013
-ok_RENT3.SA_2014
-ok_RENT3.SA_2015
-ok_RENT3.SA_2016
-ok_RENT3.SA_2017
-erro_RENT3.SA_2018_<class 'IndexError'>
-ok_ENBR3.SA_2010
-ok_ENBR3.SA_2011
-erro_ENBR3.SA_2012_<class 'IndexError'>
-ok_ENBR3.SA_2013
-ok_ENBR3.SA_2014
-ok_ENBR3.SA_2015
-ok_ENBR3.SA_2016
-ok_ENBR3.SA_2017
-erro_ENBR3.SA_2018_<class 'IndexError'>
-erro_RBCS-CRI2PB0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RBCS-CRI2QB0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RBCS-CRI2RB0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RBCS-CRI73B0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RBCS-CRI84B0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RBCS-CRI85B0.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_RBCS-CRI86B0.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_LIGT3.SA_2010
-ok_LIGT3.SA_2011
-erro_LIGT3.SA_2012_<class 'IndexError'>
-erro_LIGT3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_LIGT3.SA_2014
-ok_LIGT3.SA_2015
-ok_LIGT3.SA_2017
-erro_LIGT3.SA_2018_<class 'IndexError'>
-ok_BRML3.SA_2010
-ok_BRML3.SA_2011
-erro_BRML3.SA_2012_<class 'IndexError'>
-ok_BRML3.SA_2013
-ok_BRML3.SA_2014
-ok_BRML3.SA_2015
-ok_BRML3.SA_2016
-ok_BRML3.SA_2017
-erro_BRML3.SA_2018_<class 'IndexError'>
-erro_BRPR3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_BRPR3.SA_2011
-erro_BRPR3.SA_2012_<class 'IndexError'>
-ok_BRPR3.SA_2013
-ok_BRPR3.SA_2014
-ok_BRPR3.SA_2015
-ok_BRPR3.SA_2016
-ok_BRPR3.SA_2017
-erro_BRPR3.SA_2018_<class 'IndexError'>
-ok_TOTS3.SA_2010
-ok_TOTS3.SA_2011
-erro_TOTS3.SA_2012_<class 'IndexError'>
-ok_TOTS3.SA_2013
-ok_TOTS3.SA_2014
-ok_TOTS3.SA_2015
-ok_TOTS3.SA_2016
-ok_TOTS3.SA_2017
-erro_TOTS3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_EQTL3.SA_2010
-ok_EQTL3.SA_2011
-erro_EQTL3.SA_2012_<class 'IndexError'>
-ok_EQTL3.SA_2013
-ok_EQTL3.SA_2014
-ok_EQTL3.SA_2015
-ok_EQTL3.SA_2016
-ok_EQTL3.SA_2017
-erro_EQTL3.SA_2018_<class 'IndexError'>
-ok_VLID3.SA_2010
-ok_VLID3.SA_2011
-erro_VLID3.SA_2012_<class 'IndexError'>
-ok_VLID3.SA_2013
-ok_VLID3.SA_2014
-ok_VLID3.SA_2015
-ok_VLID3.SA_2016
-ok_VLID3.SA_2017
-erro_VLID3.SA_2018_<class 'IndexError'>
-ok_LUPA3.SA_2010
-erro_LUPA3.SA_2011_<class 'IndexError'>
-erro_LUPA3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_LUPA3.SA_2013
-ok_LUPA3.SA_2014
-ok_LUPA3.SA_2015
-ok_LUPA3.SA_2016
-ok_LUPA3.SA_2017
-erro_LUPA3.SA_2018_<class 'IndexError'>
-erro_LUPA11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_LUPA11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_EMBR3.SA_2010
-ok_EMBR3.SA_2011
-erro_EMBR3.SA_2012_<class 'IndexError'>
-ok_EMBR3.SA_2013
-ok_EMBR3.SA_2014
-ok_EMBR3.SA_2015
-ok_EMBR3.SA_2016
-ok_EMBR3.SA_2017
-erro_EMBR3.SA_2018_<class 'IndexError'>
-ok_ODPV3.SA_2010
-ok_ODPV3.SA_2011
-erro_ODPV3.SA_2012_<class 'IndexError'>
-erro_ODPV3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_ODPV3.SA_2014
-ok_ODPV3.SA_2015
-ok_ODPV3.SA_2016
-ok_ODPV3.SA_2017
-erro_ODPV3.SA_2018_<class 'IndexError'>
-erro_TAEE11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TAEE11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_TAEE3.SA_2010_<class 'IndexError'>
-erro_TAEE3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TAEE3.SA_2012_<class 'IndexError'>
-ok_TAEE3.SA_2013
-ok_TAEE3.SA_2014
-ok_TAEE3.SA_2015
-ok_TAEE3.SA_2016
-ok_TAEE3.SA_2017
-erro_TAEE3.SA_2018_<class 'IndexError'>
-erro_TAEE4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TAEE4.SA_2018_<class 'IndexError'>
-ok_MDIA3.SA_2010
-ok_MDIA3.SA_2011
-erro_MDIA3.SA_2012_<class 'IndexError'>
-ok_MDIA3.SA_2013
-ok_MDIA3.SA_2014
-ok_MDIA3.SA_2015
-ok_MDIA3.SA_2016
-ok_MDIA3.SA_2017
-erro_MDIA3.SA_2018_<class 'IndexError'>
-ok_PFRM3.SA_2010
-ok_PFRM3.SA_2011
-erro_PFRM3.SA_2012_<class 'IndexError'>
-ok_PFRM3.SA_2013
-ok_PFRM3.SA_2014
-erro_PFRM3.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_PFRM3.SA_2016
-ok_PFRM3.SA_2017
-erro_PFRM3.SA_2018_<class 'IndexError'>
-ok_TESA3.SA_2010
-ok_TESA3.SA_2011
-erro_TESA3.SA_2012_<class 'IndexError'>
-ok_TESA3.SA_2013
-ok_TESA3.SA_2014
-ok_TESA3.SA_2015
-ok_TESA3.SA_2016
-ok_TESA3.SA_2017
-erro_TESA3.SA_2018_<class 'IndexError'>
-erro_TESA1.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TESA1.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_POSI3.SA_2010
-ok_POSI3.SA_2011
-erro_POSI3.SA_2012_<class 'IndexError'>
-ok_POSI3.SA_2013
-ok_POSI3.SA_2014
-ok_POSI3.SA_2015
-ok_POSI3.SA_2016
-erro_POSI3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_POSI3.SA_2018_<class 'IndexError'>
-ok_LPSB3.SA_2010
-ok_LPSB3.SA_2011
-erro_LPSB3.SA_2012_<class 'IndexError'>
-ok_LPSB3.SA_2013
-ok_LPSB3.SA_2014
-ok_LPSB3.SA_2015
-ok_LPSB3.SA_2016
-ok_LPSB3.SA_2017
-erro_LPSB3.SA_2018_<class 'IndexError'>
-erro_TCSA3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_TCSA3.SA_2011
-erro_TCSA3.SA_2012_<class 'IndexError'>
-ok_TCSA3.SA_2013
-ok_TCSA3.SA_2014
-ok_TCSA3.SA_2015
-ok_TCSA3.SA_2016
-ok_TCSA3.SA_2017
-erro_TCSA3.SA_2018_<class 'IndexError'>
-ok_RDNI3.SA_2010
-ok_RDNI3.SA_2011
-erro_RDNI3.SA_2012_<class 'IndexError'>
-ok_RDNI3.SA_2013
-ok_RDNI3.SA_2014
-ok_RDNI3.SA_2015
-ok_RDNI3.SA_2016
-ok_RDNI3.SA_2017
-erro_RDNI3.SA_2018_<class 'IndexError'>
-ok_PDGR3.SA_2010
-ok_PDGR3.SA_2011
-erro_PDGR3.SA_2012_<class 'IndexError'>
-ok_PDGR3.SA_2013
-ok_PDGR3.SA_2014
-ok_PDGR3.SA_2015
-ok_PDGR3.SA_2016
-erro_PDGR3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PDGR3.SA_2018_<class 'IndexError'>
-ok_IGTA3.SA_2010
-ok_IGTA3.SA_2011
-erro_IGTA3.SA_2012_<class 'IndexError'>
-ok_IGTA3.SA_2013
-ok_IGTA3.SA_2014
-ok_IGTA3.SA_2015
-ok_IGTA3.SA_2016
-ok_IGTA3.SA_2017
-erro_IGTA3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_EVEN3.SA_2010
-ok_EVEN3.SA_2011
-erro_EVEN3.SA_2012_<class 'IndexError'>
-ok_EVEN3.SA_2013
-ok_EVEN3.SA_2014
-ok_EVEN3.SA_2015
-ok_EVEN3.SA_2016
-erro_EVEN3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_EVEN3.SA_2018_<class 'IndexError'>
-ok_SANB11.SA_2010
-ok_SANB11.SA_2011
-erro_SANB11.SA_2012_<class 'IndexError'>
-ok_SANB11.SA_2013
-erro_SANB11.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_SANB11.SA_2015
-ok_SANB11.SA_2016
-ok_SANB11.SA_2017
-erro_SANB11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_SANB3.SA_2010
-ok_SANB3.SA_2011
-erro_SANB3.SA_2012_<class 'IndexError'>
-ok_SANB3.SA_2013
-erro_SANB3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_SANB3.SA_2015
-ok_SANB3.SA_2016
-ok_SANB3.SA_2017
-erro_SANB3.SA_2018_<class 'IndexError'>
-ok_SANB4.SA_2010
-ok_SANB4.SA_2011
-erro_SANB4.SA_2012_<class 'IndexError'>
-ok_SANB4.SA_2013
-ok_SANB4.SA_2014
-ok_SANB4.SA_2015
-ok_SANB4.SA_2016
-erro_SANB4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SANB4.SA_2018_<class 'IndexError'>
-erro_CPRE3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CPRE3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CPRE3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CPRE3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CPRE3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CPRE3.SA_2015
-ok_CPRE3.SA_2016
-ok_CPRE3.SA_2017
-erro_CPRE3.SA_2018_<class 'IndexError'>
-erro_PINE3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_PINE3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_PINE4.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_PINE4.SA_2011
-erro_PINE4.SA_2012_<class 'IndexError'>
-ok_PINE4.SA_2013
-ok_PINE4.SA_2014
-ok_PINE4.SA_2015
-erro_PINE4.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_PINE4.SA_2017
-erro_PINE4.SA_2018_<class 'IndexError'>
-ok_JBSS3.SA_2010
-ok_JBSS3.SA_2011
-erro_JBSS3.SA_2012_<class 'IndexError'>
-ok_JBSS3.SA_2013
-ok_JBSS3.SA_2014
-ok_JBSS3.SA_2015
-ok_JBSS3.SA_2016
-ok_JBSS3.SA_2017
-erro_JBSS3.SA_2018_<class 'IndexError'>
-ok_JHSF3.SA_2010
-ok_JHSF3.SA_2011
-erro_JHSF3.SA_2012_<class 'IndexError'>
-ok_JHSF3.SA_2013
-ok_JHSF3.SA_2014
-ok_JHSF3.SA_2015
-ok_JHSF3.SA_2016
-ok_JHSF3.SA_2017
-erro_JHSF3.SA_2018_<class 'IndexError'>
-ok_FRIO3.SA_2010
-ok_FRIO3.SA_2011
-erro_FRIO3.SA_2012_<class 'IndexError'>
-ok_FRIO3.SA_2013
-erro_FRIO3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_FRIO3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_FRIO3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_FRIO3.SA_2017
-erro_FRIO3.SA_2018_<class 'IndexError'>
-ok_FHER3.SA_2010
-ok_FHER3.SA_2011
-erro_FHER3.SA_2012_<class 'IndexError'>
-ok_CRDE3.SA_2010
-ok_CRDE3.SA_2011
-erro_CRDE3.SA_2012_<class 'IndexError'>
-ok_CRDE3.SA_2013
-erro_CRDE3.SA_2014_<class 'eventlet.timeout.Timeout'>
-ok_CRDE3.SA_2015
-ok_CRDE3.SA_2016
-ok_CRDE3.SA_2017
-erro_CRDE3.SA_2018_<class 'IndexError'>
-ok_VIVR3.SA_2010
-ok_VIVR3.SA_2011
-erro_VIVR3.SA_2012_<class 'IndexError'>
-ok_VIVR3.SA_2013
-ok_VIVR3.SA_2014
-ok_VIVR3.SA_2015
-ok_VIVR3.SA_2016
-ok_VIVR3.SA_2017
-erro_VIVR3.SA_2018_<class 'IndexError'>
-ok_LOGN3.SA_2010
-ok_LOGN3.SA_2011
-erro_LOGN3.SA_2012_<class 'IndexError'>
-ok_LOGN3.SA_2013
-ok_LOGN3.SA_2014
-ok_LOGN3.SA_2015
-ok_LOGN3.SA_2016
-ok_LOGN3.SA_2017
-erro_LOGN3.SA_2018_<class 'IndexError'>
-erro_LOGN12.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_LOGN12.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_SLCE3.SA_2010
-ok_SLCE3.SA_2011
-erro_SLCE3.SA_2012_<class 'IndexError'>
-ok_SLCE3.SA_2013
-ok_SLCE3.SA_2014
-ok_SLCE3.SA_2015
-ok_SLCE3.SA_2016
-ok_SLCE3.SA_2017
-erro_SLCE3.SA_2018_<class 'IndexError'>
-ok_EZTC3.SA_2010
-ok_EZTC3.SA_2011
-erro_EZTC3.SA_2012_<class 'IndexError'>
-ok_EZTC3.SA_2013
-ok_EZTC3.SA_2014
-ok_EZTC3.SA_2015
-ok_EZTC3.SA_2016
-ok_EZTC3.SA_2017
-erro_EZTC3.SA_2018_<class 'IndexError'>
-ok_MRFG3.SA_2010
-ok_MRFG3.SA_2011
-erro_MRFG3.SA_2012_<class 'IndexError'>
-ok_MRFG3.SA_2013
-ok_MRFG3.SA_2014
-ok_MRFG3.SA_2015
-ok_MRFG3.SA_2016
-ok_MRFG3.SA_2017
-erro_MRFG3.SA_2018_<class 'IndexError'>
-ok_TGMA3.SA_2010
-ok_TGMA3.SA_2011
-erro_TGMA3.SA_2012_<class 'IndexError'>
-ok_TGMA3.SA_2013
-ok_TGMA3.SA_2014
-ok_TGMA3.SA_2015
-ok_TGMA3.SA_2016
-erro_TGMA3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TGMA3.SA_2018_<class 'IndexError'>
-ok_HBOR3.SA_2010
-ok_HBOR3.SA_2011
-erro_HBOR3.SA_2012_<class 'IndexError'>
-ok_HBOR3.SA_2013
-ok_HBOR3.SA_2014
-ok_HBOR3.SA_2015
-ok_HBOR3.SA_2016
-ok_HBOR3.SA_2017
-erro_HBOR3.SA_2018_<class 'IndexError'>
-erro_IDVL3.SA_2010_<class 'IndexError'>
-erro_IDVL3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_IDVL3.SA_2012_<class 'IndexError'>
-ok_IDVL3.SA_2013
-ok_IDVL3.SA_2014
-ok_IDVL3.SA_2015
-ok_IDVL3.SA_2016
-ok_IDVL3.SA_2017
-erro_IDVL3.SA_2018_<class 'IndexError'>
-ok_IDVL4.SA_2010
-ok_IDVL4.SA_2011
-erro_IDVL4.SA_2012_<class 'IndexError'>
-ok_IDVL4.SA_2013
-ok_IDVL4.SA_2014
-ok_IDVL4.SA_2015
-ok_IDVL4.SA_2016
-erro_IDVL4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_IDVL4.SA_2018_<class 'IndexError'>
-erro_MRVE3.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_MRVE3.SA_2011
-erro_MRVE3.SA_2012_<class 'IndexError'>
-erro_MRVE3.SA_2013_<class 'eventlet.timeout.Timeout'>
-ok_MRVE3.SA_2014
-ok_MRVE3.SA_2015
-ok_MRVE3.SA_2016
-ok_MRVE3.SA_2017
-erro_MRVE3.SA_2018_<class 'IndexError'>
-ok_BEEF3.SA_2010
-ok_BEEF3.SA_2011
-erro_BEEF3.SA_2012_<class 'IndexError'>
-ok_BEEF3.SA_2013
-ok_BEEF3.SA_2014
-ok_BEEF3.SA_2015
-ok_BEEF3.SA_2016
-ok_BEEF3.SA_2017
-erro_BEEF3.SA_2018_<class 'IndexError'>
-erro_BEEF11.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_BEEF11.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_ABCB4.SA_2010
-ok_ABCB4.SA_2011
-erro_ABCB4.SA_2012_<class 'IndexError'>
-ok_ABCB4.SA_2013
-ok_ABCB4.SA_2014
-ok_ABCB4.SA_2015
-ok_ABCB4.SA_2016
-ok_ABCB4.SA_2017
-erro_ABCB4.SA_2018_<class 'IndexError'>
-ok_SGPS3.SA_2010
-ok_SGPS3.SA_2011
-erro_SGPS3.SA_2012_<class 'IndexError'>
-ok_SGPS3.SA_2013
-ok_SGPS3.SA_2014
-ok_SGPS3.SA_2015
-ok_SGPS3.SA_2016
-ok_SGPS3.SA_2017
-erro_SGPS3.SA_2018_<class 'IndexError'>
-ok_MULT3.SA_2010
-ok_MULT3.SA_2011
-erro_MULT3.SA_2012_<class 'IndexError'>
-ok_MULT3.SA_2013
-ok_MULT3.SA_2014
-ok_MULT3.SA_2015
-ok_MULT3.SA_2016
-ok_MULT3.SA_2017
-erro_MULT3.SA_2018_<class 'IndexError'>
-ok_BTOW3.SA_2010
-ok_BTOW3.SA_2011
-erro_BTOW3.SA_2012_<class 'IndexError'>
-ok_BTOW3.SA_2013
-ok_BTOW3.SA_2014
-ok_BTOW3.SA_2015
-ok_BTOW3.SA_2016
-ok_BTOW3.SA_2017
-erro_BTOW3.SA_2018_<class 'IndexError'>
-ok_GSHP3.SA_2010
-ok_GSHP3.SA_2011
-erro_GSHP3.SA_2012_<class 'IndexError'>
-ok_GSHP3.SA_2013
-ok_GSHP3.SA_2015
-ok_GSHP3.SA_2016
-ok_GSHP3.SA_2017
-erro_GSHP3.SA_2018_<class 'IndexError'>
-erro_CAMB3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CAMB3.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_CAMB4.SA_2010_<class 'eventlet.timeout.Timeout'>
-ok_CAMB4.SA_2011
-erro_CAMB4.SA_2012_<class 'IndexError'>
-ok_CAMB4.SA_2013
-ok_CAMB4.SA_2014
-erro_CAMB4.SA_2015_<class 'eventlet.timeout.Timeout'>
-ok_CAMB4.SA_2016
-ok_CAMB4.SA_2017
-erro_CAMB4.SA_2018_<class 'IndexError'>
-erro_CAMB10.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_CAMB10.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_ESTC3.SA_2010
-ok_ESTC3.SA_2011
-erro_ESTC3.SA_2012_<class 'IndexError'>
-ok_ESTC3.SA_2013
-ok_ESTC3.SA_2014
-ok_ESTC3.SA_2015
-ok_ESTC3.SA_2016
-ok_ESTC3.SA_2017
-erro_ESTC3.SA_2018_<class 'IndexError'>
-ok_CCPR3.SA_2010
-ok_CCPR3.SA_2011
-erro_CCPR3.SA_2012_<class 'IndexError'>
-ok_CCPR3.SA_2013
-ok_CCPR3.SA_2014
-ok_CCPR3.SA_2015
-ok_CCPR3.SA_2016
-ok_CCPR3.SA_2017
-erro_CCPR3.SA_2018_<class 'eventlet.timeout.Timeout'>
-ok_DTEX3.SA_2010
-ok_DTEX3.SA_2011
-erro_DTEX3.SA_2012_<class 'IndexError'>
-ok_DTEX3.SA_2013
-ok_DTEX3.SA_2014
-ok_DTEX3.SA_2015
-ok_DTEX3.SA_2016
-ok_DTEX3.SA_2017
-erro_DTEX3.SA_2018_<class 'IndexError'>
-ok_SULA11.SA_2010
-ok_SULA11.SA_2011
-erro_SULA11.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_SULA11.SA_2013
-ok_SULA11.SA_2014
-ok_SULA11.SA_2015
-ok_SULA11.SA_2016
-ok_SULA11.SA_2017
-erro_SULA11.SA_2018_<class 'eventlet.timeout.Timeout'>
-erro_SULA3.SA_2010_<class 'IndexError'>
-erro_SULA3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SULA3.SA_2012_<class 'IndexError'>
-ok_SULA3.SA_2013
-ok_SULA3.SA_2014
-ok_SULA3.SA_2015
-ok_SULA3.SA_2016
-ok_SULA3.SA_2017
-erro_SULA3.SA_2018_<class 'IndexError'>
-erro_SULA4.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_SULA4.SA_2018_<class 'IndexError'>
-ok_TRIS3.SA_2010
-ok_TRIS3.SA_2011
-erro_TRIS3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_TRIS3.SA_2013
-ok_TRIS3.SA_2014
-ok_TRIS3.SA_2015
-erro_TRIS3.SA_2016_<class 'eventlet.timeout.Timeout'>
-ok_TRIS3.SA_2017
-erro_TRIS3.SA_2018_<class 'IndexError'>
-erro_TEND3.SA_2010_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2011_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2012_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2013_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2014_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2015_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2016_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2017_<class 'eventlet.timeout.Timeout'>
-erro_TEND3.SA_2018_<class 'IndexError'>
-ok_BBRK3.SA_2010
-ok_BBRK3.SA_2011
-erro_BBRK3.SA_2012_<class 'eventlet.timeout.Timeout'>
-ok_BBRK3.SA_2013
-ok_BBRK3.SA_2014
-ok_BBRK3.SA_2015
-ok_BBRK3.SA_2016
-ok_BBRK3.SA_2017
-erro_BBRK3.SA_2018_<class 'IndexError'>
+ok_BBAS11_2010
+ok_BBAS11_2011
+ok_BBAS11_2012
+ok_BBAS11_2013
+ok_BBAS11_2014
+ok_BBAS11_2015
+ok_BBAS11_2016
+ok_BBAS11_2017
+ok_BBAS11_2018
+ok_BBAS12_2010
+ok_BBAS12_2011
+ok_BBAS12_2012
+ok_BBAS12_2013
+ok_BBAS12_2014
+ok_BBAS12_2015
+ok_BBAS12_2016
+ok_BBAS12_2017
+ok_BBAS12_2018
+ok_BBAS3_2010
+ok_BBAS3_2011
+ok_BBAS3_2012
+ok_BBAS3_2013
+ok_BBAS3_2014
+ok_BBAS3_2015
+ok_BBAS3_2016
+ok_BBAS3_2017
+ok_BBAS3_2018
+ok_ALPA3_2010
+ok_ALPA3_2011
+ok_ALPA3_2012
+ok_ALPA3_2013
+ok_ALPA3_2014
+ok_ALPA3_2015
+ok_ALPA3_2016
+ok_ALPA3_2017
+ok_ALPA3_2018
+ok_ALPA4_2010
+ok_ALPA4_2011
+ok_ALPA4_2012
+ok_ALPA4_2013
+ok_ALPA4_2014
+ok_ALPA4_2015
+ok_ALPA4_2016
+ok_ALPA4_2017
+ok_ALPA4_2018
+ok_SLED3_2010
+ok_SLED3_2011
+ok_SLED3_2012
+ok_SLED3_2013
+erro_SLED3_2014_<class 'http.client.RemoteDisconnected'>
+ok_SLED3_2015
+ok_SLED3_2016
+ok_SLED3_2017
+ok_SLED3_2018
+ok_SLED4_2010
+ok_SLED4_2011
+ok_SLED4_2012
+ok_SLED4_2013
+ok_SLED4_2014
+ok_SLED4_2015
+ok_SLED4_2016
+ok_SLED4_2017
+ok_SLED4_2018
+ok_SOND3_2010
+ok_SOND3_2011
+ok_SOND3_2012
+ok_SOND3_2013
+ok_SOND3_2014
+ok_SOND3_2015
+ok_SOND3_2016
+ok_SOND3_2017
+ok_SOND3_2018
+ok_SOND5_2010
+ok_SOND5_2011
+ok_SOND5_2012
+ok_SOND5_2013
+ok_SOND5_2014
+ok_SOND5_2015
+ok_SOND5_2016
+ok_SOND5_2017
+ok_SOND5_2018
+ok_SOND6_2010
+ok_SOND6_2011
+ok_SOND6_2012
+ok_SOND6_2013
+ok_SOND6_2014
+ok_SOND6_2015
+ok_SOND6_2016
+ok_SOND6_2017
+ok_SOND6_2018
+ok_SPRI3_2010
+ok_SPRI3_2011
+ok_SPRI3_2012
+ok_SPRI3_2013
+ok_SPRI3_2014
+ok_SPRI3_2015
+ok_SPRI3_2016
+ok_SPRI3_2017
+ok_SPRI5_2010
+ok_SPRI5_2011
+ok_SPRI5_2012
+ok_SPRI5_2013
+ok_SPRI5_2014
+ok_SPRI5_2015
+ok_SPRI5_2016
+ok_SPRI5_2017
+ok_SPRI6_2010
+ok_SPRI6_2011
+ok_SPRI6_2012
+ok_SPRI6_2013
+ok_SPRI6_2014
+ok_SPRI6_2015
+ok_SPRI6_2016
+ok_SPRI6_2017
+ok_WLMM3_2010
+ok_WLMM3_2011
+ok_WLMM3_2012
+ok_WLMM3_2013
+ok_WLMM3_2014
+ok_WLMM3_2015
+ok_WLMM3_2016
+ok_WLMM3_2017
+ok_WLMM3_2018
+ok_WLMM4_2010
+ok_WLMM4_2011
+ok_WLMM4_2012
+ok_WLMM4_2013
+ok_WLMM4_2014
+ok_WLMM4_2015
+ok_WLMM4_2016
+ok_WLMM4_2017
+ok_WLMM4_2018
+ok_BGIP3_2010
+ok_BGIP4_2010
+ok_TEKA3_2010
+ok_TEKA3_2011
+ok_TEKA3_2012
+ok_TEKA3_2013
+ok_TEKA3_2014
+ok_TEKA3_2015
+ok_TEKA3_2016
+ok_TEKA3_2017
+ok_TEKA3_2018
+ok_TEKA4_2010
+ok_TEKA4_2011
+ok_TEKA4_2012
+ok_TEKA4_2013
+ok_TEKA4_2014
+ok_TEKA4_2015
+ok_TEKA4_2016
+ok_TEKA4_2017
+ok_TEKA4_2018
+ok_TKNO3_2010
+ok_TKNO3_2011
+ok_TKNO3_2012
+ok_TKNO3_2013
+ok_TKNO3_2014
+ok_TKNO3_2015
+ok_TKNO3_2016
+ok_TKNO3_2017
+ok_TKNO3_2018
+ok_TKNO4_2010
+ok_TKNO4_2011
+ok_TKNO4_2012
+ok_TKNO4_2013
+ok_TKNO4_2014
+ok_TKNO4_2015
+ok_TKNO4_2016
+ok_TKNO4_2017
+ok_TKNO4_2018
+ok_OIBR3_2010
+ok_OIBR3_2011
+ok_OIBR3_2012
+ok_OIBR3_2013
+ok_OIBR3_2014
+ok_OIBR3_2015
+ok_OIBR3_2016
+ok_OIBR3_2017
+ok_OIBR3_2018
+ok_OIBR4_2010
+ok_OIBR4_2011
+ok_OIBR4_2012
+ok_OIBR4_2013
+ok_OIBR4_2014
+ok_OIBR4_2015
+ok_OIBR4_2016
+ok_OIBR4_2017
+ok_OIBR4_2018
+ok_OIBR11_2010
+ok_OIBR11_2011
+ok_OIBR11_2012
+ok_OIBR11_2013
+ok_OIBR11_2014
+ok_OIBR11_2015
+ok_OIBR11_2016
+ok_OIBR11_2017
+ok_OIBR11_2018
+ok_CRPG3_2010
+ok_CRPG3_2011
+ok_CRPG3_2012
+ok_CRPG3_2013
+ok_CRPG3_2014
+ok_CRPG3_2015
+ok_CRPG3_2016
+ok_CRPG5_2010
+ok_CRPG5_2011
+ok_CRPG5_2012
+ok_CRPG5_2013
+ok_CRPG5_2014
+ok_CRPG5_2015
+ok_CRPG5_2016
+ok_CRPG6_2010
+ok_CRPG6_2011
+ok_CRPG6_2012
+ok_CRPG6_2013
+ok_CRPG6_2014
+ok_CRPG6_2015
+ok_CRPG6_2016
+ok_BEES3_2010
+ok_BEES3_2011
+ok_BEES3_2012
+ok_BEES3_2013
+ok_BEES3_2014
+ok_BEES3_2015
+ok_BEES3_2016
+ok_BEES3_2017
+ok_BEES3_2018
+ok_BEES4_2010
+ok_BEES4_2011
+ok_BEES4_2012
+ok_BEES4_2013
+ok_BEES4_2014
+ok_BEES4_2015
+ok_BEES4_2016
+ok_BEES4_2017
+ok_BEES4_2018
+ok_UNIP3_2010
+ok_UNIP3_2011
+ok_UNIP3_2012
+ok_UNIP3_2016
+ok_UNIP3_2017
+ok_UNIP3_2018
+ok_UNIP5_2010
+ok_UNIP5_2011
+ok_UNIP5_2012
+ok_UNIP5_2016
+ok_UNIP5_2017
+ok_UNIP5_2018
+ok_UNIP6_2010
+ok_UNIP6_2011
+ok_UNIP6_2012
+ok_UNIP6_2016
+ok_UNIP6_2017
+ok_UNIP6_2018
+ok_VULC3_2010
+ok_VULC3_2011
+ok_VULC3_2012
+ok_VULC3_2013
+ok_VULC3_2014
+ok_VULC3_2015
+ok_VULC3_2016
+ok_VULC3_2017
+ok_VULC3_2018
+ok_MYPK3_2010
+ok_MYPK3_2011
+ok_MYPK3_2012
+ok_MYPK3_2013
+ok_MYPK3_2014
+ok_MYPK3_2015
+ok_MYPK3_2016
+ok_MYPK3_2017
+ok_MYPK3_2018
+ok_MYPK12_2010
+ok_MYPK12_2011
+ok_MYPK12_2012
+ok_MYPK12_2013
+ok_MYPK12_2014
+ok_MYPK12_2015
+ok_MYPK12_2016
+ok_MYPK12_2017
+ok_MYPK12_2018
+ok_AZEV3_2010
+ok_AZEV3_2011
+ok_AZEV3_2012
+ok_AZEV3_2013
+ok_AZEV3_2014
+ok_AZEV3_2015
+ok_AZEV3_2016
+ok_AZEV3_2017
+ok_AZEV4_2010
+ok_AZEV4_2011
+ok_AZEV4_2012
+ok_AZEV4_2013
+ok_AZEV4_2014
+ok_AZEV4_2015
+ok_AZEV4_2016
+ok_AZEV4_2017
+ok_MWET3_2010
+ok_MWET3_2011
+ok_MWET3_2012
+ok_MWET3_2013
+ok_MWET3_2014
+ok_MWET3_2015
+ok_MWET3_2016
+ok_MWET3_2017
+ok_MWET3_2018
+ok_MWET4_2010
+ok_MWET4_2011
+ok_MWET4_2012
+ok_MWET4_2013
+ok_MWET4_2014
+ok_MWET4_2015
+ok_MWET4_2016
+ok_MWET4_2017
+ok_MWET4_2018
+ok_BRSR3_2010
+ok_BRSR3_2011
+ok_BRSR3_2012
+ok_BRSR3_2013
+ok_BRSR3_2014
+ok_BRSR3_2015
+ok_BRSR3_2016
+ok_BRSR3_2017
+ok_BRSR3_2018
+ok_BRSR5_2010
+ok_BRSR5_2011
+ok_BRSR5_2012
+ok_BRSR5_2013
+ok_BRSR5_2014
+ok_BRSR5_2015
+ok_BRSR5_2016
+ok_BRSR5_2017
+ok_BRSR5_2018
+ok_BRSR6_2010
+ok_BRSR6_2011
+ok_BRSR6_2012
+ok_BRSR6_2013
+ok_BRSR6_2014
+ok_BRSR6_2015
+ok_BRSR6_2016
+ok_BRSR6_2017
+ok_BRSR6_2018
+ok_BOBR3_2010
+ok_BOBR3_2011
+ok_BOBR3_2012
+ok_BOBR3_2013
+ok_BOBR3_2014
+ok_BOBR3_2015
+ok_BOBR3_2016
+ok_BOBR3_2017
+ok_BOBR3_2018
+ok_BOBR4_2010
+ok_BOBR4_2011
+ok_BOBR4_2012
+ok_BOBR4_2013
+ok_BOBR4_2014
+ok_BOBR4_2015
+ok_BOBR4_2016
+ok_BOBR4_2017
+ok_BOBR4_2018
+ok_ITEC3_2010
+ok_ITEC3_2011
+ok_ITEC3_2012
+ok_ITEC3_2013
+ok_ITEC3_2014
+ok_ITEC3_2015
+ok_ITEC3_2016
+ok_ITEC3_2017
+ok_ITEC3_2018
+ok_RCSL3_2010
+ok_RCSL3_2011
+ok_RCSL3_2012
+ok_RCSL3_2013
+ok_RCSL3_2014
+ok_RCSL3_2015
+ok_RCSL3_2016
+ok_RCSL3_2017
+ok_RCSL3_2018
+ok_RCSL4_2010
+ok_RCSL4_2011
+ok_RCSL4_2012
+ok_RCSL4_2013
+ok_RCSL4_2014
+ok_RCSL4_2015
+ok_RCSL4_2016
+ok_RCSL4_2017
+ok_RCSL4_2018
+ok_KLBN11_2010
+ok_KLBN11_2011
+ok_KLBN11_2012
+ok_KLBN11_2013
+ok_KLBN11_2014
+ok_KLBN11_2015
+ok_KLBN11_2016
+ok_KLBN11_2017
+ok_KLBN11_2018
+ok_KLBN3_2010
+ok_KLBN3_2011
+ok_KLBN3_2012
+ok_KLBN3_2013
+ok_KLBN3_2014
+ok_KLBN3_2015
+ok_KLBN3_2016
+ok_KLBN3_2017
+ok_KLBN3_2018
+ok_KLBN4_2010
+ok_KLBN4_2011
+ok_KLBN4_2012
+ok_KLBN4_2013
+ok_KLBN4_2014
+ok_KLBN4_2015
+ok_KLBN4_2016
+ok_KLBN4_2017
+ok_KLBN4_2018
+ok_SNSY3_2010
+ok_SNSY3_2011
+ok_SNSY3_2012
+ok_SNSY3_2013
+ok_SNSY3_2014
+ok_SNSY3_2015
+ok_SNSY3_2016
+ok_SNSY3_2017
+ok_SNSY3_2018
+ok_SNSY5_2010
+ok_SNSY5_2011
+ok_SNSY5_2012
+ok_SNSY5_2013
+ok_SNSY5_2014
+ok_SNSY5_2015
+ok_SNSY5_2016
+ok_SNSY5_2017
+ok_SNSY5_2018
+ok_SNSY6_2010
+ok_SNSY6_2011
+ok_SNSY6_2012
+ok_SNSY6_2013
+ok_SNSY6_2014
+ok_SNSY6_2015
+ok_SNSY6_2016
+ok_SNSY6_2017
+ok_SNSY6_2018
+ok_APTI3_2010
+ok_APTI3_2011
+ok_APTI3_2012
+ok_APTI3_2013
+ok_APTI3_2014
+ok_APTI3_2015
+ok_APTI3_2016
+ok_APTI3_2017
+ok_APTI3_2018
+ok_APTI4_2010
+ok_APTI4_2011
+ok_APTI4_2012
+ok_APTI4_2013
+ok_APTI4_2014
+ok_APTI4_2015
+ok_APTI4_2016
+ok_APTI4_2017
+ok_APTI4_2018
+ok_BMEB3_2010
+ok_BMEB3_2011
+ok_BMEB3_2012
+ok_BMEB3_2013
+ok_BMEB3_2014
+ok_BMEB3_2015
+ok_BMEB3_2016
+ok_BMEB3_2017
+ok_BMEB3_2018
+ok_BMEB4_2010
+ok_BMEB4_2011
+ok_BMEB4_2012
+ok_BMEB4_2013
+ok_BMEB4_2014
+ok_BMEB4_2015
+ok_BMEB4_2016
+ok_BMEB4_2017
+ok_BMEB4_2018
+ok_JOPA3_2010
+ok_JOPA3_2011
+ok_JOPA3_2012
+ok_JOPA3_2013
+ok_JOPA3_2014
+ok_JOPA3_2015
+ok_JOPA3_2016
+ok_JOPA3_2017
+ok_JOPA3_2018
+ok_JOPA4_2010
+ok_JOPA4_2011
+ok_JOPA4_2012
+ok_JOPA4_2013
+ok_JOPA4_2014
+ok_JOPA4_2015
+ok_JOPA4_2016
+ok_JOPA4_2017
+ok_JOPA4_2018
+ok_PLAS3_2010
+ok_PLAS3_2011
+ok_PLAS3_2012
+ok_PLAS3_2013
+ok_PLAS3_2014
+ok_PLAS3_2015
+ok_PLAS3_2016
+ok_PLAS3_2017
+ok_PLAS3_2018
+ok_PLAS11_2010
+ok_PLAS11_2011
+ok_PLAS11_2012
+ok_PLAS11_2013
+ok_PLAS11_2014
+ok_PLAS11_2015
+ok_PLAS11_2016
+ok_PLAS11_2017
+ok_PLAS11_2018
+ok_MNPR3_2010
+ok_MNPR3_2011
+ok_MNPR3_2012
+ok_MNPR3_2013
+ok_MNPR3_2014
+ok_MNPR3_2015
+ok_MNPR3_2016
+ok_MNPR3_2017
+ok_MNPR3_2018
+ok_PTBL3_2010
+ok_PTBL3_2011
+ok_PTBL3_2012
+ok_PTBL3_2013
+ok_PTBL3_2014
+ok_PTBL3_2015
+ok_PTBL3_2016
+ok_PTBL3_2017
+ok_PTBL3_2018
+ok_SCAR3_2010
+ok_SCAR3_2011
+ok_SCAR3_2012
+ok_SCAR3_2013
+ok_SCAR3_2014
+ok_SCAR3_2015
+ok_SCAR3_2016
+ok_SCAR3_2017
+ok_SCAR3_2018
+ok_BRIV3_2010
+ok_BRIV3_2011
+ok_BRIV3_2012
+ok_BRIV3_2013
+ok_BRIV3_2014
+ok_BRIV3_2015
+ok_BRIV3_2016
+ok_BRIV3_2017
+ok_BRIV3_2018
+ok_BRIV4_2010
+ok_BRIV4_2011
+ok_BRIV4_2012
+ok_BRIV4_2013
+ok_BRIV4_2014
+ok_BRIV4_2015
+ok_BRIV4_2016
+ok_BRIV4_2017
+ok_BRIV4_2018
+ok_SUZB3_2010
+ok_SUZB3_2011
+ok_SUZB3_2012
+ok_SUZB3_2013
+ok_SUZB3_2014
+ok_SUZB3_2015
+ok_SUZB3_2016
+ok_SUZB3_2017
+ok_SUZB3_2018
+ok_RAPT3_2010
+ok_RAPT3_2011
+ok_RAPT3_2012
+ok_RAPT3_2013
+ok_RAPT3_2014
+ok_RAPT3_2015
+ok_RAPT3_2016
+ok_RAPT3_2017
+ok_RAPT3_2018
+ok_RAPT4_2010
+ok_RAPT4_2011
+ok_RAPT4_2012
+ok_RAPT4_2013
+ok_RAPT4_2014
+ok_RAPT4_2015
+ok_RAPT4_2016
+ok_RAPT4_2017
+ok_RAPT4_2018
+ok_TOYB3_2010
+ok_TOYB3_2011
+ok_TOYB3_2012
+ok_TOYB3_2013
+ok_TOYB3_2014
+ok_TOYB3_2015
+ok_TOYB3_2016
+ok_TOYB3_2017
+ok_TOYB3_2018
+ok_TOYB4_2010
+ok_TOYB4_2011
+ok_TOYB4_2012
+ok_TOYB4_2013
+ok_TOYB4_2014
+ok_TOYB4_2015
+ok_TOYB4_2016
+ok_TOYB4_2017
+ok_TOYB4_2018
+ok_TOYB13_2010
+ok_TOYB13_2011
+ok_TOYB13_2012
+ok_TOYB13_2013
+ok_TOYB13_2014
+ok_TOYB13_2015
+ok_TOYB13_2016
+ok_TOYB13_2017
+ok_TOYB13_2018
+ok_BSLI3_2010
+ok_BSLI3_2011
+ok_BSLI3_2012
+ok_BSLI3_2013
+ok_BSLI3_2014
+ok_BSLI3_2015
+ok_BSLI3_2016
+ok_BSLI3_2017
+ok_BSLI4_2010
+ok_BSLI4_2011
+ok_BSLI4_2012
+ok_BSLI4_2013
+ok_BSLI4_2014
+ok_BSLI4_2015
+ok_BSLI4_2016
+ok_BSLI4_2017
+ok_CPLE3_2010
+ok_CPLE3_2011
+ok_CPLE3_2012
+ok_CPLE3_2013
+ok_CPLE3_2014
+ok_CPLE3_2015
+ok_CPLE3_2016
+ok_CPLE3_2017
+ok_CPLE3_2018
+ok_CPLE5_2010
+ok_CPLE5_2011
+ok_CPLE5_2012
+ok_CPLE5_2013
+ok_CPLE5_2014
+ok_CPLE5_2015
+ok_CPLE5_2016
+ok_CPLE5_2017
+ok_CPLE5_2018
+ok_CPLE6_2010
+ok_CPLE6_2011
+ok_CPLE6_2012
+ok_CPLE6_2013
+ok_CPLE6_2014
+ok_CPLE6_2015
+ok_CPLE6_2016
+ok_CPLE6_2017
+ok_CPLE6_2018
+ok_USIM3_2010
+ok_USIM3_2011
+ok_USIM3_2012
+ok_USIM3_2013
+ok_USIM3_2014
+ok_USIM3_2015
+ok_USIM3_2016
+ok_USIM3_2017
+ok_USIM3_2018
+ok_USIM5_2010
+ok_USIM5_2011
+ok_USIM5_2012
+ok_USIM5_2013
+ok_USIM5_2014
+ok_USIM5_2015
+ok_USIM5_2016
+ok_USIM5_2017
+ok_USIM5_2018
+ok_USIM6_2010
+ok_USIM6_2011
+ok_USIM6_2012
+ok_USIM6_2013
+ok_USIM6_2014
+ok_USIM6_2015
+ok_USIM6_2016
+ok_USIM6_2017
+ok_USIM6_2018
+ok_WHRL3_2010
+ok_WHRL3_2011
+ok_WHRL3_2012
+ok_WHRL3_2013
+ok_WHRL3_2014
+ok_WHRL3_2015
+ok_WHRL3_2016
+ok_WHRL3_2017
+ok_WHRL3_2018
+ok_WHRL4_2010
+ok_WHRL4_2011
+ok_WHRL4_2012
+ok_WHRL4_2013
+ok_WHRL4_2014
+ok_WHRL4_2015
+ok_WHRL4_2016
+ok_WHRL4_2017
+ok_WHRL4_2018
+ok_SBSP3_2010
+ok_SBSP3_2011
+ok_SBSP3_2012
+ok_CEBR3_2010
+ok_CEBR3_2011
+ok_CEBR3_2012
+ok_CEBR3_2013
+ok_CEBR3_2014
+ok_CEBR3_2015
+ok_CEBR3_2016
+ok_CEBR3_2017
+ok_CEBR3_2018
+ok_CEBR5_2010
+ok_CEBR5_2011
+ok_CEBR5_2012
+ok_CEBR5_2013
+ok_CEBR5_2014
+ok_CEBR5_2015
+ok_CEBR5_2016
+ok_CEBR5_2017
+ok_CEBR5_2018
+ok_CEBR6_2010
+ok_CEBR6_2011
+ok_CEBR6_2012
+ok_CEBR6_2013
+ok_CEBR6_2014
+ok_CEBR6_2015
+ok_CEBR6_2016
+ok_CEBR6_2017
+ok_CEBR6_2018
+ok_CYRE3_2010
+ok_CYRE3_2011
+ok_CYRE3_2012
+ok_CYRE3_2013
+ok_CYRE3_2014
+ok_CYRE3_2015
+ok_CYRE3_2016
+ok_CYRE3_2017
+ok_CYRE3_2018
+ok_SHUL3_2010
+ok_SHUL3_2011
+ok_SHUL3_2012
+ok_SHUL3_2013
+ok_SHUL3_2014
+ok_SHUL3_2015
+ok_SHUL3_2016
+ok_SHUL3_2017
+ok_SHUL3_2018
+ok_SHUL4_2010
+ok_SHUL4_2011
+ok_SHUL4_2012
+ok_SHUL4_2013
+ok_SHUL4_2014
+ok_SHUL4_2015
+ok_SHUL4_2016
+ok_SHUL4_2017
+ok_SHUL4_2018
+ok_HGTX3_2010
+ok_HGTX3_2011
+ok_HGTX3_2012
+ok_HGTX3_2013
+ok_HGTX3_2014
+ok_HGTX3_2015
+ok_HGTX3_2016
+ok_HGTX3_2017
+ok_HGTX3_2018
+ok_PCAR3_2010
+ok_PCAR3_2011
+ok_PCAR3_2012
+ok_PCAR3_2013
+ok_PCAR3_2014
+ok_PCAR3_2015
+ok_PCAR3_2016
+ok_PCAR3_2017
+ok_PCAR3_2018
+ok_PCAR4_2010
+ok_PCAR4_2011
+ok_PCAR4_2012
+ok_PCAR4_2013
+ok_PCAR4_2014
+ok_PCAR4_2015
+ok_PCAR4_2016
+ok_PCAR4_2017
+ok_PCAR4_2018
+ok_LTEL11B_2010
+ok_LTEL11B_2011
+ok_LTEL11B_2012
+ok_LTEL11B_2013
+ok_LTEL11B_2014
+ok_LTEL11B_2015
+ok_LTEL11B_2016
+ok_LTEL11B_2017
+ok_LTEL11B_2018
+ok_LTEL3B_2010
+ok_LTEL3B_2011
+ok_LTEL3B_2012
+ok_LTEL3B_2013
+ok_LTEL3B_2014
+ok_LTEL3B_2015
+ok_LTEL3B_2016
+ok_LTEL3B_2017
+ok_LTEL3B_2018
+ok_LTEL5B_2010
+ok_LTEL5B_2011
+ok_LTEL5B_2012
+ok_LTEL5B_2013
+ok_LTEL5B_2014
+ok_LTEL5B_2015
+ok_LTEL5B_2016
+ok_LTEL5B_2017
+ok_LTEL5B_2018
+ok_BDLL3_2010
+ok_BDLL3_2011
+ok_BDLL3_2012
+ok_BDLL3_2013
+ok_BDLL3_2014
+ok_BDLL3_2015
+ok_BDLL3_2016
+ok_BDLL3_2017
+ok_BDLL3_2018
+ok_BDLL4_2010
+ok_BDLL4_2011
+ok_BDLL4_2012
+ok_BDLL4_2013
+ok_BDLL4_2014
+ok_BDLL4_2015
+ok_BDLL4_2016
+ok_BDLL4_2017
+ok_BDLL4_2018
+ok_ENGI11_2010
+ok_ENGI11_2011
+ok_ENGI11_2012
+ok_ENGI11_2013
+ok_ENGI11_2014
+ok_ENGI11_2015
+ok_ENGI11_2016
+ok_ENGI11_2017
+ok_ENGI11_2018
+ok_ENGI3_2010
+ok_ENGI3_2011
+ok_ENGI3_2012
+ok_ENGI3_2013
+ok_ENGI3_2014
+ok_ENGI3_2015
+ok_ENGI3_2016
+ok_ENGI3_2017
+ok_ENGI3_2018
+ok_ENGI4_2010
+ok_ENGI4_2011
+ok_ENGI4_2012
+ok_ENGI4_2013
+ok_ENGI4_2014
+ok_ENGI4_2015
+ok_ENGI4_2016
+ok_ENGI4_2017
+ok_ENGI4_2018
+ok_ENGI12_2010
+ok_ENGI12_2011
+ok_ENGI12_2012
+ok_ENGI12_2013
+ok_ENGI12_2014
+ok_ENGI12_2015
+ok_ENGI12_2016
+ok_ENGI12_2017
+ok_ENGI12_2018
+ok_FRRN3B_2010
+ok_FRRN3B_2011
+ok_FRRN3B_2012
+ok_FRRN5B_2010
+ok_FRRN5B_2011
+ok_FRRN5B_2012
+ok_FRRN6B_2010
+ok_FRRN6B_2011
+ok_FRRN6B_2012
+ok_VSPT3_2010
+ok_VSPT3_2011
+ok_VSPT3_2012
+ok_VSPT3_2013
+ok_VSPT3_2014
+ok_VSPT4_2010
+ok_VSPT4_2011
+ok_VSPT4_2012
+ok_VSPT4_2013
+ok_VSPT4_2014
+ok_BTTL3_2010
+ok_BTTL3_2011
+ok_BTTL3_2012
+ok_BTTL3_2013
+ok_BTTL3_2014
+ok_BTTL3_2015
+ok_BTTL3_2016
+ok_BTTL3_2017
+ok_BTTL3_2018
+ok_NEOE3B_2010
+ok_NEOE3B_2011
+ok_NEOE3B_2012
+ok_NEOE3B_2013
+ok_NEOE3B_2014
+ok_NEOE3B_2015
+ok_NEOE3B_2016
+ok_NEOE3B_2017
+ok_NEOE3B_2018
+ok_BALM3_2010
+ok_BALM3_2011
+ok_BALM3_2012
+ok_BALM3_2013
+ok_BALM3_2014
+ok_BALM3_2015
+ok_BALM3_2016
+ok_BALM3_2017
+ok_BALM3_2018
+ok_BALM4_2010
+ok_BALM4_2011
+ok_BALM4_2012
+ok_BALM4_2013
+ok_BALM4_2014
+ok_BALM4_2015
+ok_BALM4_2016
+ok_BALM4_2017
+ok_BALM4_2018
+ok_GFSA3_2010
+ok_GFSA3_2011
+ok_GFSA3_2012
+ok_GFSA3_2013
+ok_GFSA3_2014
+ok_GFSA3_2015
+ok_GFSA3_2016
+ok_GFSA3_2017
+ok_GFSA3_2018
+ok_GFSA1_2010
+ok_GFSA1_2011
+ok_GFSA1_2012
+ok_GFSA1_2013
+ok_GFSA1_2014
+ok_GFSA1_2015
+ok_GFSA1_2016
+ok_GFSA1_2017
+ok_GFSA1_2018
+ok_BRFS3_2010
+ok_BRFS3_2011
+ok_BRFS3_2012
+ok_BRFS3_2013
+ok_BRFS3_2014
+ok_BRFS3_2015
+ok_BRFS3_2016
+ok_BRFS3_2017
+ok_BRFS3_2018
+ok_RSID3_2010
+ok_RSID3_2011
+ok_RSID3_2012
+ok_RSID3_2013
+ok_RSID3_2014
+ok_RSID3_2015
+ok_RSID3_2016
+ok_RSID3_2017
+ok_RSID3_2018
+ok_OPTS3B_2010
+ok_OPTS3B_2012
+ok_ECPR3_2010
+ok_ECPR3_2011
+ok_ECPR3_2012
+ok_ECPR3_2013
+ok_ECPR3_2014
+ok_ECPR3_2015
+ok_ECPR3_2016
+ok_ECPR3_2017
+ok_ECPR3_2018
+ok_ECPR4_2010
+ok_ECPR4_2011
+ok_ECPR4_2012
+ok_ECPR4_2013
+ok_ECPR4_2014
+ok_ECPR4_2015
+ok_ECPR4_2016
+ok_ECPR4_2017
+ok_ECPR4_2018
+ok_UPKP3B_2010
+ok_GPCP3_2010
+ok_GPCP3_2011
+ok_GPCP3_2012
+ok_GPCP3_2013
+ok_GPCP3_2014
+ok_GPCP3_2015
+ok_GPCP3_2016
+ok_GPCP3_2017
+ok_GPCP3_2018
+ok_GPCP4_2010
+ok_GPCP4_2011
+ok_GPCP4_2012
+ok_GPCP4_2013
+ok_GPCP4_2014
+ok_GPCP4_2015
+ok_GPCP4_2016
+ok_GPCP4_2017
+ok_GPCP4_2018
+ok_PSSA3_2010
+ok_PSSA3_2011
+ok_PSSA3_2012
+ok_PSSA3_2013
+ok_PSSA3_2014
+ok_PSSA3_2015
+ok_PSSA3_2016
+ok_PSSA3_2017
+ok_PSSA3_2018
+ok_BMKS3_2010
+ok_BMKS3_2011
+ok_BMKS3_2012
+ok_BMKS3_2013
+ok_BMKS3_2014
+ok_BMKS3_2015
+ok_BMKS3_2016
+ok_BMKS3_2017
+ok_EMAE3_2010
+ok_EMAE3_2011
+ok_EMAE3_2012
+ok_EMAE3_2013
+ok_EMAE3_2014
+ok_EMAE3_2015
+ok_EMAE3_2016
+ok_EMAE3_2017
+ok_EMAE3_2018
+ok_EMAE4_2010
+ok_EMAE4_2011
+ok_EMAE4_2012
+ok_EMAE4_2013
+ok_EMAE4_2014
+ok_EMAE4_2015
+ok_EMAE4_2016
+ok_EMAE4_2017
+ok_EMAE4_2018
+ok_EGIE3_2010
+ok_EGIE3_2011
+ok_EGIE3_2012
+ok_EGIE3_2013
+ok_EGIE3_2014
+ok_EGIE3_2015
+ok_EGIE3_2016
+ok_EGIE3_2017
+ok_EGIE3_2018
+ok_RAIL3_2010
+ok_RAIL3_2011
+ok_RAIL3_2012
+ok_RAIL3_2013
+ok_RAIL3_2014
+ok_RAIL3_2015
+ok_RAIL3_2016
+ok_RAIL3_2017
+ok_RAIL3_2018
+ok_CPTP3B_2010
+ok_CPTP3B_2011
+ok_CPTP3B_2012
+ok_CPTP3B_2013
+ok_CPTP3B_2014
+ok_CPTP3B_2015
+ok_CPTP3B_2016
+ok_SLCT3B_2010
+ok_SLCT3B_2011
+ok_SLCT3B_2012
+ok_SLCT3B_2013
+ok_SLCT3B_2014
+ok_SLCT3B_2015
+ok_SLCT3B_2016
+ok_SLCT3B_2017
+ok_TIMP3_2010
+ok_TIMP3_2011
+ok_TIMP3_2012
+ok_TIMP3_2013
+ok_TIMP3_2014
+ok_TIMP3_2015
+ok_TIMP3_2016
+ok_TIMP3_2017
+ok_TIMP3_2018
+ok_VIVT3_2010
+ok_VIVT3_2011
+ok_VIVT3_2012
+ok_VIVT3_2013
+ok_VIVT3_2014
+ok_VIVT3_2015
+ok_VIVT3_2016
+ok_VIVT3_2017
+ok_VIVT3_2018
+ok_VIVT4_2010
+ok_VIVT4_2011
+ok_VIVT4_2012
+ok_VIVT4_2013
+ok_VIVT4_2014
+ok_VIVT4_2015
+ok_VIVT4_2016
+ok_VIVT4_2017
+ok_VIVT4_2018
+ok_STBP3_2010
+ok_STBP3_2011
+ok_STBP3_2012
+ok_STBP3_2013
+ok_STBP3_2014
+ok_STBP3_2015
+ok_STBP3_2016
+ok_STBP3_2017
+ok_STBP3_2018
+ok_MMXM3_2010
+ok_MMXM3_2011
+ok_MMXM3_2012
+ok_MMXM3_2013
+ok_MMXM3_2014
+ok_MMXM3_2015
+ok_MMXM3_2016
+ok_MMXM3_2017
+ok_MMXM3_2018
+ok_MMXM11_2010
+ok_MMXM11_2011
+ok_MMXM11_2012
+ok_MMXM11_2013
+ok_MMXM11_2014
+ok_MMXM11_2015
+ok_MMXM11_2016
+ok_MMXM11_2017
+ok_MMXM11_2018
+ok_A_2013
+ok_A_2014
+ok_A_2015
+ok_A_2016
+ok_A_2017
+ok_KROT3_2010
+ok_KROT3_2011
+ok_KROT3_2012
+ok_KROT3_2013
+ok_KROT3_2014
+ok_KROT3_2015
+ok_KROT3_2016
+ok_KROT3_2017
+ok_KROT3_2018
+ok_TRPL3_2010
+ok_TRPL3_2011
+ok_TRPL3_2012
+ok_TRPL3_2013
+ok_TRPL3_2014
+ok_TRPL3_2015
+ok_TRPL3_2016
+ok_TRPL3_2017
+ok_TRPL3_2018
+ok_TRPL4_2010
+ok_TRPL4_2011
+ok_TRPL4_2012
+ok_TRPL4_2013
+ok_TRPL4_2014
+ok_TRPL4_2015
+ok_TRPL4_2016
+ok_TRPL4_2017
+ok_TRPL4_2018
+ok_IDNT3_2010
+ok_IDNT3_2011
+ok_IDNT3_2012
+ok_IDNT3_2013
+ok_IDNT3_2014
+ok_IDNT3_2015
+ok_IDNT3_2016
+ok_IDNT3_2017
+ok_IDNT3_2018
+ok_UGPA3_2010
+ok_UGPA3_2011
+ok_UGPA3_2012
+ok_UGPA3_2013
+ok_UGPA3_2014
+ok_UGPA3_2015
+ok_UGPA3_2016
+ok_UGPA3_2017
+ok_UGPA3_2018
+ok_CPFE3_2010
+ok_CPFE3_2011
+ok_CPFE3_2012
+ok_CPFE3_2013
+ok_CPFE3_2014
+ok_CPFE3_2015
+ok_CPFE3_2016
+ok_CPFE3_2017
+ok_CPFE3_2018
+ok_PEAB3_2010
+ok_PEAB3_2011
+ok_PEAB3_2012
+ok_PEAB3_2013
+ok_PEAB3_2014
+ok_PEAB3_2015
+ok_PEAB3_2016
+ok_PEAB3_2017
+ok_PEAB3_2018
+ok_PEAB4_2010
+ok_PEAB4_2011
+ok_PEAB4_2012
+ok_PEAB4_2013
+ok_PEAB4_2014
+ok_PEAB4_2015
+ok_PEAB4_2016
+ok_PEAB4_2017
+ok_PEAB4_2018
+ok_BRAP3_2010
+ok_BRAP3_2011
+ok_BRAP3_2012
+ok_BRAP3_2013
+ok_BRAP3_2014
+ok_BRAP3_2015
+ok_BRAP3_2016
+ok_BRAP3_2017
+ok_BRAP3_2018
+ok_BRAP4_2010
+ok_BRAP4_2011
+ok_BRAP4_2012
+ok_BRAP4_2013
+ok_BRAP4_2014
+ok_BRAP4_2015
+ok_BRAP4_2016
+ok_BRAP4_2017
+ok_BRAP4_2018
+ok_IVPR3B_2010
+ok_IVPR3B_2011
+ok_IVPR3B_2012
+ok_IVPR3B_2013
+ok_IVPR3B_2014
+ok_IVPR3B_2015
+ok_IVPR3B_2016
+ok_IVPR3B_2017
+ok_IVPR3B_2018
+ok_IVPR4B_2010
+ok_IVPR4B_2011
+ok_IVPR4B_2012
+ok_IVPR4B_2013
+ok_IVPR4B_2014
+ok_IVPR4B_2015
+ok_IVPR4B_2016
+ok_IVPR4B_2017
+ok_IVPR4B_2018
+ok_CCRO3_2010
+ok_CCRO3_2011
+ok_CCRO3_2012
+ok_CCRO3_2013
+ok_CCRO3_2014
+ok_CCRO3_2015
+ok_CCRO3_2016
+ok_CCRO3_2017
+ok_CCRO3_2018
+ok_TIET11_2010
+ok_TIET11_2011
+ok_TIET11_2012
+ok_TIET11_2013
+ok_TIET11_2014
+ok_TIET11_2015
+ok_TIET11_2016
+ok_TIET11_2017
+ok_TIET11_2018
+ok_TIET3_2010
+ok_TIET3_2011
+ok_TIET3_2012
+ok_TIET3_2013
+ok_TIET3_2014
+ok_TIET3_2015
+ok_TIET3_2016
+ok_TIET3_2017
+ok_TIET3_2018
+ok_TIET4_2010
+ok_TIET4_2011
+ok_TIET4_2012
+ok_TIET4_2013
+ok_TIET4_2014
+ok_TIET4_2015
+ok_TIET4_2016
+ok_TIET4_2017
+ok_TIET4_2018
+ok_CANT3B_2010
+ok_CANT3B_2011
+ok_CANT3B_2012
+ok_CANT3B_2013
+ok_CANT3B_2014
+ok_CANT3B_2015
+ok_CANT3B_2016
+ok_CANT3B_2017
+ok_CANT3B_2018
+ok_CANT4B_2010
+ok_CANT4B_2011
+ok_CANT4B_2012
+ok_CANT4B_2013
+ok_CANT4B_2014
+ok_CANT4B_2015
+ok_CANT4B_2016
+ok_CANT4B_2017
+ok_CANT4B_2018
+ok_LIQO3_2010
+ok_LIQO3_2011
+ok_LIQO3_2012
+ok_LIQO3_2013
+ok_LIQO3_2014
+ok_LIQO3_2015
+ok_LIQO3_2016
+ok_LIQO3_2017
+ok_LIQO3_2018
+ok_BIOM3_2010
+ok_BIOM3_2011
+ok_BIOM3_2012
+ok_BIOM3_2013
+ok_BIOM3_2014
+ok_BIOM3_2015
+ok_BIOM3_2016
+ok_BIOM3_2017
+ok_BIOM3_2018
+ok_TPIS3_2010
+ok_TPIS3_2011
+ok_TPIS3_2012
+ok_TPIS3_2013
+ok_TPIS3_2014
+ok_TPIS3_2015
+ok_TPIS3_2016
+ok_TPIS3_2017
+ok_ITUB3_2010
+ok_ITUB3_2012
+ok_ITUB3_2013
+ok_ITUB3_2014
+ok_ITUB3_2015
+ok_ITUB3_2016
+ok_ITUB3_2017
+ok_ITUB3_2018
+ok_ITUB4_2010
+ok_ITUB4_2012
+ok_ITUB4_2013
+ok_ITUB4_2014
+ok_ITUB4_2015
+ok_ITUB4_2016
+ok_ITUB4_2017
+ok_ITUB4_2018
+ok_CSMG3_2010
+ok_CSMG3_2011
+ok_CSMG3_2012
+ok_CSMG3_2013
+ok_CSMG3_2014
+ok_CSMG3_2015
+ok_CSMG3_2016
+ok_CSMG3_2017
+ok_CSMG3_2018
+ok_ECOR3_2010
+ok_ECOR3_2011
+ok_ECOR3_2012
+ok_ECOR3_2013
+ok_ECOR3_2014
+ok_ECOR3_2015
+ok_ECOR3_2016
+ok_ECOR3_2017
+ok_ECOR3_2018
+ok_NATU3_2010
+ok_NATU3_2011
+ok_NATU3_2012
+ok_NATU3_2013
+ok_NATU3_2014
+ok_NATU3_2015
+ok_NATU3_2016
+ok_NATU3_2017
+ok_NATU3_2018
+ok_GOLL4_2010
+ok_GOLL4_2011
+ok_GOLL4_2012
+ok_GOLL4_2013
+ok_GOLL4_2014
+ok_GOLL4_2015
+ok_GOLL4_2016
+ok_GOLL4_2017
+ok_GOLL4_2018
+ok_GOLL12_2010
+ok_GOLL12_2011
+ok_GOLL12_2012
+ok_GOLL12_2013
+ok_GOLL12_2014
+ok_GOLL12_2015
+ok_GOLL12_2016
+ok_GOLL12_2017
+ok_GOLL12_2018
+ok_GRND3_2010
+ok_GRND3_2011
+ok_GRND3_2012
+ok_GRND3_2013
+ok_GRND3_2014
+ok_GRND3_2015
+ok_GRND3_2016
+ok_GRND3_2017
+ok_GRND3_2018
+ok_DASA3_2010
+ok_DASA3_2011
+ok_DASA3_2012
+ok_DASA3_2013
+ok_DASA3_2014
+ok_DASA3_2015
+ok_DASA3_2016
+ok_DASA3_2017
+ok_DASA3_2018
+ok_FRTA3_2010
+ok_FRTA3_2011
+ok_FRTA3_2012
+ok_FRTA3_2013
+ok_FRTA3_2014
+ok_FRTA3_2015
+ok_FRTA3_2016
+ok_FRTA3_2017
+ok_FRTA3_2018
+ok_RENT3_2010
+ok_RENT3_2011
+ok_RENT3_2012
+ok_RENT3_2013
+ok_RENT3_2014
+ok_RENT3_2015
+ok_RENT3_2016
+ok_RENT3_2017
+ok_RENT3_2018
+ok_ENBR3_2010
+ok_ENBR3_2011
+ok_ENBR3_2012
+ok_ENBR3_2013
+ok_ENBR3_2014
+ok_ENBR3_2015
+ok_ENBR3_2016
+ok_ENBR3_2017
+ok_ENBR3_2018
+ok_RBCS-CRI2PB0_2010
+ok_RBCS-CRI2QB0_2010
+ok_RBCS-CRI2RB0_2010
+ok_RBCS-CRI73B0_2010
+ok_RBCS-CRI84B0_2010
+ok_RBCS-CRI85B0_2010
+ok_RBCS-CRI86B0_2010
+ok_LIGT3_2010
+ok_LIGT3_2011
+ok_LIGT3_2012
+ok_LIGT3_2013
+ok_LIGT3_2014
+ok_LIGT3_2015
+ok_LIGT3_2017
+ok_LIGT3_2018
+ok_BRML3_2010
+ok_BRML3_2011
+ok_BRML3_2012
+ok_BRML3_2013
+ok_BRML3_2014
+ok_BRML3_2015
+ok_BRML3_2016
+ok_BRML3_2017
+ok_BRML3_2018
+ok_BRPR3_2010
+ok_BRPR3_2011
+ok_BRPR3_2012
+ok_BRPR3_2013
+ok_BRPR3_2014
+ok_BRPR3_2015
+ok_BRPR3_2016
+ok_BRPR3_2017
+ok_BRPR3_2018
+ok_TOTS3_2010
+ok_TOTS3_2011
+ok_TOTS3_2012
+ok_TOTS3_2013
+ok_TOTS3_2014
+ok_TOTS3_2015
+ok_TOTS3_2016
+ok_TOTS3_2017
+ok_TOTS3_2018
+ok_EQTL3_2010
+ok_EQTL3_2011
+ok_EQTL3_2012
+ok_EQTL3_2013
+ok_EQTL3_2014
+ok_EQTL3_2015
+ok_EQTL3_2016
+ok_EQTL3_2017
+ok_EQTL3_2018
+ok_VLID3_2010
+ok_VLID3_2011
+ok_VLID3_2012
+ok_VLID3_2013
+ok_VLID3_2014
+ok_VLID3_2015
+ok_VLID3_2016
+ok_VLID3_2017
+ok_VLID3_2018
+ok_LUPA3_2010
+ok_LUPA3_2011
+ok_LUPA3_2012
+ok_LUPA3_2013
+ok_LUPA3_2014
+ok_LUPA3_2015
+ok_LUPA3_2016
+ok_LUPA3_2017
+ok_LUPA3_2018
+ok_LUPA11_2010
+ok_LUPA11_2011
+ok_LUPA11_2012
+ok_LUPA11_2013
+ok_LUPA11_2014
+ok_LUPA11_2015
+ok_LUPA11_2016
+ok_LUPA11_2017
+ok_LUPA11_2018
+ok_EMBR3_2010
+ok_EMBR3_2011
+ok_EMBR3_2012
+ok_EMBR3_2013
+ok_EMBR3_2014
+ok_EMBR3_2015
+ok_EMBR3_2016
+ok_EMBR3_2017
+ok_EMBR3_2018
+ok_ODPV3_2010
+ok_ODPV3_2011
+ok_ODPV3_2012
+ok_ODPV3_2013
+ok_ODPV3_2014
+ok_ODPV3_2015
+ok_ODPV3_2016
+ok_ODPV3_2017
+ok_ODPV3_2018
+ok_TAEE11_2010
+ok_TAEE11_2011
+ok_TAEE11_2012
+ok_TAEE11_2013
+ok_TAEE11_2014
+ok_TAEE11_2015
+ok_TAEE11_2016
+ok_TAEE11_2017
+ok_TAEE11_2018
+ok_TAEE3_2010
+ok_TAEE3_2011
+ok_TAEE3_2012
+ok_TAEE3_2013
+ok_TAEE3_2014
+ok_TAEE3_2015
+ok_TAEE3_2016
+ok_TAEE3_2017
+ok_TAEE3_2018
+ok_TAEE4_2010
+ok_TAEE4_2011
+ok_TAEE4_2012
+ok_TAEE4_2013
+ok_TAEE4_2014
+ok_TAEE4_2015
+ok_TAEE4_2016
+ok_TAEE4_2017
+ok_TAEE4_2018
+ok_MDIA3_2010
+ok_MDIA3_2011
+ok_MDIA3_2012
+ok_MDIA3_2013
+ok_MDIA3_2014
+ok_MDIA3_2015
+ok_MDIA3_2016
+ok_MDIA3_2017
+ok_MDIA3_2018
+ok_PFRM3_2010
+ok_PFRM3_2011
+ok_PFRM3_2012
+ok_PFRM3_2013
+ok_PFRM3_2014
+ok_PFRM3_2015
+ok_PFRM3_2016
+ok_PFRM3_2017
+ok_PFRM3_2018
+ok_TESA3_2010
+ok_TESA3_2011
+ok_TESA3_2012
+ok_TESA3_2013
+ok_TESA3_2014
+ok_TESA3_2015
+ok_TESA3_2016
+ok_TESA3_2017
+ok_TESA3_2018
+ok_TESA1_2010
+ok_TESA1_2011
+ok_TESA1_2012
+ok_TESA1_2013
+ok_TESA1_2014
+ok_TESA1_2015
+ok_TESA1_2016
+ok_TESA1_2017
+ok_TESA1_2018
+ok_POSI3_2010
+ok_POSI3_2011
+ok_POSI3_2012
+ok_POSI3_2013
+ok_POSI3_2014
+ok_POSI3_2015
+ok_POSI3_2016
+ok_POSI3_2017
+ok_POSI3_2018
+ok_LPSB3_2010
+ok_LPSB3_2011
+ok_LPSB3_2012
+ok_LPSB3_2013
+ok_LPSB3_2014
+ok_LPSB3_2015
+ok_LPSB3_2016
+ok_LPSB3_2017
+ok_LPSB3_2018
+ok_TCSA3_2010
+ok_TCSA3_2011
+ok_TCSA3_2012
+ok_TCSA3_2013
+ok_TCSA3_2014
+ok_TCSA3_2015
+ok_TCSA3_2016
+ok_TCSA3_2017
+ok_TCSA3_2018
+ok_RDNI3_2010
+ok_RDNI3_2011
+ok_RDNI3_2012
+ok_RDNI3_2013
+ok_RDNI3_2014
+ok_RDNI3_2015
+ok_RDNI3_2016
+ok_RDNI3_2017
+ok_RDNI3_2018
+ok_PDGR3_2010
+ok_PDGR3_2011
+ok_PDGR3_2012
+ok_PDGR3_2013
+ok_PDGR3_2014
+ok_PDGR3_2015
+ok_PDGR3_2016
+ok_PDGR3_2017
+ok_PDGR3_2018
+ok_IGTA3_2010
+ok_IGTA3_2011
+ok_IGTA3_2012
+ok_IGTA3_2013
+ok_IGTA3_2014
+ok_IGTA3_2015
+ok_IGTA3_2016
+ok_IGTA3_2017
+ok_IGTA3_2018
+ok_EVEN3_2010
+ok_EVEN3_2011
+ok_EVEN3_2012
+ok_EVEN3_2013
+ok_EVEN3_2014
+ok_EVEN3_2015
+ok_EVEN3_2016
+ok_EVEN3_2017
+ok_EVEN3_2018
+ok_SANB11_2010
+ok_SANB11_2011
+ok_SANB11_2012
+ok_SANB11_2013
+ok_SANB11_2014
+ok_SANB11_2015
+ok_SANB11_2016
+ok_SANB11_2017
+ok_SANB11_2018
+ok_SANB3_2010
+ok_SANB3_2011
+ok_SANB3_2012
+ok_SANB3_2013
+ok_SANB3_2014
+ok_SANB3_2015
+ok_SANB3_2016
+ok_SANB3_2017
+ok_SANB3_2018
+ok_SANB4_2010
+ok_SANB4_2011
+ok_SANB4_2012
+ok_SANB4_2013
+ok_SANB4_2014
+ok_SANB4_2015
+ok_SANB4_2016
+ok_SANB4_2017
+ok_SANB4_2018
+ok_CPRE3_2010
+ok_CPRE3_2011
+ok_CPRE3_2012
+ok_CPRE3_2013
+ok_CPRE3_2014
+ok_CPRE3_2015
+ok_CPRE3_2016
+ok_CPRE3_2017
+ok_CPRE3_2018
+ok_PINE3_2010
+ok_PINE3_2011
+ok_PINE3_2012
+ok_PINE3_2013
+ok_PINE3_2014
+ok_PINE3_2015
+ok_PINE3_2016
+ok_PINE3_2017
+ok_PINE3_2018
+ok_PINE4_2010
+ok_PINE4_2011
+ok_PINE4_2012
+ok_PINE4_2013
+ok_PINE4_2014
+ok_PINE4_2015
+ok_PINE4_2016
+ok_PINE4_2017
+ok_PINE4_2018
+ok_JBSS3_2010
+ok_JBSS3_2011
+ok_JBSS3_2012
+ok_JBSS3_2013
+ok_JBSS3_2014
+ok_JBSS3_2015
+ok_JBSS3_2016
+ok_JBSS3_2017
+ok_JBSS3_2018
+ok_JHSF3_2010
+ok_JHSF3_2011
+ok_JHSF3_2012
+ok_JHSF3_2013
+ok_JHSF3_2014
+ok_JHSF3_2015
+ok_JHSF3_2016
+ok_JHSF3_2017
+ok_JHSF3_2018
+ok_FRIO3_2010
+ok_FRIO3_2011
+ok_FRIO3_2012
+ok_FRIO3_2013
+ok_FRIO3_2014
+ok_FRIO3_2015
+ok_FRIO3_2016
+ok_FRIO3_2017
+ok_FRIO3_2018
+ok_FHER3_2010
+ok_FHER3_2011
+ok_FHER3_2012
+ok_CRDE3_2010
+ok_CRDE3_2011
+ok_CRDE3_2012
+ok_CRDE3_2013
+ok_CRDE3_2014
+ok_CRDE3_2015
+ok_CRDE3_2016
+ok_CRDE3_2017
+ok_CRDE3_2018
+ok_VIVR3_2010
+ok_VIVR3_2011
+ok_VIVR3_2012
+ok_VIVR3_2013
+ok_VIVR3_2014
+ok_VIVR3_2015
+ok_VIVR3_2016
+ok_VIVR3_2017
+ok_VIVR3_2018
+ok_LOGN3_2010
+ok_LOGN3_2011
+ok_LOGN3_2012
+ok_LOGN3_2013
+ok_LOGN3_2014
+ok_LOGN3_2015
+ok_LOGN3_2016
+ok_LOGN3_2017
+ok_LOGN3_2018
+ok_LOGN12_2010
+ok_LOGN12_2011
+ok_LOGN12_2012
+ok_LOGN12_2013
+ok_LOGN12_2014
+ok_LOGN12_2015
+ok_LOGN12_2016
+ok_LOGN12_2017
+ok_LOGN12_2018
+ok_SLCE3_2010
+ok_SLCE3_2011
+ok_SLCE3_2012
+ok_SLCE3_2013
+ok_SLCE3_2014
+ok_SLCE3_2015
+ok_SLCE3_2016
+ok_SLCE3_2017
+ok_SLCE3_2018
+ok_EZTC3_2010
+ok_EZTC3_2011
+ok_EZTC3_2012
+ok_EZTC3_2013
+ok_EZTC3_2014
+ok_EZTC3_2015
+ok_EZTC3_2016
+ok_EZTC3_2017
+ok_EZTC3_2018
+ok_MRFG3_2010
+ok_MRFG3_2011
+ok_MRFG3_2012
+ok_MRFG3_2013
+ok_MRFG3_2014
+ok_MRFG3_2015
+ok_MRFG3_2016
+ok_MRFG3_2017
+ok_MRFG3_2018
+ok_TGMA3_2010
+ok_TGMA3_2011
+ok_TGMA3_2012
+ok_TGMA3_2013
+ok_TGMA3_2014
+ok_TGMA3_2015
+ok_TGMA3_2016
+ok_TGMA3_2017
+ok_TGMA3_2018
+ok_HBOR3_2010
+ok_HBOR3_2011
+ok_HBOR3_2012
+ok_HBOR3_2013
+ok_HBOR3_2014
+ok_HBOR3_2015
+ok_HBOR3_2016
+ok_HBOR3_2017
+ok_HBOR3_2018
+ok_IDVL3_2010
+ok_IDVL3_2011
+ok_IDVL3_2012
+ok_IDVL3_2013
+ok_IDVL3_2014
+ok_IDVL3_2015
+ok_IDVL3_2016
+ok_IDVL3_2017
+ok_IDVL3_2018
+ok_IDVL4_2010
+ok_IDVL4_2011
+ok_IDVL4_2012
+ok_IDVL4_2013
+ok_IDVL4_2014
+ok_IDVL4_2015
+ok_IDVL4_2016
+ok_IDVL4_2017
+ok_IDVL4_2018
+ok_MRVE3_2010
+ok_MRVE3_2011
+ok_MRVE3_2012
+ok_MRVE3_2013
+ok_MRVE3_2014
+ok_MRVE3_2015
+ok_MRVE3_2016
+ok_MRVE3_2017
+ok_MRVE3_2018
+ok_BEEF3_2010
+ok_BEEF3_2011
+ok_BEEF3_2012
+ok_BEEF3_2013
+ok_BEEF3_2014
+ok_BEEF3_2015
+ok_BEEF3_2016
+ok_BEEF3_2017
+ok_BEEF3_2018
+ok_BEEF11_2010
+ok_BEEF11_2011
+ok_BEEF11_2012
+ok_BEEF11_2013
+ok_BEEF11_2014
+ok_BEEF11_2015
+ok_BEEF11_2016
+ok_BEEF11_2017
+ok_BEEF11_2018
+ok_ABCB4_2010
+ok_ABCB4_2011
+ok_ABCB4_2012
+ok_ABCB4_2013
+ok_ABCB4_2014
+ok_ABCB4_2015
+ok_ABCB4_2016
+ok_ABCB4_2017
+ok_ABCB4_2018
+ok_SGPS3_2010
+ok_SGPS3_2011
+ok_SGPS3_2012
+ok_SGPS3_2013
+ok_SGPS3_2014
+ok_SGPS3_2015
+ok_SGPS3_2016
+ok_SGPS3_2017
+ok_SGPS3_2018
+ok_MULT3_2010
+ok_MULT3_2011
+ok_MULT3_2012
+ok_MULT3_2013
+ok_MULT3_2014
+ok_MULT3_2015
+ok_MULT3_2016
+ok_MULT3_2017
+ok_MULT3_2018
+ok_BTOW3_2010
+ok_BTOW3_2011
+ok_BTOW3_2012
+ok_BTOW3_2013
+ok_BTOW3_2014
+ok_BTOW3_2015
+ok_BTOW3_2016
+ok_BTOW3_2017
+ok_BTOW3_2018
+ok_GSHP3_2010
+ok_GSHP3_2011
+ok_GSHP3_2012
+ok_GSHP3_2013
+ok_GSHP3_2015
+ok_GSHP3_2016
+ok_GSHP3_2017
+ok_GSHP3_2018
+ok_CAMB3_2010
+ok_CAMB3_2011
+ok_CAMB3_2012
+ok_CAMB3_2013
+ok_CAMB3_2014
+ok_CAMB3_2015
+ok_CAMB3_2016
+ok_CAMB3_2017
+ok_CAMB3_2018
+ok_CAMB4_2010
+ok_CAMB4_2011
+ok_CAMB4_2012
+ok_CAMB4_2013
+ok_CAMB4_2014
+ok_CAMB4_2015
+ok_CAMB4_2016
+ok_CAMB4_2017
+ok_CAMB4_2018
+ok_CAMB10_2010
+ok_CAMB10_2011
+ok_CAMB10_2012
+ok_CAMB10_2013
+ok_CAMB10_2014
+ok_CAMB10_2015
+ok_CAMB10_2016
+ok_CAMB10_2017
+ok_CAMB10_2018
+ok_ESTC3_2010
+ok_ESTC3_2011
+ok_ESTC3_2012
+ok_ESTC3_2013
+ok_ESTC3_2014
+ok_ESTC3_2015
+ok_ESTC3_2016
+ok_ESTC3_2017
+ok_ESTC3_2018
+ok_CCPR3_2010
+ok_CCPR3_2011
+ok_CCPR3_2012
+ok_CCPR3_2013
+ok_CCPR3_2014
+ok_CCPR3_2015
+ok_CCPR3_2016
+ok_CCPR3_2017
+ok_CCPR3_2018
+ok_DTEX3_2010
+ok_DTEX3_2011
+ok_DTEX3_2012
+ok_DTEX3_2013
+ok_DTEX3_2014
+ok_DTEX3_2015
+ok_DTEX3_2016
+ok_DTEX3_2017
+ok_DTEX3_2018
+ok_SULA11_2010
+ok_SULA11_2011
+ok_SULA11_2012
+ok_SULA11_2013
+ok_SULA11_2014
+ok_SULA11_2015
+ok_SULA11_2016
+ok_SULA11_2017
+ok_SULA11_2018
+ok_SULA3_2010
+ok_SULA3_2011
+ok_SULA3_2012
+ok_SULA3_2013
+ok_SULA3_2014
+ok_SULA3_2015
+ok_SULA3_2016
+ok_SULA3_2017
+ok_SULA3_2018
+ok_SULA4_2010
+ok_SULA4_2011
+ok_SULA4_2012
+ok_SULA4_2013
+ok_SULA4_2014
+ok_SULA4_2015
+ok_SULA4_2016
+ok_SULA4_2017
+ok_SULA4_2018
+ok_TRIS3_2010
+ok_TRIS3_2011
+ok_TRIS3_2012
+ok_TRIS3_2013
+ok_TRIS3_2014
+ok_TRIS3_2015
+ok_TRIS3_2016
+ok_TRIS3_2017
+ok_TRIS3_2018
+ok_TEND3_2010
+ok_TEND3_2011
+ok_TEND3_2012
+ok_TEND3_2013
+ok_TEND3_2014
+ok_TEND3_2015
+ok_TEND3_2016
+ok_TEND3_2017
+ok_TEND3_2018
+ok_BBRK3_2010
+ok_BBRK3_2011
+ok_BBRK3_2012
+ok_BBRK3_2013
+ok_BBRK3_2014
+ok_BBRK3_2015
+ok_BBRK3_2016
+ok_BBRK3_2017
+ok_BBRK3_2018
+ok_BPAN4_2010
+ok_BPAN4_2011
+ok_BPAN4_2012
+ok_BPAN4_2013
+ok_BPAN4_2014
+ok_BPAN4_2015
+ok_BPAN4_2016
+ok_BPAN4_2017
+ok_BPAN4_2018
+ok_ENEV3_2010
+ok_ENEV3_2011
+ok_ENEV3_2012
+ok_ENEV3_2013
+ok_ENEV3_2014
+ok_ENEV3_2015
+ok_ENEV3_2016
+ok_ENEV3_2017
+ok_ENEV3_2018
+ok_ALSC3_2010
+ok_ALSC3_2011
+ok_ALSC3_2012
+ok_ALSC3_2013
+ok_ALSC3_2014
+ok_ALSC3_2015
+ok_ALSC3_2016
+ok_ALSC3_2017
+ok_ALSC3_2018
+ok_OSXB3_2010
+ok_OSXB3_2011
+ok_OSXB3_2012
+ok_OSXB3_2013
+ok_OSXB3_2014
+ok_OSXB3_2015
+ok_OSXB3_2016
+ok_OSXB3_2017
+ok_OSXB3_2018
+ok_DIRR3_2010
+ok_DIRR3_2011
+ok_DIRR3_2012
+ok_DIRR3_2013
+ok_DIRR3_2014
+ok_DIRR3_2015
+ok_DIRR3_2016
+ok_DIRR3_2017
+ok_DIRR3_2018
+ok_GPAR3_2010
+ok_GPAR3_2011
+ok_GPAR3_2012
+ok_GPAR3_2013
+ok_GPAR3_2014
+ok_GPAR3_2015
+ok_GPAR3_2016
+ok_GPAR3_2017
+ok_GPAR3_2018
+ok_HYPE3_2010
+ok_HYPE3_2011
+ok_HYPE3_2012
+ok_HYPE3_2013
+ok_HYPE3_2014
+ok_HYPE3_2015
+ok_HYPE3_2016
+ok_HYPE3_2017
+ok_HYPE3_2018
+ok_LLIS3_2010
+ok_LLIS3_2014
+ok_LLIS3_2015
+ok_LLIS3_2016
+ok_LLIS3_2017
+ok_LLIS3_2018
+ok_B3SA3_2010
+ok_B3SA3_2011
+ok_B3SA3_2012
+ok_B3SA3_2013
+ok_B3SA3_2014
+ok_B3SA3_2015
+ok_B3SA3_2016
+ok_B3SA3_2017
+ok_B3SA3_2018
+ok_RNEW11_2010
+ok_RNEW11_2011
+ok_RNEW11_2012
+ok_RNEW11_2013
+ok_RNEW11_2014
+ok_RNEW11_2015
+ok_RNEW11_2016
+ok_RNEW11_2017
+ok_RNEW11_2018
+ok_RNEW3_2010
+ok_RNEW3_2011
+ok_RNEW3_2012
+ok_RNEW3_2013
+ok_RNEW3_2014
+ok_RNEW3_2015
+ok_RNEW3_2016
+ok_RNEW3_2017
+ok_RNEW3_2018
+ok_RNEW4_2010
+ok_RNEW4_2011
+ok_RNEW4_2012
+ok_RNEW4_2013
+ok_RNEW4_2014
+ok_RNEW4_2015
+ok_RNEW4_2016
+ok_RNEW4_2017
+ok_RNEW4_2018
+ok_TRPN3_2010
+ok_TRPN3_2011
+ok_TRPN3_2012
+ok_TRPN3_2013
+ok_TRPN3_2014
+ok_TRPN3_2015
+ok_TRPN3_2016
+ok_TRPN3_2017
+ok_TRPN3_2018
+ok_CIEL3_2010
+ok_CIEL3_2011
+ok_CIEL3_2012
+ok_CIEL3_2013
+ok_CIEL3_2014
+ok_CIEL3_2015
+ok_CIEL3_2016
+ok_CIEL3_2017
+ok_CIEL3_2018
+ok_FLRY3_2010
+ok_FLRY3_2011
+ok_FLRY3_2012
+ok_FLRY3_2013
+ok_FLRY3_2014
+ok_FLRY3_2015
+ok_FLRY3_2016
+ok_FLRY3_2017
+ok_FLRY3_2018
+ok_JSLG3_2010
+ok_JSLG3_2011
+ok_JSLG3_2012
+ok_JSLG3_2013
+ok_JSLG3_2014
+ok_JSLG3_2015
+ok_JSLG3_2016
+ok_JSLG3_2017
+ok_JSLG3_2018
+ok_AMAR3_2010
+ok_AMAR3_2011
+ok_AMAR3_2012
+ok_AMAR3_2013
+ok_AMAR3_2014
+ok_AMAR3_2015
+ok_AMAR3_2016
+ok_AMAR3_2017
+ok_AMAR3_2018
+ok_PRIO3_2010
+ok_PRIO3_2011
+ok_PRIO3_2012
+ok_PRIO3_2013
+ok_PRIO3_2014
+ok_PRIO3_2015
+ok_PRIO3_2016
+ok_PRIO3_2017
+ok_PRIO3_2018
+ok_APER3_2010
+ok_APER3_2011
+ok_APER3_2012
+ok_APER3_2013
+ok_APER3_2014
+ok_APER3_2015
+ok_APER3_2016
+ok_APER3_2017
+ok_APER3_2018
+ok_RANI3_2010
+ok_RANI3_2011
+ok_RANI3_2012
+ok_RANI3_2013
+ok_RANI3_2014
+ok_RANI3_2015
+ok_RANI3_2016
+ok_RANI3_2017
+ok_RANI3_2018
+ok_RANI4_2010
+ok_RANI4_2011
+ok_RANI4_2012
+ok_RANI4_2013
+ok_RANI4_2014
+ok_RANI4_2015
+ok_RANI4_2016
+ok_RANI4_2017
+ok_RANI4_2018
+ok_ELET3_2010
+ok_ELET3_2011
+ok_ELET3_2012
+ok_ELET3_2013
+ok_ELET3_2014
+ok_ELET3_2015
+ok_ELET3_2016
+ok_ELET3_2017
+ok_ELET3_2018
+ok_ELET5_2010
+ok_ELET5_2011
+ok_ELET5_2012
+ok_ELET5_2013
+ok_ELET5_2014
+ok_ELET5_2015
+ok_ELET5_2016
+ok_ELET5_2017
+ok_ELET5_2018
+ok_ELET6_2010
+ok_ELET6_2011
+ok_ELET6_2012
+ok_ELET6_2013
+ok_ELET6_2014
+ok_ELET6_2015
+ok_ELET6_2016
+ok_ELET6_2017
+ok_ELET6_2018
+ok_CMIG3_2010
+ok_CMIG3_2011
+ok_CMIG3_2012
+ok_CMIG3_2013
+ok_CMIG3_2014
+ok_CMIG3_2015
+ok_CMIG3_2016
+ok_CMIG3_2017
+ok_CMIG3_2018
+ok_CMIG4_2010
+ok_CMIG4_2011
+ok_CMIG4_2012
+ok_CMIG4_2013
+ok_CMIG4_2014
+ok_CMIG4_2015
+ok_CMIG4_2016
+ok_CMIG4_2017
+ok_CMIG4_2018
+ok_CLSC3_2010
+ok_CLSC3_2011
+ok_CLSC3_2012
+ok_CLSC3_2013
+ok_CLSC3_2014
+ok_CLSC3_2015
+ok_CLSC3_2016
+ok_CLSC3_2017
+ok_CLSC3_2018
+ok_CLSC4_2010
+ok_CLSC4_2011
+ok_CLSC4_2012
+ok_CLSC4_2013
+ok_CLSC4_2014
+ok_CLSC4_2015
+ok_CLSC4_2016
+ok_CLSC4_2017
+ok_CLSC4_2018
+ok_FESA3_2010
+ok_FESA3_2011
+ok_FESA3_2012
+ok_FESA3_2013
+ok_FESA3_2014
+ok_FESA3_2015
+ok_FESA3_2016
+ok_FESA3_2017
+ok_FESA3_2018
+ok_FESA4_2010
+ok_FESA4_2011
+ok_FESA4_2012
+ok_FESA4_2013
+ok_FESA4_2014
+ok_FESA4_2015
+ok_FESA4_2016
+ok_FESA4_2017
+ok_FESA4_2018
+ok_CEDO3_2010
+ok_CEDO3_2011
+ok_CEDO3_2012
+ok_CEDO3_2013
+ok_CEDO3_2014
+ok_CEDO3_2015
+ok_CEDO3_2016
+ok_CEDO3_2017
+ok_CEDO3_2018
+ok_CEDO4_2010
+ok_CEDO4_2011
+ok_CEDO4_2012
+ok_CEDO4_2013
+ok_CEDO4_2014
+ok_CEDO4_2015
+ok_CEDO4_2016
+ok_CEDO4_2017
+ok_CEDO4_2018
+ok_CSAB3_2010
+ok_CSAB3_2011
+ok_CSAB3_2012
+ok_CSAB3_2013
+ok_CSAB3_2014
+ok_CSAB3_2015
+ok_CSAB3_2016
+ok_CSAB3_2017
+ok_CSAB3_2018
+ok_CSAB4_2010
+ok_CSAB4_2011
+ok_CSAB4_2012
+ok_CSAB4_2013
+ok_CSAB4_2014
+ok_CSAB4_2015
+ok_CSAB4_2016
+ok_CSAB4_2017
+ok_CSAB4_2018
+ok_CTNM3_2010
+ok_CTNM3_2011
+ok_CTNM3_2012
+ok_CTNM3_2013
+ok_CTNM3_2014
+ok_CTNM3_2015
+ok_CTNM3_2016
+ok_CTNM3_2017
+ok_CTNM3_2018
+ok_CTNM4_2010
+ok_CTNM4_2011
+ok_CTNM4_2012
+ok_CTNM4_2013
+ok_CTNM4_2014
+ok_CTNM4_2015
+ok_CTNM4_2016
+ok_CTNM4_2017
+ok_CTNM4_2018
+ok_REDE3_2010
+ok_REDE3_2011
+ok_REDE3_2012
+ok_REDE3_2013
+ok_REDE3_2014
+ok_REDE3_2015
+ok_REDE3_2016
+ok_REDE3_2017
+ok_REDE3_2018
+ok_HBTS3_2010
+ok_HBTS3_2011
+ok_HBTS3_2012
+ok_HBTS3_2013
+ok_HBTS3_2014
+ok_HBTS3_2015
+ok_HBTS3_2016
+ok_HBTS3_2017
+ok_HBTS3_2018
+ok_HBTS5_2010
+ok_HBTS5_2011
+ok_HBTS5_2012
+ok_HBTS5_2013
+ok_HBTS5_2014
+ok_HBTS5_2015
+ok_HBTS5_2016
+ok_HBTS5_2017
+ok_HBTS5_2018
+ok_HBTS6_2010
+ok_HBTS6_2011
+ok_HBTS6_2012
+ok_HBTS6_2013
+ok_HBTS6_2014
+ok_HBTS6_2015
+ok_HBTS6_2016
+ok_HBTS6_2017
+ok_HBTS6_2018
+ok_CATA3_2010
+ok_CATA3_2011
+ok_CATA3_2012
+ok_CATA3_2013
+ok_CATA3_2014
+ok_CATA3_2015
+ok_CATA3_2016
+ok_CATA3_2017
+ok_CATA3_2018
+ok_CATA4_2010
+ok_CATA4_2011
+ok_CATA4_2012
+ok_CATA4_2013
+ok_CATA4_2014
+ok_CATA4_2015
+ok_CATA4_2016
+ok_CATA4_2017
+ok_CATA4_2018
+ok_MSPA3_2010
+ok_MSPA3_2011
+ok_MSPA3_2012
+ok_MSPA3_2013
+ok_MSPA3_2014
+ok_MSPA3_2015
+ok_MSPA3_2016
+ok_MSPA3_2017
+ok_MSPA3_2018
+ok_MSPA4_2010
+ok_MSPA4_2011
+ok_MSPA4_2012
+ok_MSPA4_2013
+ok_MSPA4_2014
+ok_MSPA4_2015
+ok_MSPA4_2016
+ok_MSPA4_2017
+ok_MSPA4_2018
+ok_GGBR3_2010
+ok_GGBR3_2011
+ok_GGBR3_2012
+ok_GGBR3_2013
+ok_GGBR3_2014
+ok_GGBR3_2015
+ok_GGBR3_2016
+ok_GGBR3_2017
+ok_GGBR3_2018
+ok_GGBR4_2010
+ok_GGBR4_2011
+ok_GGBR4_2012
+ok_GGBR4_2013
+ok_GGBR4_2014
+ok_GGBR4_2015
+ok_GGBR4_2016
+ok_GGBR4_2017
+ok_GGBR4_2018
+ok_CSNA3_2010
+ok_CSNA3_2011
+ok_CSNA3_2012
+ok_CSNA3_2013
+ok_CSNA3_2014
+ok_CSNA3_2015
+ok_CSNA3_2016
+ok_CSNA3_2017
+ok_CSNA3_2018
+ok_CTSA3_2010
+ok_CTSA3_2011
+ok_CTSA3_2012
+ok_CTSA3_2013
+ok_CTSA3_2014
+ok_CTSA3_2015
+ok_CTSA3_2016
+ok_CTSA3_2017
+ok_CTSA3_2018
+ok_CTSA4_2010
+ok_CTSA4_2011
+ok_CTSA4_2012
+ok_CTSA4_2013
+ok_CTSA4_2014
+ok_CTSA4_2015
+ok_CTSA4_2016
+ok_CTSA4_2017
+ok_CTSA4_2018
+ok_CTSA8_2010
+ok_CTSA8_2011
+ok_CTSA8_2012
+ok_CTSA8_2013
+ok_CTSA8_2014
+ok_CTSA8_2015
+ok_CTSA8_2016
+ok_CTSA8_2017
+ok_CTSA8_2018
+ok_CTKA3_2010
+ok_CTKA3_2011
+ok_CTKA3_2012
+ok_CTKA3_2013
+ok_CTKA3_2014
+ok_CTKA3_2015
+ok_CTKA3_2016
+ok_CTKA3_2017
+ok_CTKA3_2018
+ok_CTKA4_2010
+ok_CTKA4_2011
+ok_CTKA4_2012
+ok_CTKA4_2013
+ok_CTKA4_2014
+ok_CTKA4_2015
+ok_CTKA4_2016
+ok_CTKA4_2017
+ok_CTKA4_2018
+ok_VALE3_2010
+ok_VALE3_2011
+ok_VALE3_2012
+ok_VALE3_2013
+ok_VALE3_2014
+ok_VALE3_2015
+ok_VALE3_2016
+ok_VALE3_2017
+ok_VALE3_2018
+ok_ELEK3_2010
+ok_ELEK4_2010
+ok_CGRA3_2010
+ok_CGRA3_2011
+ok_CGRA3_2012
+ok_CGRA3_2013
+ok_CGRA3_2014
+ok_CGRA3_2015
+ok_CGRA3_2016
+ok_CGRA3_2017
+ok_CGRA3_2018
+ok_CGRA4_2010
+ok_CGRA4_2011
+ok_CGRA4_2012
+ok_CGRA4_2013
+ok_CGRA4_2014
+ok_CGRA4_2015
+ok_CGRA4_2016
+ok_CGRA4_2017
+ok_CGRA4_2018
+ok_GUAR3_2010
+ok_GUAR3_2011
+ok_GUAR3_2012
+ok_GUAR3_2013
+ok_GUAR3_2014
+ok_GUAR3_2015
+ok_GUAR3_2016
+ok_GUAR3_2017
+ok_GUAR3_2018
+ok_BRGE11_2010
+ok_BRGE11_2011
+ok_BRGE11_2012
+ok_BRGE11_2013
+ok_BRGE11_2014
+ok_BRGE11_2015
+ok_BRGE11_2016
+ok_BRGE11_2017
+ok_BRGE11_2018
+ok_BRGE12_2010
+ok_BRGE12_2011
+ok_BRGE12_2012
+ok_BRGE12_2013
+ok_BRGE12_2014
+ok_BRGE12_2015
+ok_BRGE12_2016
+ok_BRGE12_2017
+ok_BRGE12_2018
+ok_BRGE3_2010
+ok_BRGE3_2011
+ok_BRGE3_2012
+ok_BRGE3_2013
+ok_BRGE3_2014
+ok_BRGE3_2015
+ok_BRGE3_2016
+ok_BRGE3_2017
+ok_BRGE3_2018
+ok_BRGE5_2010
+ok_BRGE5_2011
+ok_BRGE5_2012
+ok_BRGE5_2013
+ok_BRGE5_2014
+ok_BRGE5_2015
+ok_BRGE5_2016
+ok_BRGE5_2017
+ok_BRGE5_2018
+ok_BRGE6_2010
+ok_BRGE6_2011
+ok_BRGE6_2012
+ok_BRGE6_2013
+ok_BRGE6_2014
+ok_BRGE6_2015
+ok_BRGE6_2016
+ok_BRGE6_2017
+ok_BRGE6_2018
+ok_BRGE7_2010
+ok_BRGE7_2011
+ok_BRGE7_2012
+ok_BRGE7_2013
+ok_BRGE7_2014
+ok_BRGE7_2015
+ok_BRGE7_2016
+ok_BRGE7_2017
+ok_BRGE7_2018
+ok_BRGE8_2010
+ok_BRGE8_2011
+ok_BRGE8_2012
+ok_BRGE8_2013
+ok_BRGE8_2014
+ok_BRGE8_2015
+ok_BRGE8_2016
+ok_BRGE8_2017
+ok_BRGE8_2018
+ok_CALI3_2010
+ok_CALI3_2011
+ok_CALI3_2012
+ok_CALI3_2013
+ok_CALI3_2014
+ok_CALI3_2015
+ok_CALI3_2016
+ok_CALI3_2017
+ok_CALI3_2018
+ok_CALI4_2010
+ok_CALI4_2011
+ok_CALI4_2012
+ok_CALI4_2013
+ok_CALI4_2014
+ok_CALI4_2015
+ok_CALI4_2016
+ok_CALI4_2017
+ok_CALI4_2018
+ok_BRKM3_2010
+ok_BRKM3_2011
+ok_BRKM3_2012
+ok_BRKM3_2013
+ok_BRKM3_2014
+ok_BRKM3_2015
+ok_BRKM3_2016
+ok_BRKM3_2017
+ok_BRKM3_2018
+ok_BRKM5_2010
+ok_BRKM5_2011
+ok_BRKM5_2012
+ok_BRKM5_2013
+ok_BRKM5_2014
+ok_BRKM5_2015
+ok_BRKM5_2016
+ok_BRKM5_2017
+ok_BRKM5_2018
+ok_BRKM6_2010
+ok_BRKM6_2011
+ok_BRKM6_2012
+ok_BRKM6_2013
+ok_BRKM6_2014
+ok_BRKM6_2015
+ok_BRKM6_2016
+ok_BRKM6_2017
+ok_BRKM6_2018
+ok_CORR3_2010
+ok_CORR3_2011
+ok_CORR3_2012
+ok_CORR3_2013
+ok_CORR3_2014
+ok_CORR3_2015
+ok_CORR3_2016
+ok_CORR3_2017
+ok_CORR3_2018
+ok_CORR4_2010
+ok_CORR4_2011
+ok_CORR4_2012
+ok_CORR4_2013
+ok_CORR4_2014
+ok_CORR4_2015
+ok_CORR4_2016
+ok_CORR4_2017
+ok_CORR4_2018
+ok_DOHL3_2010
+ok_DOHL3_2011
+ok_DOHL3_2012
+ok_DOHL3_2013
+ok_DOHL3_2014
+ok_DOHL3_2015
+ok_DOHL3_2016
+ok_DOHL3_2017
+ok_DOHL3_2018
+ok_DOHL4_2010
+ok_DOHL4_2011
+ok_DOHL4_2012
+ok_DOHL4_2013
+ok_DOHL4_2014
+ok_DOHL4_2015
+ok_DOHL4_2016
+ok_DOHL4_2017
+ok_DOHL4_2018
+ok_MNDL3_2010
+ok_MNDL3_2011
+ok_MNDL3_2012
+ok_MNDL3_2013
+ok_MNDL3_2014
+ok_MNDL3_2015
+ok_MNDL3_2016
+ok_MNDL3_2017
+ok_MNDL3_2018
+ok_WEGE3_2010
+ok_WEGE3_2011
+ok_WEGE3_2012
+ok_WEGE3_2013
+ok_WEGE3_2014
+ok_WEGE3_2015
+ok_WEGE3_2016
+ok_WEGE3_2017
+ok_WEGE3_2018
+ok_ETER3_2010
+ok_ETER3_2011
+ok_ETER3_2012
+ok_ETER3_2013
+ok_ETER3_2014
+ok_ETER3_2015
+ok_ETER3_2016
+ok_ETER3_2017
+ok_ETER3_2018
+ok_EUCA3_2010
+ok_EUCA3_2011
+ok_EUCA3_2012
+ok_EUCA3_2013
+ok_EUCA3_2014
+ok_EUCA3_2015
+ok_EUCA3_2016
+ok_EUCA3_2017
+ok_EUCA3_2018
+ok_EUCA4_2010
+ok_EUCA4_2011
+ok_EUCA4_2012
+ok_EUCA4_2013
+ok_EUCA4_2014
+ok_EUCA4_2015
+ok_EUCA4_2016
+ok_EUCA4_2017
+ok_EUCA4_2018
+ok_FJTA3_2010
+ok_FJTA3_2011
+ok_FJTA3_2012
+ok_FJTA3_2013
+ok_FJTA3_2014
+ok_FJTA3_2015
+ok_FJTA3_2016
+ok_FJTA3_2017
+ok_FJTA3_2018
+ok_FJTA4_2010
+ok_FJTA4_2011
+ok_FJTA4_2012
+ok_FJTA4_2013
+ok_FJTA4_2014
+ok_FJTA4_2015
+ok_FJTA4_2016
+ok_FJTA4_2017
+ok_FJTA4_2018
+ok_FJTA13_2010
+ok_FJTA13_2011
+ok_FJTA13_2012
+ok_FJTA13_2013
+ok_FJTA13_2014
+ok_FJTA13_2015
+ok_FJTA13_2016
+ok_FJTA13_2017
+ok_FJTA13_2018
+ok_FJTA15_2010
+ok_FJTA15_2011
+ok_FJTA15_2012
+ok_FJTA15_2013
+ok_FJTA15_2014
+ok_FJTA15_2015
+ok_FJTA15_2016
+ok_FJTA15_2017
+ok_FJTA15_2018
+ok_FJTA17_2010
+ok_FJTA17_2011
+ok_FJTA17_2012
+ok_FJTA17_2013
+ok_FJTA17_2014
+ok_FJTA17_2015
+ok_FJTA17_2016
+ok_FJTA17_2017
+ok_FJTA17_2018
+ok_FRAS3_2010
+ok_FRAS3_2011
+ok_FRAS3_2012
+ok_FRAS3_2013
+ok_FRAS3_2014
+ok_FRAS3_2015
+ok_FRAS3_2016
+ok_FRAS3_2017
+ok_FRAS3_2018
+ok_TUPY3_2010
+ok_TUPY3_2011
+ok_TUPY3_2012
+ok_TUPY3_2013
+ok_TUPY3_2014
+ok_TUPY3_2015
+ok_TUPY3_2016
+ok_TUPY3_2017
+ok_TUPY3_2018
+ok_VVAR3_2010
+ok_VVAR3_2011
+ok_VVAR3_2012
+ok_VVAR3_2013
+ok_VVAR3_2014
+ok_VVAR3_2015
+ok_VVAR3_2016
+ok_VVAR3_2017
+ok_VVAR3_2018
+ok_HOOT3_2010
+ok_HOOT3_2011
+ok_HOOT3_2012
+ok_HOOT3_2013
+ok_HOOT3_2014
+ok_HOOT3_2015
+ok_HOOT3_2016
+ok_HOOT3_2017
+ok_HOOT3_2018
+ok_HOOT4_2010
+ok_HOOT4_2011
+ok_HOOT4_2012
+ok_HOOT4_2013
+ok_HOOT4_2014
+ok_HOOT4_2015
+ok_HOOT4_2016
+ok_HOOT4_2017
+ok_HOOT4_2018
+ok_IGBR3_2010
+ok_IGBR3_2010
+ok_IGBR3_2011
+ok_IGBR3_2012
+ok_IGBR3_2013
+ok_IGBR3_2014
+ok_IGBR3_2015
+ok_IGBR3_2016
+ok_IGBR3_2017
+ok_IGBR3_2018
+ok_BAHI3_2010
+ok_BAHI3_2011
+ok_BAHI3_2012
+ok_BAHI3_2013
+ok_BAHI3_2017
+ok_BAHI3_2018
+ok_ROMI3_2010
+ok_ROMI3_2011
+ok_ROMI3_2012
+ok_ROMI3_2013
+ok_ROMI3_2014
+ok_ROMI3_2015
+ok_ROMI3_2016
+ok_ROMI3_2017
+ok_ROMI3_2018
+ok_TXRX3_2010
+ok_TXRX3_2011
+ok_TXRX3_2012
+ok_TXRX3_2013
+ok_TXRX3_2014
+ok_TXRX3_2015
+ok_TXRX3_2016
+ok_TXRX3_2017
+ok_TXRX3_2018
+ok_INEP3_2010
+ok_INEP3_2011
+ok_INEP3_2012
+ok_INEP3_2013
+ok_INEP3_2014
+ok_INEP3_2015
+ok_INEP3_2016
+ok_INEP3_2017
+ok_INEP4_2010
+ok_INEP4_2011
+ok_INEP4_2012
+ok_INEP4_2013
+ok_INEP4_2014
+ok_INEP4_2015
+ok_INEP4_2016
+ok_INEP4_2017
+ok_ITSA3_2010
+ok_ITSA3_2011
+ok_ITSA3_2012
+ok_ITSA3_2013
+ok_ITSA3_2014
+ok_ITSA3_2015
+ok_ITSA3_2016
+ok_ITSA3_2017
+ok_ITSA3_2018
+ok_ITSA4_2010
+ok_ITSA4_2011
+ok_ITSA4_2012
+ok_ITSA4_2013
+ok_ITSA4_2014
+ok_ITSA4_2015
+ok_ITSA4_2016
+ok_ITSA4_2017
+ok_ITSA4_2018
+ok_JFEN3_2010
+ok_JFEN3_2011
+ok_JFEN3_2012
+ok_JFEN3_2013
+ok_JFEN3_2014
+ok_JFEN3_2015
+ok_JFEN3_2016
+ok_JFEN3_2017
+ok_KEPL3_2010
+ok_KEPL3_2011
+ok_KEPL3_2012
+ok_KEPL3_2013
+ok_KEPL3_2014
+ok_KEPL3_2015
+ok_KEPL3_2016
+ok_KEPL3_2017
+ok_KEPL3_2018
+ok_KEPL11_2010
+ok_KEPL11_2011
+ok_KEPL11_2012
+ok_KEPL11_2013
+ok_KEPL11_2014
+ok_KEPL11_2015
+ok_KEPL11_2016
+ok_KEPL11_2017
+ok_KEPL11_2018
+ok_GPIV33_2010
+ok_GPIV33_2011
+ok_GPIV33_2012
+ok_GPIV33_2013
+ok_GPIV33_2014
+ok_GPIV33_2015
+ok_GPIV33_2016
+ok_GPIV33_2017
+ok_GPIV33_2018
+ok_WSON33_2010
+ok_WSON33_2011
+ok_WSON33_2012
+ok_WSON33_2013
+ok_WSON33_2014
+ok_WSON33_2015
+ok_WSON33_2016
+ok_WSON33_2017
+ok_WSON33_2018
+ok_LAME3_2010
+ok_LAME3_2011
+ok_LAME3_2012
+ok_LAME3_2013
+ok_LAME3_2014
+ok_LAME3_2015
+ok_LAME3_2016
+ok_LAME3_2017
+ok_LAME3_2018
+ok_LAME4_2010
+ok_LAME4_2011
+ok_LAME4_2012
+ok_LAME4_2013
+ok_LAME4_2014
+ok_LAME4_2015
+ok_LAME4_2016
+ok_LAME4_2017
+ok_LAME4_2018
+ok_LREN3_2010
+ok_LREN3_2011
+ok_LREN3_2012
+ok_LREN3_2013
+ok_LREN3_2014
+ok_LREN3_2015
+ok_LREN3_2016
+ok_LREN3_2017
+ok_LREN3_2018
+ok_LUXM3_2010
+ok_LUXM3_2011
+ok_LUXM3_2012
+ok_LUXM3_2013
+ok_LUXM3_2014
+ok_LUXM3_2015
+ok_LUXM3_2016
+ok_LUXM3_2017
+ok_LUXM3_2018
+ok_LUXM4_2010
+ok_LUXM4_2011
+ok_LUXM4_2012
+ok_LUXM4_2013
+ok_LUXM4_2014
+ok_LUXM4_2015
+ok_LUXM4_2016
+ok_LUXM4_2017
+ok_LUXM4_2018
+ok_MGEL3_2010
+ok_MGEL3_2011
+ok_MGEL3_2012
+ok_MGEL3_2013
+ok_MGEL3_2014
+ok_MGEL3_2015
+ok_MGEL3_2016
+ok_MGEL3_2017
+ok_MGEL3_2018
+ok_MGEL4_2010
+ok_MGEL4_2011
+ok_MGEL4_2012
+ok_MGEL4_2013
+ok_MGEL4_2014
+ok_MGEL4_2015
+ok_MGEL4_2016
+ok_MGEL4_2017
+ok_MGEL4_2018
+ok_ESTR3_2010
+ok_ESTR3_2011
+ok_ESTR3_2012
+ok_ESTR3_2013
+ok_ESTR3_2014
+ok_ESTR3_2015
+ok_ESTR3_2016
+ok_ESTR3_2017
+ok_ESTR3_2018
+ok_ESTR4_2010
+ok_ESTR4_2011
+ok_ESTR4_2012
+ok_ESTR4_2013
+ok_ESTR4_2014
+ok_ESTR4_2015
+ok_ESTR4_2016
+ok_ESTR4_2017
+ok_ESTR4_2018
+ok_POMO3_2010
+ok_POMO3_2011
+ok_POMO3_2012
+ok_POMO3_2013
+ok_POMO3_2014
+ok_POMO3_2015
+ok_POMO3_2016
+ok_POMO3_2017
+ok_POMO3_2018
+ok_POMO4_2010
+ok_POMO4_2011
+ok_POMO4_2012
+ok_POMO4_2013
+ok_POMO4_2014
+ok_POMO4_2015
+ok_POMO4_2016
+ok_POMO4_2017
+ok_POMO4_2018
+ok_LEVE3_2010
+ok_LEVE3_2011
+ok_LEVE3_2012
+ok_LEVE3_2013
+ok_LEVE3_2014
+ok_LEVE3_2015
+ok_LEVE3_2016
+ok_LEVE3_2017
+ok_LEVE3_2018
+ok_GOAU3_2010
+ok_GOAU3_2011
+ok_GOAU3_2012
+ok_GOAU3_2013
+ok_GOAU3_2014
+ok_GOAU3_2015
+ok_GOAU3_2016
+ok_GOAU3_2017
+ok_GOAU3_2018
+ok_GOAU4_2010
+ok_GOAU4_2011
+ok_GOAU4_2012
+ok_GOAU4_2013
+ok_GOAU4_2014
+ok_GOAU4_2015
+ok_GOAU4_2016
+ok_GOAU4_2017
+ok_GOAU4_2018
+ok_JPSA3_2010
+ok_JPSA3_2011
+ok_JPSA3_2012
+ok_JPSA3_2013
+ok_JPSA3_2014
+ok_JPSA3_2015
+ok_JPSA3_2016
+ok_JPSA3_2017
+ok_JPSA3_2018
+ok_MTSA3_2010
+ok_MTSA3_2011
+ok_MTSA3_2012
+ok_MTSA3_2013
+ok_MTSA3_2014
+ok_MTSA3_2015
+ok_MTSA3_2016
+ok_MTSA3_2017
+ok_MTSA3_2018
+ok_MTSA4_2010
+ok_MTSA4_2011
+ok_MTSA4_2012
+ok_MTSA4_2013
+ok_MTSA4_2014
+ok_MTSA4_2015
+ok_MTSA4_2016
+ok_MTSA4_2017
+ok_MTSA4_2018
+ok_MOAR3_2010
+ok_MOAR3_2011
+ok_MOAR3_2012
+ok_MOAR3_2013
+ok_MOAR3_2014
+ok_MOAR3_2015
+ok_MOAR3_2016
+ok_MOAR3_2017
+ok_MOAR3_2018
+ok_NAFG3_2010
+ok_NAFG3_2011
+ok_NAFG3_2012
+ok_NAFG3_2013
+ok_NAFG3_2014
+ok_NAFG3_2015
+ok_NAFG3_2016
+ok_NAFG3_2017
+ok_NAFG3_2018
+ok_NAFG4_2010
+ok_NAFG4_2011
+ok_NAFG4_2012
+ok_NAFG4_2013
+ok_NAFG4_2014
+ok_NAFG4_2015
+ok_NAFG4_2016
+ok_NAFG4_2017
+ok_NAFG4_2018
+ok_NEMO3_2010
+ok_NEMO3_2011
+ok_NEMO3_2012
+ok_NEMO3_2013
+ok_NEMO3_2014
+ok_NEMO3_2015
+ok_NEMO3_2016
+ok_NEMO3_2017
+ok_NEMO3_2018
+ok_NEMO5_2010
+ok_NEMO5_2011
+ok_NEMO5_2012
+ok_NEMO5_2013
+ok_NEMO5_2014
+ok_NEMO5_2015
+ok_NEMO5_2016
+ok_NEMO5_2017
+ok_NEMO5_2018
+ok_NEMO6_2010
+ok_NEMO6_2011
+ok_NEMO6_2012
+ok_NEMO6_2013
+ok_NEMO6_2014
+ok_NEMO6_2015
+ok_NEMO6_2016
+ok_NEMO6_2017
+ok_NEMO6_2018
+ok_BBDC3_2010
+ok_BBDC3_2011
+ok_BBDC3_2012
+ok_BBDC3_2013
+ok_BBDC3_2014
+ok_BBDC3_2015
+ok_BBDC3_2016
+ok_BBDC3_2017
+ok_BBDC3_2018
+ok_BBDC4_2010
+ok_BBDC4_2011
+ok_BBDC4_2012
+ok_BBDC4_2013
+ok_BBDC4_2014
+ok_BBDC4_2015
+ok_BBDC4_2016
+ok_BBDC4_2017
+ok_BBDC4_2018
+ok_PNVL3_2010
+ok_PNVL3_2011
+ok_PNVL3_2012
+ok_PNVL3_2013
+ok_PNVL3_2014
+ok_PNVL3_2015
+ok_PNVL3_2016
+ok_PNVL3_2017
+ok_PNVL3_2018
+ok_PNVL4_2010
+ok_PNVL4_2011
+ok_PNVL4_2012
+ok_PNVL4_2013
+ok_PNVL4_2014
+ok_PNVL4_2015
+ok_PNVL4_2016
+ok_PNVL4_2017
+ok_PNVL4_2018
+ok_PMAM3_2010
+ok_PMAM3_2011
+ok_PMAM3_2012
+ok_PMAM3_2013
+ok_PMAM3_2014
+ok_PMAM3_2015
+ok_PMAM3_2016
+ok_PMAM3_2017
+ok_PMAM3_2018
+ok_PATI3_2010
+ok_PATI3_2011
+ok_PATI3_2012
+ok_PATI3_2013
+ok_PATI3_2014
+ok_PATI3_2015
+ok_PATI3_2016
+ok_PATI3_2017
+ok_PATI3_2018
+ok_PATI4_2010
+ok_PATI4_2011
+ok_PATI4_2012
+ok_PATI4_2013
+ok_PATI4_2014
+ok_PATI4_2015
+ok_PATI4_2016
+ok_PATI4_2017
+ok_PATI4_2018
+ok_PETR3_2010
+ok_PETR3_2011
+ok_PETR3_2012
+ok_PETR3_2013
+ok_PETR3_2014
+ok_PETR3_2015
+ok_PETR3_2016
+ok_PETR3_2017
+ok_PETR3_2018
+ok_PETR4_2010
+ok_PETR4_2011
+ok_PETR4_2012
+ok_PETR4_2013
+ok_PETR4_2014
+ok_PETR4_2015
+ok_PETR4_2016
+ok_PETR4_2017
+ok_PETR4_2018
+ok_RPAD3_2010
+ok_RPAD3_2011
+ok_RPAD3_2012
+ok_RPAD5_2010
+ok_RPAD5_2011
+ok_RPAD5_2012
+ok_RPAD6_2010
+ok_RPAD6_2011
+ok_RPAD6_2012
+ok_RPMG3_2010
+ok_RPMG3_2011
+ok_RPMG3_2012
+ok_RPMG3_2013
+ok_RPMG3_2014
+ok_RPMG3_2015
+ok_RPMG3_2016
+ok_RPMG3_2017
+ok_ADHM3_2011
+ok_ADHM3_2012
+ok_ADHM3_2013
+ok_ADHM3_2014
+ok_ADHM3_2015
+ok_ADHM3_2016
+ok_ADHM3_2017
+ok_ADHM3_2018
+ok_ARZZ3_2010
+ok_ARZZ3_2011
+ok_ARZZ3_2012
+ok_ARZZ3_2013
+ok_ARZZ3_2014
+ok_ARZZ3_2015
+ok_ARZZ3_2016
+ok_ARZZ3_2017
+ok_ARZZ3_2018
+ok_SSBR3_2010
+ok_SSBR3_2011
+ok_SSBR3_2012
+ok_SSBR3_2013
+ok_SSBR3_2014
+ok_SSBR3_2015
+ok_SSBR3_2016
+ok_SSBR3_2017
+ok_SSBR3_2018
+ok_ENAT3_2010
+ok_ENAT3_2011
+ok_ENAT3_2012
+ok_ENAT3_2013
+ok_ENAT3_2014
+ok_ENAT3_2015
+ok_ENAT3_2016
+ok_ENAT3_2017
+ok_ENAT3_2018
+ok_SHOW3_2010
+ok_SHOW3_2011
+ok_SHOW3_2012
+ok_SHOW3_2013
+ok_SHOW3_2014
+ok_SHOW3_2015
+ok_SHOW3_2016
+ok_SHOW3_2017
+ok_SHOW3_2018
+ok_MGLU3_2010
+ok_MGLU3_2011
+ok_MGLU3_2012
+ok_MGLU3_2013
+ok_MGLU3_2014
+ok_MGLU3_2015
+ok_MGLU3_2016
+ok_MGLU3_2017
+ok_MGLU3_2018
+ok_QUAL3_2010
+ok_QUAL3_2011
+ok_QUAL3_2012
+ok_QUAL3_2013
+ok_QUAL3_2014
+ok_QUAL3_2015
+ok_QUAL3_2016
+ok_QUAL3_2017
+ok_QUAL3_2018
+ok_BPHA3_2010
+ok_BPHA3_2011
+ok_BPHA3_2012
+ok_BPHA3_2013
+ok_BPHA3_2014
+ok_BPHA3_2015
+ok_BPHA3_2016
+ok_BPHA3_2017
+ok_BPHA3_2018
+ok_TECN3_2010
+ok_TECN3_2011
+ok_TECN3_2012
+ok_TECN3_2013
+ok_TECN3_2014
+ok_TECN3_2015
+ok_TECN3_2016
+ok_TECN3_2017
+ok_TECN3_2018
+ok_SEDU3_2010
+ok_SEDU3_2011
+ok_SEDU3_2012
+ok_SEDU3_2013
+ok_SEDU3_2014
+ok_SEDU3_2015
+ok_SEDU3_2016
+ok_SEDU3_2017
+ok_SEDU3_2018
+ok_STKF3_2010
+ok_STKF3_2011
+ok_STKF3_2012
+ok_STKF3_2013
+ok_STKF3_2014
+ok_STKF3_2015
+ok_STKF3_2016
+ok_STKF3_2017
+ok_STKF3_2018
+ok_BPAC11_2011
+ok_BPAC11_2012
+ok_BPAC11_2013
+ok_BPAC11_2014
+ok_BPAC11_2015
+ok_BPAC11_2016
+ok_BPAC11_2017
+ok_BPAC11_2018
+ok_BPAC3_2011
+ok_BPAC3_2012
+ok_BPAC3_2013
+ok_BPAC3_2014
+ok_BPAC3_2015
+ok_BPAC3_2016
+ok_BPAC3_2017
+ok_BPAC3_2018
+ok_BPAC5_2011
+ok_BPAC5_2012
+ok_BPAC5_2013
+ok_BPAC5_2014
+ok_BPAC5_2015
+ok_BPAC5_2016
+ok_BPAC5_2017
+ok_BPAC5_2018
+ok_RADL3_2011
+ok_RADL3_2012
+ok_RADL3_2013
+ok_RADL3_2015
+ok_RADL3_2016
+ok_RADL3_2017
+ok_RADL3_2018
+ok_HAGA3_2012
+ok_HAGA3_2013
+ok_HAGA3_2014
+ok_HAGA3_2015
+ok_HAGA3_2016
+ok_HAGA3_2017
+ok_HAGA3_2018
+ok_HAGA4_2012
+ok_HAGA4_2013
+ok_HAGA4_2014
+ok_HAGA4_2015
+ok_HAGA4_2016
+ok_HAGA4_2017
+ok_HAGA4_2018
+ok_CCXC3_2012
+ok_CCXC3_2013
+ok_CCXC3_2014
+ok_CCXC3_2015
+ok_CCXC3_2016
+ok_CCXC3_2017
+ok_CCXC3_2018
+ok_NUTR3_2012
+ok_NUTR3_2013
+ok_NUTR3_2014
+ok_NUTR3_2015
+ok_NUTR3_2016
+ok_NUTR3_2017
+ok_NUTR3_2018
+ok_LCAM3_2010
+ok_LCAM3_2011
+ok_LCAM3_2012
+ok_LCAM3_2013
+ok_LCAM3_2014
+ok_LCAM3_2017
+ok_LCAM3_2018
+ok_SQIA3_2011
+ok_SQIA3_2012
+ok_SQIA3_2013
+ok_SQIA3_2014
+ok_SQIA3_2015
+ok_SQIA3_2016
+ok_SQIA3_2017
+ok_SQIA3_2018
+ok_BPAT33_2012
+ok_BPAT33_2013
+ok_BPAT33_2014
+ok_BPAT33_2015
+ok_BPAT33_2016
+ok_BPAT33_2017
+ok_BPAT33_2018
+ok_PPLA11_2011
+ok_PPLA11_2012
+ok_PPLA11_2013
+ok_PPLA11_2014
+ok_PPLA11_2015
+ok_TCNO3_2013
+ok_TCNO3_2014
+ok_TCNO3_2015
+ok_TCNO3_2016
+ok_TCNO3_2017
+ok_TCNO3_2018
+ok_TCNO4_2013
+ok_TCNO4_2014
+ok_TCNO4_2015
+ok_TCNO4_2016
+ok_TCNO4_2017
+ok_TCNO4_2018
+ok_CSAN3_2013
+ok_CSAN3_2014
+ok_CSAN3_2015
+ok_CSAN3_2016
+ok_CSAN3_2017
+ok_CSAN3_2018
+ok_ALUP11_2010
+ok_ALUP11_2011
+ok_ALUP11_2012
+ok_ALUP11_2013
+ok_ALUP11_2014
+ok_ALUP11_2015
+ok_ALUP11_2016
+ok_ALUP11_2017
+ok_ALUP11_2018
+ok_ALUP3_2010
+ok_ALUP3_2011
+ok_ALUP3_2012
+ok_ALUP3_2013
+ok_ALUP3_2014
+ok_ALUP3_2015
+ok_ALUP3_2016
+ok_ALUP3_2017
+ok_ALUP3_2018
+ok_ALUP4_2010
+ok_ALUP4_2011
+ok_ALUP4_2012
+ok_ALUP4_2013
+ok_ALUP4_2014
+ok_ALUP4_2015
+ok_ALUP4_2016
+ok_ALUP4_2017
+ok_ALUP4_2018
+ok_UCAS3_2013
+ok_UCAS3_2014
+ok_UCAS3_2015
+ok_UCAS3_2016
+ok_UCAS3_2017
+ok_UCAS3_2018
+ok_LINX3_2011
+ok_LINX3_2012
+ok_LINX3_2013
+ok_LINX3_2014
+ok_LINX3_2015
+ok_LINX3_2016
+ok_LINX3_2017
+ok_LINX3_2018
+ok_BBSE3_2012
+ok_BBSE3_2013
+ok_BBSE3_2014
+ok_BBSE3_2015
+ok_BBSE3_2016
+ok_BBSE3_2017
+ok_BBSE3_2018
+ok_IGSN3_2012
+ok_IGSN3_2013
+ok_IGSN3_2014
+ok_IGSN3_2015
+ok_IGSN3_2016
+ok_IGSN3_2017
+ok_IGSN3_2018
+ok_SEER3_2011
+ok_SEER3_2013
+ok_SEER3_2014
+ok_SEER3_2015
+ok_SEER3_2016
+ok_SEER3_2017
+ok_SEER3_2018
+ok_ANIM3_2012
+ok_ANIM3_2013
+ok_ANIM3_2014
+ok_ANIM3_2015
+ok_ANIM3_2016
+ok_ANIM3_2017
+ok_ANIM3_2018
+ok_ABEV3_2013
+ok_ABEV3_2014
+ok_ABEV3_2015
+ok_ABEV3_2016
+ok_ABEV3_2017
+ok_ABEV3_2018
+ok_CVCB3_2012
+ok_CVCB3_2013
+ok_CVCB3_2014
+ok_CVCB3_2015
+ok_CVCB3_2016
+ok_CVCB3_2017
+ok_CVCB3_2018
+ok_TELB3_2014
+ok_TELB3_2015
+ok_TELB3_2016
+ok_TELB4_2014
+ok_TELB4_2015
+ok_TELB4_2016
+ok_RLOG3_2013
+ok_RLOG3_2014
+ok_RLOG3_2015
+ok_RLOG3_2016
+ok_RLOG3_2017
+ok_RLOG3_2018
+ok_DMMO3_2013
+ok_DMMO3_2014
+ok_DMMO3_2015
+ok_DMMO3_2016
+ok_DMMO3_2017
+ok_DMMO3_2018
+ok_DMMO11_2013
+ok_DMMO11_2014
+ok_DMMO11_2015
+ok_DMMO11_2016
+ok_DMMO11_2017
+ok_DMMO11_2018
+ok_OFSA3_2014
+ok_OFSA3_2015
+ok_OFSA3_2016
+ok_OFSA3_2017
+ok_OFSA3_2018
+ok_EEEL3_2014
+ok_EEEL3_2015
+ok_EEEL3_2016
+ok_EEEL3_2017
+ok_EEEL3_2018
+ok_EEEL4_2014
+ok_EEEL4_2015
+ok_EEEL4_2016
+ok_EEEL4_2017
+ok_EEEL4_2018
+ok_JBDU11_2015
+ok_JBDU11_2016
+ok_JBDU11_2017
+ok_JBDU12_2015
+ok_JBDU12_2016
+ok_JBDU12_2017
+ok_JBDU3_2015
+ok_JBDU3_2016
+ok_JBDU3_2017
+ok_JBDU4_2015
+ok_JBDU4_2016
+ok_JBDU4_2017
+ok_GEPA3_2015
+ok_GEPA3_2016
+ok_GEPA3_2017
+ok_GEPA3_2018
+ok_GEPA4_2015
+ok_GEPA4_2016
+ok_GEPA4_2017
+ok_GEPA4_2018
+ok_QUSW3_2015
+ok_QUSW3_2016
+ok_QUSW3_2017
+ok_QUSW3_2018
+ok_MEAL3_2011
+ok_MEAL3_2012
+ok_MEAL3_2013
+ok_MEAL3_2014
+ok_MEAL3_2015
+ok_MEAL3_2016
+ok_MEAL3_2017
+ok_MEAL3_2018
+ok_WIZS3_2014
+ok_WIZS3_2015
+ok_WIZS3_2016
+ok_WIZS3_2017
+ok_WIZS3_2018
+ok_HCBR3_2014
+ok_HCBR3_2015
+ok_HCBR3_2016
+ok_HCBR3_2017
+ok_HCBR3_2018
+ok_HCBR1_2014
+ok_HCBR1_2015
+ok_HCBR1_2016
+ok_HCBR1_2017
+ok_HCBR1_2018
+ok_AHEB3_2015
+ok_AHEB5_2015
+ok_AHEB6_2015
+ok_CBSC-CRA12B0_2010
+ok_CBSC-CRA12B0_2011
+ok_CBSC-CRA12B0_2012
+ok_CBSC-CRA12B0_2013
+ok_CBSC-CRA12B0_2014
+ok_CBSC-CRA12B0_2015
+ok_CBSC-CRA12B0_2016
+ok_CBSC-CRA12B0_2017
+ok_CBSC-CRA12B0_2018
+ok_CBSC-CRA19B0_2010
+ok_CBSC-CRA19B0_2011
+ok_CBSC-CRA19B0_2012
+ok_CBSC-CRA19B0_2013
+ok_CBSC-CRA19B0_2014
+ok_CBSC-CRA19B0_2015
+ok_CBSC-CRA19B0_2016
+ok_CBSC-CRA19B0_2017
+ok_CBSC-CRA19B0_2018
+ok_CBSC-CRA1AB0_2010
+ok_CBSC-CRA1AB0_2011
+ok_CBSC-CRA1AB0_2012
+ok_CBSC-CRA1AB0_2013
+ok_CBSC-CRA1AB0_2014
+ok_CBSC-CRA1AB0_2015
+ok_CBSC-CRA1AB0_2016
+ok_CBSC-CRA1AB0_2017
+ok_CBSC-CRA1AB0_2018
+ok_CBSC-CRA1BB0_2010
+ok_CBSC-CRA1BB0_2011
+ok_CBSC-CRA1BB0_2012
+ok_CBSC-CRA1BB0_2013
+ok_CBSC-CRA1BB0_2014
+ok_CBSC-CRA1BB0_2015
+ok_CBSC-CRA1BB0_2016
+ok_CBSC-CRA1BB0_2017
+ok_CBSC-CRA1BB0_2018
+ok_CBSC-CRA21B0_2010
+ok_CBSC-CRA21B0_2011
+ok_CBSC-CRA21B0_2012
+ok_CBSC-CRA21B0_2013
+ok_CBSC-CRA21B0_2014
+ok_CBSC-CRA21B0_2015
+ok_CBSC-CRA21B0_2016
+ok_CBSC-CRA21B0_2017
+ok_CBSC-CRA21B0_2018
+ok_BRQB3_2014
+ok_BRQB3_2015
+ok_BRQB3_2016
+ok_BRQB3_2017
+ok_BRQB3_2018
+ok_CNSY3_2015
+ok_CNSY3_2016
+ok_CNSY3_2017
+ok_CNSY3_2018
+ok_AALR3_2015
+ok_AALR3_2016
+ok_AALR3_2017
+ok_AALR3_2018
+ok_ATOM3_2017
+ok_ATOM3_2018
+ok_OMGE3_2013
+ok_OMGE3_2014
+ok_OMGE3_2015
+ok_OMGE3_2016
+ok_OMGE3_2017
+ok_OMGE3_2018
+ok_MOVI3_2014
+ok_MOVI3_2015
+ok_MOVI3_2016
+ok_MOVI3_2017
+ok_MOVI3_2018
+ok_PARD3_2016
+ok_PARD3_2017
+ok_PARD3_2018
+ok_AZUL4_2016
+ok_AZUL4_2017
+ok_AZUL4_2018
+ok_CRFB3_2016
+ok_CRFB3_2017
+ok_CRFB3_2018
+ok_IRBR3_2016
+ok_IRBR3_2017
+ok_IRBR3_2018
+ok_STTR3_2016
+ok_STTR3_2017
+ok_STTR3_2018
+ok_PRNR3_2016
+ok_PRNR3_2017
+ok_PRNR3_2018
+ok_SMLS3_2017
+ok_SMLS3_2018
+ok_BKBR3_2016
+ok_BKBR3_2017
+ok_BKBR3_2018
+ok_GBIO33_2016
+ok_GBIO33_2017
+ok_GBIO33_2018
+ok_LOGG3_2012
+ok_LOGG3_2013
+ok_LOGG3_2014
+ok_LOGG3_2015
+ok_LOGG3_2016
+ok_LOGG3_2017
+ok_LOGG3_2018
+ok_MSRO3_2018
+ok_SMFT11_2016
+ok_SMFT11_2017
+ok_SMFT11_2018
+ok_SMFT12_2016
+ok_SMFT12_2017
+ok_SMFT12_2018
+ok_SMFT13_2016
+ok_SMFT13_2017
+ok_SMFT13_2018
+ok_SMFT14_2016
+ok_SMFT14_2017
+ok_SMFT14_2018
+ok_SMFT15_2016
+ok_SMFT15_2017
+ok_SMFT15_2018
+ok_SMFT3_2016
+ok_SMFT3_2017
+ok_SMFT3_2018
+ok_SMFT6_2016
+ok_SMFT6_2017
+ok_SMFT6_2018
+ok_INNT3_2018
+ok_FLEX3_2016
+ok_FLEX3_2017
+ok_FLEX3_2018
+ok_GNDI3_2017
+ok_GNDI3_2018
+ok_HAPV3_2017
+ok_HAPV3_2018
+ok_BIDI4_2017
+ok_BIDI4_2018
+ok_PTCA11_2017
+ok_PTCA11_2018
+ok_PTCA3_2017
+ok_PTCA3_2018
+ok_EALT3_2018
+ok_EALT4_2018
